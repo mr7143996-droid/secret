@@ -1,0 +1,12445 @@
+<!doctype html>
+<html lang="fa-IR" dir="rtl" data-theme="dark">
+    <head>
+        <title data-react-helmet="true">دیوار تهران - آگهی های رایگان خرید، فروش و استخدام | دیوار</title>
+        <meta data-react-helmet="true" name="viewport" content="width=992, initial-scale=1"/>
+        <meta data-react-helmet="true" name="description" content="در دیوار تهران، بهترین آگهی‌های رایگان خرید، فروش و استخدام را پیدا کنید. به سادگی نیازمندی‌های خود را جستجو کنید و فرصت‌های جدید را کشف کنید."/>
+        <meta data-react-helmet="true" name="twitter:card" content="summary"/>
+        <meta data-react-helmet="true" name="twitter:site" content="@divar_official"/>
+        <meta data-react-helmet="true" name="twitter:url" content="https://divar.ir/s/tehran"/>
+        <meta data-react-helmet="true" name="twitter:title" content="دیوار تهران - آگهی های رایگان خرید، فروش و استخدام | دیوار"/>
+        <meta data-react-helmet="true" name="twitter:description" content="در دیوار تهران، بهترین آگهی‌های رایگان خرید، فروش و استخدام را پیدا کنید. به سادگی نیازمندی‌های خود را جستجو کنید و فرصت‌های جدید را کشف کنید."/>
+        <meta data-react-helmet="true" name="twitter:image" content="https://s100.divarcdn.com/static/thewall-assets/android-chrome-512x512.png"/>
+        <meta data-react-helmet="true" name="twitter:creator" content="سایت دیوار"/>
+        <meta data-react-helmet="true" property="og:site_name" content="سایت دیوار"/>
+        <meta data-react-helmet="true" property="og:type" content="product"/>
+        <meta data-react-helmet="true" property="og:url" content="https://divar.ir/s/tehran"/>
+        <meta data-react-helmet="true" property="og:title" content="دیوار تهران - آگهی های رایگان خرید، فروش و استخدام | دیوار"/>
+        <meta data-react-helmet="true" property="og:description" content="در دیوار تهران، بهترین آگهی‌های رایگان خرید، فروش و استخدام را پیدا کنید. به سادگی نیازمندی‌های خود را جستجو کنید و فرصت‌های جدید را کشف کنید."/>
+        <meta data-react-helmet="true" property="og:image" content="https://s100.divarcdn.com/static/thewall-assets/android-chrome-512x512.png"/>
+        <meta data-react-helmet="true" property="og:locale" content="fa_IR"/>
+        <meta data-react-helmet="true" name="robots" content="INDEX,FOLLOW"/>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="format-detection" content="telephone=no"/>
+        <meta name="referrer" content="strict-origin-when-cross-origin"/>
+        <link rel="preconnect" href="https://s100.divarcdn.com"/>
+        <link rel="preconnect" href="https://a-banners.divarcdn.com"/>
+        <link rel="dns-prefetch" href="https://s100.divarcdn.com">
+        <link rel="dns-prefetch" href="https://a-banners.divarcdn.com">
+        <link rel="preload" as="fetch" crossorigin="anonymous" href=https://s100.divarcdn.com/static/public/search/filters-config.json?version&#x3D;1.0>
+        <link rel="preload" as="fetch" crossorigin="anonymous" href=https://map.divarcdn.com/places-web.json>
+        <link data-chunk="main" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/runtime.340b1859.desktop.js">
+        <link data-chunk="main" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/polyfills.0d711bec.desktop.js">
+        <link data-chunk="main" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/vendors.3c557095.desktop.js">
+        <link data-chunk="main" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/main.cfe342eb.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/framework-774.3215072a.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/khesht-668.e91d5345.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/widget-base-348.23aa608d.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/components-160.10b30a45.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/utils-493.46d33576.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/services-894.48bb2c1f.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/store-119.6af079f9.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/per-localization-867.91d3a957.desktop.js">
+        <link data-chunk="bootstrap" rel="modulepreload" as="script" href="https://s100.divarcdn.com/web-assets/2025/10/bootstrap-672.28176fdc.desktop.js">
+        <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+        <link rel="search" type="application/opensearchdescription+xml" title="Divar" href="/opensearch.xml"/>
+        <link rel="apple-touch-icon" sizes="180x180" href="https://s100.divarcdn.com/static/thewall-assets/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://s100.divarcdn.com/static/thewall-assets/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://s100.divarcdn.com/static/thewall-assets/favicon-16x16.png">
+        <link rel="mask-icon" href="https://s100.divarcdn.com/static/thewall-assets/safari-pinned-tab.svg" color="#a62626">
+        <meta name="color-scheme" content="only light">
+        <meta name="theme-color" media="(prefers-color-scheme: light)" content="#fafafa"/>
+        <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#242424"/>
+        <link rel="publisher" href="https://plus.google.com/+DivarIr">
+        <link data-react-helmet="true" rel="apple-touch-icon" href="https://s100.divarcdn.com/static/thewall-assets/android-chrome-512x512.png"/>
+        <link data-react-helmet="true" rel="android-touch-icon" href="https://s100.divarcdn.com/static/thewall-assets/android-chrome-512x512.png"/>
+        <link data-react-helmet="true" href="https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb.cdb118d6.woff2" type="font/woff2" as="font" rel="preload" crossOrigin="anonymous"/>
+        <link data-react-helmet="true" href="https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Medium.9f338149.woff2" type="font/woff2" as="font" rel="preload" crossOrigin="anonymous"/>
+        <link data-react-helmet="true" rel="canonical" href="https://divar.ir/s/tehran"/>
+        <link data-react-helmet="true" rel="next" href="https://divar.ir/s/tehran?page=1"/>
+        <link data-react-helmet="true" rel="prev" href="https://divar.ir/s/tehran"/>
+        <style type="text/css">
+            /* main-179.dd0436cf.desktop.css */
+            :root {
+                --black: #000;
+                --brand: #a62626;
+                --white: #fff;
+                --gray: #030303;
+                --message: #f0faff;
+                --error: red;
+                --warning: #e65100;
+                --tertiary: #2670c1;
+                --success-primary: #2e7d32;
+                --success-secondary: #7cb342;
+                --success-divider: rgba(46,125,50,0.12);
+                --blue-800: #0c69d4;
+                --blue-outline: #39f;
+                --warning-primary: #e65100;
+                --warning-hint: rgba(230,81,0,0.12);
+                --warning-secondary: #fbc02d;
+                --warning-secondary-hint: rgba(251,192,45,0.12);
+                --message-primary: #f0faff;
+                --message-secondary: #dbf3ff;
+                --message-opposite-primary: #f5f5f5;
+                --message-opposite-secondary: #e6e6e6;
+                --message-hint: rgba(240,250,255,0.32);
+                --error-primary: red;
+                --error-hint: rgba(255,0,0,0.08);
+                --white-primary: #fff;
+                --white-nav: hsla(0,0%,100%,0.98);
+                --white-secondary: hsla(0,0%,100%,0.7);
+                --white-hint: hsla(0,0%,100%,0.5);
+                --white-divider: hsla(0,0%,100%,0.12);
+                --transparent: hsla(0,0%,100%,0.01);
+                --black-primary: rgba(0,0,0,0.87);
+                --black-secondary: rgba(0,0,0,0.56);
+                --black-dark-100: rgba(0,0,0,0.48);
+                --black-hint: rgba(0,0,0,0.32);
+                --black-medium-200: rgba(0,0,0,0.24);
+                --black-medium-100: rgba(0,0,0,0.16);
+                --black-divider: rgba(0,0,0,0.12);
+                --black-light-200: rgba(0,0,0,0.08);
+                --black-light-100: rgba(0,0,0,0.04);
+                --black-press: rgba(0,0,0,0.6);
+                --black-tooltip: #292929;
+                --black-hover: rgba(31,31,31,0.56);
+                --gray-900: #242424;
+                --gray-850: #383838;
+                --gray-800: #404040;
+                --gray-750: #545454;
+                --gray-400: #bdbdbd;
+                --gray-200: #e6e6e6;
+                --gray-100: #f5f5f5;
+                --gray-50: #fafafa;
+                --brand-primary: #a62626;
+                --brand-secondary: rgba(166,38,38,0.56);
+                --brand-hint: rgba(166,38,38,0.32);
+                --brand-medium-200: rgba(166,38,38,0.24);
+                --brand-medium-100: rgba(166,38,38,0.16);
+                --brand-divider: rgba(166,38,38,0.12);
+                --brand-light-200: rgba(166,38,38,0.08);
+                --brand-light-100: rgba(166,38,38,0.04);
+                --brand-hover: #be3737;
+                --brand-press: #9d1b1b;
+                --blue-primary: #2670c1;
+                --blue-secondary: rgba(38,112,193,0.56);
+                --blue-hint: rgba(38,112,193,0.32);
+                --blue-medium-200: rgba(38,112,193,0.24);
+                --blue-medium-100: rgba(38,112,193,0.16);
+                --blue-divider: rgba(38,112,193,0.12);
+                --blue-light-200: rgba(38,112,193,0.08);
+                --blue-light-100: rgba(38,112,193,0.04);
+                --blue-hover: #4085ce;
+                --blue-press: #1a66b7;
+                --card-overlay: rgba(0,0,0,0.64);
+                --semantic-warning-hint: #fceae0;
+                --semantic-warning-primary: #e96820;
+                --dimmer-light: rgba(0,0,0,0.08);
+                --dimmer-dark: rgba(0,0,0,0.24);
+                --dimmer-darker: rgba(0,0,0,0.48);
+                --dimmer-black-primary: rgba(0,0,0,0.56);
+                --static-white: #fff;
+            }
+
+            [data-theme=dark] {
+                --black: #fff;
+                --brand: #d14757;
+                --white: #242424;
+                --gray: #fafafa;
+                --message: #545454;
+                --error: #ff8a80;
+                --warning: #ff9800;
+                --tertiary: #658ecf;
+                --success-primary: #66bb6a;
+                --success-secondary: #aed581;
+                --success-divider: hsla(88,50%,67%,0.4);
+                --blue-800: #1556d0;
+                --blue-outline: #339cff;
+                --warning-primary: #ff9800;
+                --warning-hint: rgba(230,81,0,0.4);
+                --warning-secondary: #fdd835;
+                --warning-secondary-hint: rgba(253,216,53,0.4);
+                --message-primary: #545454;
+                --message-secondary: #383838;
+                --message-opposite-primary: #4d4d4d;
+                --message-opposite-secondary: #595959;
+                --message-hint: rgba(84,84,84,0.32);
+                --error-primary: #ff8a80;
+                --error-hint: hsla(5,100%,75%,0.4);
+                --white-primary: #242424;
+                --white-nav: rgba(36,36,36,0.98);
+                --white-secondary: rgba(0,0,0,0.7);
+                --white-hint: rgba(0,0,0,0.5);
+                --white-divider: rgba(0,0,0,0.12);
+                --transparent: rgba(0,0,0,0.01);
+                --black-primary: hsla(0,0%,100%,0.87);
+                --black-secondary: hsla(0,0%,100%,0.56);
+                --black-dark-100: hsla(0,0%,100%,0.48);
+                --black-hint: hsla(0,0%,100%,0.32);
+                --black-medium-200: hsla(0,0%,100%,0.24);
+                --black-medium-100: hsla(0,0%,100%,0.16);
+                --black-divider: hsla(0,0%,100%,0.12);
+                --black-light-200: hsla(0,0%,100%,0.08);
+                --black-light-100: hsla(0,0%,100%,0.04);
+                --black-press: hsla(0,0%,100%,0.6);
+                --black-tooltip: #fff;
+                --black-hover: hsla(0,0%,100%,0.8);
+                --gray-900: #fafafa;
+                --gray-850: #f2f2f2;
+                --gray-800: #e6e6e6;
+                --gray-750: #ccc;
+                --gray-400: #666;
+                --gray-200: #4d4d4d;
+                --gray-100: #404040;
+                --gray-50: #333;
+                --brand-primary: #d14757;
+                --brand-secondary: rgba(209,71,87,0.56);
+                --brand-hint: rgba(209,71,87,0.32);
+                --brand-medium-200: rgba(209,71,87,0.24);
+                --brand-medium-100: rgba(209,71,87,0.16);
+                --brand-divider: rgba(209,71,87,0.12);
+                --brand-light-200: rgba(209,71,87,0.08);
+                --brand-light-100: rgba(209,71,87,0.04);
+                --brand-hover: #db707d;
+                --brand-press: #b82e3e;
+                --blue-primary: #658ecf;
+                --blue-secondary: rgba(101,142,207,0.56);
+                --blue-hint: rgba(115,167,251,0.32);
+                --blue-medium-200: rgba(101,142,207,0.24);
+                --blue-medium-100: rgba(101,142,207,0.16);
+                --blue-divider: rgba(101,142,207,0.12);
+                --blue-light-200: rgba(101,142,207,0.08);
+                --blue-light-100: rgba(101,142,207,0.04);
+                --blue-hover: #8aa9db;
+                --blue-press: #305a9c;
+                --card-overlay: rgba(0,0,0,0.64);
+                --semantic-warning-hint: #422800;
+                --semantic-warning-primary: #ff9800;
+                --dimmer-light: rgba(0,0,0,0.24);
+                --dimmer-dark: rgba(0,0,0,0.32);
+                --dimmer-darker: rgba(0,0,0,0.48);
+                --dimmer-black-primary: rgba(0,0,0,0.56);
+                --static-white: #fff;
+            }
+
+            :root {
+                --surface-primary: #fff;
+                --surface-secondary: #f4f4f5;
+                --surface-tertiary: #e4e4e7;
+                --surface-inverted-primary: #2c2c30;
+                --surface-inverted-secondary: #52525b;
+                --surface-inverted-tertiary: #a1a1aa;
+                --surface-informative-primary: #3062d4;
+                --surface-informative-secondary: #99b7f7;
+                --surface-informative-tertiary: #d7e4ff;
+                --surface-informative-quaternary: #e5eeff;
+                --surface-positive-primary: #1d7c4d;
+                --surface-positive-secondary: #75cc9e;
+                --surface-positive-tertiary: #c6f1da;
+                --surface-positive-quaternary: #d8f8e7;
+                --surface-warning-primary: #e68f38;
+                --surface-warning-secondary: #feb872;
+                --surface-warning-tertiary: #fcdec0;
+                --surface-warning-quaternary: #ffe8d1;
+                --surface-negative-primary: #c53434;
+                --surface-negative-secondary: #f49090;
+                --surface-negative-tertiary: #fcd9d9;
+                --surface-negative-quaternary: #fee6e6;
+                --surface-brand-primary: #d10f0f;
+                --surface-brand-secondary: #e88787;
+                --surface-brand-tertiary: #fcc9c9;
+                --surface-brand-quaternary: #fae7e7;
+                --surface-accent-primary: #ffb200;
+                --surface-accent-secondary: #ffc94d;
+                --surface-accent-tertiary: #ffe8b3;
+                --surface-accent-quaternary: #fff5e1;
+                --surface-dimmer-primary: rgba(0,0,0,0.32);
+                --surface-dimmer-secondary: rgba(0,0,0,0.64);
+                --surface-dimmer-inverted-primary: hsla(0,0%,100%,0.32);
+                --surface-dimmer-inverted-secondary: hsla(0,0%,100%,0.64);
+                --surface-dimmer-brand-primary: rgba(209,15,15,0.16);
+                --surface-dimmer-brand-secondary: rgba(209,15,15,0.32);
+                --content-primary: #2c2c30;
+                --content-secondary: #71717a;
+                --content-tertiary: #a1a1aa;
+                --content-quaternary: #dbdbe4;
+                --content-inverted-primary: #fff;
+                --content-inverted-secondary: #f4f4f5;
+                --content-inverted-tertiary: #dbdbe4;
+                --content-inverted-quaternary: #a1a1aa;
+                --content-on-brand: #fff;
+                --content-informative-primary: #3062d4;
+                --content-informative-secondary: #6792f4;
+                --content-positive-primary: #1d7c4d;
+                --content-positive-secondary: #4aa578;
+                --content-warning-primary: #d86f06;
+                --content-warning-secondary: #f6a351;
+                --content-negative-primary: #c53434;
+                --content-negative-secondary: #f26464;
+                --content-brand-primary: #d10f0f;
+                --content-brand-secondary: #df5757;
+                --content-brand-tertiary: #fcc9c9;
+                --content-brand-inverted: #e88787;
+                --border-primary: #71717a;
+                --border-secondary: #a1a1aa;
+                --border-tertiary: #dbdbe4;
+                --border-inverted-primary: #fff;
+                --border-informative-primary: #3062d4;
+                --border-informative-secondary: #99b7f7;
+                --border-informative-tertiary: #cdddff;
+                --border-positive-primary: #1d7c4d;
+                --border-positive-secondary: #75cc9e;
+                --border-positive-tertiary: #c2ebd5;
+                --border-warning-primary: #e68f38;
+                --border-warning-secondary: #feb872;
+                --border-warning-tertiary: #ffd4a8;
+                --border-negative-primary: #c53434;
+                --border-negative-secondary: #f49090;
+                --border-negative-tertiary: #fccfcf;
+                --border-brand-primary: #d10f0f;
+                --border-brand-secondary: #df5757;
+                --border-brand-tertiary: #e88787;
+                --border-brand-quaternary: #fcc9c9;
+            }
+
+            [data-theme=dark] {
+                --surface-primary: #18181b;
+                --surface-secondary: #2c2c30;
+                --surface-tertiary: #3f3f46;
+                --surface-inverted-primary: #f9fafb;
+                --surface-inverted-secondary: #e4e4e7;
+                --surface-inverted-tertiary: #a1a1aa;
+                --surface-informative-primary: #6792f4;
+                --surface-informative-secondary: #2759cd;
+                --surface-informative-tertiary: #273d71;
+                --surface-informative-quaternary: #1d2a46;
+                --surface-positive-primary: #4aa578;
+                --surface-positive-secondary: #1e714a;
+                --surface-positive-tertiary: #083b23;
+                --surface-positive-quaternary: #062d1b;
+                --surface-warning-primary: #f6a351;
+                --surface-warning-secondary: #d86f06;
+                --surface-warning-tertiary: #54391e;
+                --surface-warning-quaternary: #342415;
+                --surface-negative-primary: #f26464;
+                --surface-negative-secondary: #a13636;
+                --surface-negative-tertiary: #6f2020;
+                --surface-negative-quaternary: #4a0d0d;
+                --surface-brand-primary: #d83939;
+                --surface-brand-secondary: #bc0e0e;
+                --surface-brand-tertiary: #690808;
+                --surface-brand-quaternary: #690808;
+                --surface-accent-primary: #ffba1a;
+                --surface-accent-secondary: #cc8e00;
+                --surface-accent-tertiary: #9f5201;
+                --surface-accent-quaternary: #7a3e00;
+                --surface-dimmer-primary: hsla(0,0%,100%,0.32);
+                --surface-dimmer-secondary: hsla(0,0%,100%,0.64);
+                --surface-dimmer-inverted-primary: rgba(0,0,0,0.32);
+                --surface-dimmer-inverted-secondary: rgba(0,0,0,0.64);
+                --surface-dimmer-brand-primary: rgba(209,15,15,0.16);
+                --surface-dimmer-brand-secondary: rgba(209,15,15,0.32);
+                --content-primary: #f9fafb;
+                --content-secondary: #a1a1aa;
+                --content-tertiary: #71717a;
+                --content-quaternary: #3f3f46;
+                --content-inverted-primary: #2c2c30;
+                --content-inverted-secondary: #3f3f46;
+                --content-inverted-tertiary: #71717a;
+                --content-inverted-quaternary: #a1a1aa;
+                --content-on-brand: #dbdbe4;
+                --content-informative-primary: #6792f4;
+                --content-informative-secondary: #6792f4;
+                --content-positive-primary: #4aa578;
+                --content-positive-secondary: #4aa578;
+                --content-warning-primary: #f6a351;
+                --content-warning-secondary: #f6a351;
+                --content-negative-primary: #f26464;
+                --content-negative-secondary: #f26464;
+                --content-brand-primary: #df5757;
+                --content-brand-secondary: #920b0b;
+                --content-brand-tertiary: #690808;
+                --content-brand-inverted: #d10f0f;
+                --border-primary: #52525b;
+                --border-secondary: #3f3f46;
+                --border-tertiary: #2c2c30;
+                --border-inverted-primary: #2c2c30;
+                --border-informative-primary: #395aa6;
+                --border-informative-secondary: #273d71;
+                --border-informative-tertiary: #1d2a46;
+                --border-positive-primary: #0e4e30;
+                --border-positive-secondary: #083b23;
+                --border-positive-tertiary: #062d1b;
+                --border-warning-primary: #a2560d;
+                --border-warning-secondary: #54391e;
+                --border-warning-tertiary: #342415;
+                --border-negative-primary: #952d2d;
+                --border-negative-secondary: #6f2020;
+                --border-negative-tertiary: #4a0d0d;
+                --border-brand-primary: #d10f0f;
+                --border-brand-secondary: #920b0b;
+                --border-brand-tertiary: #690808;
+                --border-brand-quaternary: #540606;
+            }
+
+            :root {
+                --surface-neutral-weaker: 255,255,255;
+                --surface-neutral-weak: 244,244,245;
+                --surface-neutral-default: 228,228,231;
+                --surface-neutral-strong: 195,195,201;
+                --surface-neutral-stronger: 161,161,170;
+                --surface-neutral-on-color: 255,255,255;
+                --surface-inverted-weaker: 113,113,122;
+                --surface-inverted-weak: 82,82,91;
+                --surface-inverted-default: 63,63,70;
+                --surface-inverted-strong: 36,36,40;
+                --surface-inverted-stronger: 24,24,27;
+                --surface-inverted-on-color: 0,0,0;
+                --surface-brand-weakest: 252,248,248;
+                --surface-brand-weaker: 250,231,231;
+                --surface-brand-weak: 252,201,201;
+                --surface-brand-default: 232,135,135;
+                --surface-brand-strong: 216,57,57;
+                --surface-brand-stronger: 195,46,46;
+                --surface-brand-strongest: 141,49,49;
+                --surface-informative-weaker: 237,242,255;
+                --surface-informative-weak: 229,238,255;
+                --surface-informative-default: 215,228,255;
+                --surface-informative-strong: 124,162,245;
+                --surface-informative-stronger: 48,98,212;
+                --surface-positive-weaker: 230,249,239;
+                --surface-positive-weak: 216,248,231;
+                --surface-positive-default: 198,241,218;
+                --surface-positive-strong: 117,204,158;
+                --surface-positive-stronger: 29,124,77;
+                --surface-warning-weaker: 255,240,224;
+                --surface-warning-weak: 255,232,209;
+                --surface-warning-default: 252,222,192;
+                --surface-warning-strong: 254,184,114;
+                --surface-warning-stronger: 246,163,81;
+                --surface-negative-weaker: 255,235,235;
+                --surface-negative-weak: 254,230,230;
+                --surface-negative-default: 252,217,217;
+                --surface-negative-strong: 244,144,144;
+                --surface-negative-stronger: 197,52,52;
+                --content-neutral-weaker: 195,195,201;
+                --content-neutral-weak: 161,161,170;
+                --content-neutral-default: 113,113,122;
+                --content-neutral-strong: 82,82,91;
+                --content-neutral-stronger: 36,36,40;
+                --content-neutral-on-color: 255,255,255;
+                --content-inverted-weaker: 255,255,255;
+                --content-inverted-weak: 244,244,245;
+                --content-inverted-default: 195,195,201;
+                --content-inverted-strong: 161,161,170;
+                --content-inverted-stronger: 113,113,122;
+                --content-inverted-on-color: 36,36,40;
+                --content-brand-weaker: 252,201,201;
+                --content-brand-weak: 232,135,135;
+                --content-brand-default: 205,103,103;
+                --content-brand-strong: 195,46,46;
+                --content-brand-stronger: 141,49,49;
+                --content-informative-weaker: 124,162,245;
+                --content-informative-weak: 89,135,242;
+                --content-informative-default: 48,98,212;
+                --content-informative-strong: 39,89,205;
+                --content-informative-stronger: 57,90,167;
+                --content-positive-weaker: 74,165,120;
+                --content-positive-weak: 74,165,120;
+                --content-positive-default: 29,124,77;
+                --content-positive-strong: 30,113,74;
+                --content-positive-stronger: 14,78,48;
+                --content-warning-weaker: 231,143,56;
+                --content-warning-weak: 215,128,41;
+                --content-warning-default: 187,104,26;
+                --content-warning-strong: 85,58,31;
+                --content-warning-stronger: 62,44,26;
+                --content-negative-weaker: 244,144,144;
+                --content-negative-weak: 242,100,100;
+                --content-negative-default: 197,52,52;
+                --content-negative-strong: 161,54,54;
+                --content-negative-stronger: 149,45,45;
+                --border-neutral-weaker: 228,228,231;
+                --border-neutral-weak: 195,195,201;
+                --border-neutral-default: 161,161,170;
+                --border-neutral-strong: 113,113,122;
+                --border-neutral-stronger: 82,82,91;
+                --border-brand-weaker: 252,201,201;
+                --border-brand-weak: 232,135,135;
+                --border-brand-default: 205,103,103;
+                --border-brand-strong: 195,46,46;
+                --border-brand-stronger: 141,49,49;
+                --border-informative-weaker: 215,228,255;
+                --border-informative-weak: 205,221,255;
+                --border-informative-default: 124,162,245;
+                --border-informative-strong: 48,98,212;
+                --border-informative-stronger: 57,90,167;
+                --border-positive-weaker: 198,241,218;
+                --border-positive-weak: 194,235,213;
+                --border-positive-default: 117,204,158;
+                --border-positive-strong: 29,124,77;
+                --border-positive-stronger: 14,78,48;
+                --border-warning-weaker: 252,222,192;
+                --border-warning-weak: 255,212,168;
+                --border-warning-default: 254,184,114;
+                --border-warning-strong: 231,143,56;
+                --border-warning-stronger: 187,104,26;
+                --border-negative-weaker: 252,217,217;
+                --border-negative-weak: 252,207,207;
+                --border-negative-default: 244,144,144;
+                --border-negative-strong: 197,52,52;
+                --border-negative-stronger: 149,45,45;
+                --purple-assistive: 91,19,247;
+                --magenta-assistive: 216,13,182;
+            }
+
+            [data-theme=dark] {
+                --surface-neutral-weaker: 24,24,27;
+                --surface-neutral-weak: 36,36,40;
+                --surface-neutral-default: 63,63,70;
+                --surface-neutral-strong: 82,82,91;
+                --surface-neutral-stronger: 113,113,122;
+                --surface-neutral-on-color: 255,255,255;
+                --surface-inverted-weaker: 249,250,251;
+                --surface-inverted-weak: 228,228,231;
+                --surface-inverted-default: 161,161,170;
+                --surface-inverted-strong: 249,250,251;
+                --surface-inverted-stronger: 252,252,253;
+                --surface-inverted-on-color: 0,0,0;
+                --surface-brand-weakest: 35,21,21;
+                --surface-brand-weaker: 52,29,29;
+                --surface-brand-weak: 116,28,28;
+                --surface-brand-default: 141,49,49;
+                --surface-brand-strong: 195,46,46;
+                --surface-brand-stronger: 216,57,57;
+                --surface-brand-strongest: 205,103,103;
+                --surface-informative-weaker: 24,32,51;
+                --surface-informative-weak: 32,47,82;
+                --surface-informative-default: 39,61,114;
+                --surface-informative-strong: 39,89,205;
+                --surface-informative-stronger: 124,162,245;
+                --surface-positive-weaker: 6,45,27;
+                --surface-positive-weak: 7,52,31;
+                --surface-positive-default: 8,59,35;
+                --surface-positive-strong: 30,113,74;
+                --surface-positive-stronger: 74,165,120;
+                --surface-warning-weaker: 39,30,21;
+                --surface-warning-weak: 62,44,26;
+                --surface-warning-default: 85,58,31;
+                --surface-warning-strong: 215,128,41;
+                --surface-warning-stronger: 254,184,114;
+                --surface-negative-weaker: 89,33,33;
+                --surface-negative-weak: 102,36,36;
+                --surface-negative-default: 115,39,39;
+                --surface-negative-strong: 161,54,54;
+                --surface-negative-stronger: 242,100,100;
+                --content-neutral-weaker: 63,63,70;
+                --content-neutral-weak: 113,113,122;
+                --content-neutral-default: 161,161,170;
+                --content-neutral-strong: 195,195,201;
+                --content-neutral-stronger: 249,250,251;
+                --content-neutral-on-color: 255,255,255;
+                --content-inverted-weaker: 36,36,40;
+                --content-inverted-weak: 63,63,70;
+                --content-inverted-default: 113,113,122;
+                --content-inverted-strong: 161,161,170;
+                --content-inverted-stronger: 195,195,201;
+                --content-inverted-on-color: 36,36,40;
+                --content-brand-weaker: 52,29,29;
+                --content-brand-weak: 116,28,28;
+                --content-brand-default: 141,49,49;
+                --content-brand-strong: 205,103,103;
+                --content-brand-stronger: 232,135,135;
+                --content-informative-weaker: 39,89,205;
+                --content-informative-weak: 48,98,212;
+                --content-informative-default: 89,135,242;
+                --content-informative-strong: 124,162,245;
+                --content-informative-stronger: 205,221,255;
+                --content-positive-weaker: 29,124,77;
+                --content-positive-weak: 74,165,120;
+                --content-positive-default: 117,204,158;
+                --content-positive-strong: 194,235,213;
+                --content-positive-stronger: 198,241,218;
+                --content-warning-weaker: 187,104,26;
+                --content-warning-weak: 215,128,41;
+                --content-warning-default: 231,143,56;
+                --content-warning-strong: 246,163,81;
+                --content-warning-stronger: 254,184,114;
+                --content-negative-weaker: 161,54,54;
+                --content-negative-weak: 197,52,52;
+                --content-negative-default: 242,100,100;
+                --content-negative-strong: 244,144,144;
+                --content-negative-stronger: 252,207,207;
+                --border-neutral-weaker: 36,36,40;
+                --border-neutral-weak: 63,63,70;
+                --border-neutral-default: 82,82,91;
+                --border-neutral-strong: 113,113,122;
+                --border-neutral-stronger: 161,161,170;
+                --border-brand-weaker: 52,29,29;
+                --border-brand-weak: 141,49,49;
+                --border-brand-default: 216,57,57;
+                --border-brand-strong: 205,103,103;
+                --border-brand-stronger: 232,135,135;
+                --border-informative-weaker: 24,32,51;
+                --border-informative-weak: 32,47,82;
+                --border-informative-default: 39,61,114;
+                --border-informative-strong: 57,90,167;
+                --border-informative-stronger: 48,98,212;
+                --border-positive-weaker: 6,45,27;
+                --border-positive-weak: 7,52,31;
+                --border-positive-default: 8,59,35;
+                --border-positive-strong: 14,78,48;
+                --border-positive-stronger: 29,124,77;
+                --border-warning-weaker: 39,30,21;
+                --border-warning-weak: 62,44,26;
+                --border-warning-default: 85,58,31;
+                --border-warning-strong: 187,104,26;
+                --border-warning-stronger: 231,143,56;
+                --border-negative-weaker: 89,33,33;
+                --border-negative-weak: 102,36,36;
+                --border-negative-default: 115,39,39;
+                --border-negative-strong: 242,100,100;
+                --border-negative-stronger: 244,144,144;
+                --purple-assistive: 91,19,247;
+                --magenta-assistive: 216,13,182;
+            }
+
+            :root {
+                --surface-assistive-default: linear-gradient(89.01deg,rgba(91,19,247,8%),rgba(206,0,170,0)),#fff;
+                --content-assistive-default: linear-gradient(80deg,#5b13f7,#d80db6);
+                --border-assistive-default: linear-gradient(89.01deg,#5b13f7 0.2%,#9810d7 48.86%,#d80db6);
+            }
+
+            [data-theme=dark] {
+                --surface-assistive-default: linear-gradient(89.01deg,rgba(91,19,247,8%),rgba(206,0,170,0)),#242424;
+                --content-assistive-default: linear-gradient(80deg,#5b13f7,#d80db6);
+                --border-assistive-default: linear-gradient(89.01deg,#5b13f7 0.2%,#9810d7 48.86%,#d80db6);
+            }
+
+            body {
+                font-family: IRANSans,tahoma,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+                font-size: 1rem;
+                font-weight: 400;
+            }
+
+            a {
+                text-decoration: none;
+            }
+
+            button,h1,h2,h3,h4,h5,h6,input,p,small,span,textarea {
+                font-family: IRANSans,tahoma,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+            }
+
+            h3,h4,h5,h6 {
+                font-size: 1.25rem;
+                font-weight: 500;
+                line-height: 1.5;
+            }
+
+            h3 {
+                font-size: 1.5rem;
+            }
+
+            h5 {
+                font-size: 1.125rem;
+            }
+
+            h6 {
+                font-size: 1rem;
+                line-height: 2;
+            }
+
+            h1,h2 {
+                font-size: 3rem;
+                font-weight: 400;
+                line-height: 1.5;
+            }
+
+            h2 {
+                font-size: 2rem;
+            }
+
+            p {
+                font-size: 1rem;
+                font-weight: 400;
+                line-height: 2;
+            }
+
+            @media screen and (max-width: 768px) {
+                p {
+                    font-size: .875rem;
+                }
+
+                h3,h4,h5,h6 {
+                    font-size: 1.125rem;
+                }
+
+                h3 {
+                    font-size: 1.25rem;
+                }
+
+                h5 {
+                    font-size: 1rem;
+                }
+
+                h1,h2 {
+                    font-size: 2rem;
+                }
+
+                h1,h2 {
+                    font-weight: 500;
+                }
+
+                h2 {
+                    font-size: 1.125rem;
+                }
+            }
+
+            html {
+                box-sizing: border-box;
+            }
+
+            *,:after,:before {
+                box-sizing: inherit;
+                outline-color: #39f;
+                outline-color: var(--blue-outline);
+            }
+
+            body,html {
+                background-color: #fff;
+                background-color: var(--white);
+                color: #000;
+                color: var(--black);
+                height: 100%;
+            }
+
+            fieldset {
+                border: 0;
+                margin: 0;
+                min-width: 0;
+                padding: 0;
+            }
+
+            a {
+                color: #a62626;
+                color: var(--brand);
+            }
+
+            body {
+                --navbar-height: 64px;
+                overflow-x: visible !important;
+            }
+
+            @font-face {
+                font-display: swap;
+                font-family: IRANSans;
+                font-style: normal;
+                font-weight: 700;
+                src: url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Bold.94bdf556.woff2) format("woff2"),url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Bold.dd12fb6a.woff) format("woff")
+            }
+
+            @font-face {
+                font-display: swap;
+                font-family: IRANSans;
+                font-style: normal;
+                font-weight: 500;
+                src: url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Medium.9f338149.woff2) format("woff2"),url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Medium.2d28b58d.woff) format("woff")
+            }
+
+            @font-face {
+                font-display: swap;
+                font-family: IRANSans;
+                font-style: normal;
+                font-weight: 400;
+                src: url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb.cdb118d6.woff2) format("woff2"),url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb.9ffdcda0.woff) format("woff")
+            }
+
+            @font-face {
+                font-display: swap;
+                font-family: IRANSans;
+                font-style: normal;
+                font-weight: 300;
+                src: url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Light.b5815f24.woff2) format("woff2"),url(https://s100.divarcdn.com/web-assets/2025/10/IRANSansWeb_Light.b35266cb.woff) format("woff")
+            }
+
+            @font-face {
+                font-display: block;
+                font-family: sonnat;
+                font-style: normal;
+                font-weight: 400;
+                src: url(https://s100.divarcdn.com/web-assets/2025/10/sonnat-icons.6a8f1bd6.woff2) format("woff2"),url(https://s100.divarcdn.com/web-assets/2025/10/sonnat-icons.53d45845.woff) format("woff")
+            }
+
+            @keyframes assistive {
+                0% {
+                    background-position: 100% 100%
+                }
+
+                50% {
+                    background-position: 0 0
+                }
+
+                to {
+                    background-position: 100% 100%
+                }
+            }
+
+            @keyframes rotate {
+                to {
+                    transform: rotate(1turn)
+                }
+            }
+
+            @keyframes stroke-dash {
+                0% {
+                    stroke-dasharray: 1,100;
+                    stroke-dashoffset: 0
+                }
+
+                50% {
+                    stroke-dasharray: 80,100;
+                    stroke-dashoffset: 46
+                }
+
+                to {
+                    stroke-dasharray: 1,100;
+                    stroke-dashoffset: 0
+                }
+            }
+
+            @keyframes wave {
+                0%,to {
+                    opacity: .2
+                }
+
+                50% {
+                    opacity: 1;
+                    transform: translateY(-4px)
+                }
+            }
+
+            @supports(-webkit-line-clamp:2) {
+                .kt-card__description {
+                    -webkit-line-clamp: 2;
+                    -webkit-box-orient: vertical;
+                    display: -webkit-box
+                }
+            }
+
+            @supports not (-webkit-line-clamp:2) {
+                .kt-card__description {
+                    max-height: 3rem
+                }
+            }
+
+            @keyframes kt-switch-ripple {
+                to {
+                    background-color: rgba(166,38,38,.08);
+                    background-color: var(--brand-light-200);
+                    transform: scale(4)
+                }
+            }
+
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .kt-modal--scrollable .kt-modal__actions {
+                    padding-bottom:calc(12px + constant(safe-area-inset-bottom))
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .kt-modal--scrollable .kt-modal__actions {
+                    padding-bottom:calc(12px + env(safe-area-inset-bottom, 0))
+                }
+            }
+
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .kt-alert--scrollable .kt-alert__actions {
+                    padding-bottom:calc(12px + constant(safe-area-inset-bottom))
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .kt-alert--scrollable .kt-alert__actions {
+                    padding-bottom:calc(12px + env(safe-area-inset-bottom, 0))
+                }
+            }
+
+            @supports(-webkit-line-clamp:2) {
+                .kt-event-row__text--subtitle {
+                    -webkit-line-clamp: 2;
+                    -webkit-box-orient: vertical;
+                    display: -webkit-box
+                }
+            }
+
+            @supports(-webkit-line-clamp:2) {
+                .kt-post-card__title {
+                    -webkit-line-clamp: 2;
+                    -webkit-box-orient: vertical;
+                    display: -webkit-box
+                }
+            }
+
+            @supports(gap: 8px) {
+                .kt-post-card-thumbnail__tags-container {
+                    gap:8px
+                }
+            }
+
+            @supports(gap: 8px) {
+                .kt-post-card-thumbnail__tags-container>* {
+                    margin-left:0
+                }
+            }
+
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .kt-alert__actions,.kt-modal__actions {
+                    padding-bottom:calc(24px + constant(safe-area-inset-bottom))
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .kt-alert__actions,.kt-modal__actions {
+                    padding-bottom:calc(24px + env(safe-area-inset-bottom, 0))
+                }
+            }
+
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .kt-alert__actions,.kt-modal__actions {
+                    padding-bottom:calc(24px + constant(safe-area-inset-bottom))
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .kt-alert__actions,.kt-modal__actions {
+                    padding-bottom:calc(24px + env(safe-area-inset-bottom, 0))
+                }
+            }
+
+            @keyframes skeleton-loading {
+                0% {
+                    right: -20%
+                }
+
+                to {
+                    right: 110%
+                }
+            }
+
+            @keyframes kt-toggle-press {
+                to {
+                    transform: scale(2)
+                }
+            }
+
+            @keyframes ripple-before {
+                0% {
+                    opacity: .6;
+                    transform: scale3d(1.2,1.2,1)
+                }
+
+                50% {
+                    opacity: 1;
+                    transform: scale3d(1.4,1.4,1)
+                }
+
+                to {
+                    opacity: .6;
+                    transform: scale3d(1.2,1.2,1)
+                }
+            }
+
+            @keyframes ripple-after {
+                0% {
+                    opacity: .32;
+                    transform: scale3d(1.2,1.2,1)
+                }
+
+                50% {
+                    opacity: .8;
+                    transform: scale3d(1.6,1.6,1)
+                }
+
+                to {
+                    opacity: .32;
+                    transform: scale3d(1.2,1.2,1)
+                }
+            }
+
+            @keyframes pulse-dot {
+                0% {
+                    transform: scaleX(1)
+                }
+
+                50% {
+                    transform: scale3d(1.05,1.05,1)
+                }
+
+                to {
+                    transform: scaleX(1)
+                }
+            }
+
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .kt-bottom-sheet {
+                    padding-bottom:constant(safe-area-inset-bottom)
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .kt-bottom-sheet {
+                    padding-bottom:env(safe-area-inset-bottom,0)
+                }
+            }
+
+            /* vendors-216.9581312f.desktop.css */
+            html {
+                -webkit-text-size-adjust: 100%;
+                line-height: 1.15;
+            }
+
+            body {
+                margin: 0;
+            }
+
+            main {
+                display: block;
+            }
+
+            h1 {
+                font-size: 2em;
+                margin: .67em 0;
+            }
+
+            hr {
+                box-sizing: content-box;
+                height: 0;
+                overflow: visible;
+            }
+
+            pre {
+                font-family: monospace,monospace;
+                font-size: 1em;
+            }
+
+            a {
+                background-color: transparent;
+            }
+
+            abbr[title] {
+                border-bottom: none;
+                text-decoration: underline;
+                text-decoration: underline dotted;
+            }
+
+            b,strong {
+                font-weight: bolder;
+            }
+
+            code,kbd,samp {
+                font-family: monospace,monospace;
+                font-size: 1em;
+            }
+
+            small {
+                font-size: 80%;
+            }
+
+            sub,sup {
+                font-size: 75%;
+                line-height: 0;
+                position: relative;
+                vertical-align: baseline;
+            }
+
+            sub {
+                bottom: -.25em;
+            }
+
+            sup {
+                top: -.5em;
+            }
+
+            img {
+                border-style: none;
+            }
+
+            button,input,optgroup,select,textarea {
+                font-family: inherit;
+                font-size: 100%;
+                line-height: 1.15;
+                margin: 0;
+            }
+
+            button,input {
+                overflow: visible;
+            }
+
+            button,select {
+                text-transform: none;
+            }
+
+            [type=button],[type=reset],[type=submit],button {
+                -webkit-appearance: button;
+            }
+
+            [type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner {
+                border-style: none;
+                padding: 0;
+            }
+
+            [type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring,button:-moz-focusring {
+                outline: 1px dotted ButtonText;
+            }
+
+            fieldset {
+                padding: .35em .75em .625em;
+            }
+
+            legend {
+                box-sizing: border-box;
+                color: inherit;
+                display: table;
+                max-width: 100%;
+                padding: 0;
+                white-space: normal;
+            }
+
+            progress {
+                vertical-align: baseline;
+            }
+
+            textarea {
+                overflow: auto;
+            }
+
+            [type=checkbox],[type=radio] {
+                box-sizing: border-box;
+                padding: 0;
+            }
+
+            [type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button {
+                height: auto;
+            }
+
+            [type=search] {
+                -webkit-appearance: textfield;
+                outline-offset: -2px;
+            }
+
+            [type=search]::-webkit-search-decoration {
+                -webkit-appearance: none;
+            }
+
+            ::-webkit-file-upload-button {
+                -webkit-appearance: button;
+                font: inherit;
+            }
+
+            details {
+                display: block;
+            }
+
+            summary {
+                display: list-item;
+            }
+
+            [hidden],template {
+                display: none;
+            }
+
+            @-webkit-keyframes mapboxgl-spin {
+                0% {
+                    -webkit-transform: rotate(0deg)
+                }
+
+                to {
+                    -webkit-transform: rotate(1turn)
+                }
+            }
+
+            @-moz-keyframes mapboxgl-spin {
+                0% {
+                    -moz-transform: rotate(0deg)
+                }
+
+                to {
+                    -moz-transform: rotate(1turn)
+                }
+            }
+
+            @-o-keyframes mapboxgl-spin {
+                0% {
+                    -o-transform: rotate(0deg)
+                }
+
+                to {
+                    -o-transform: rotate(1turn)
+                }
+            }
+
+            @-ms-keyframes mapboxgl-spin {
+                0% {
+                    -ms-transform: rotate(0deg)
+                }
+
+                to {
+                    -ms-transform: rotate(1turn)
+                }
+            }
+
+            @keyframes mapboxgl-spin {
+                0% {
+                    transform: rotate(0deg)
+                }
+
+                to {
+                    transform: rotate(1turn)
+                }
+            }
+
+            @-webkit-keyframes mapboxgl-user-location-dot-pulse {
+                0% {
+                    opacity: 1;
+                    -webkit-transform: scale(1)
+                }
+
+                70% {
+                    opacity: 0;
+                    -webkit-transform: scale(3)
+                }
+
+                to {
+                    opacity: 0;
+                    -webkit-transform: scale(1)
+                }
+            }
+
+            @-ms-keyframes mapboxgl-user-location-dot-pulse {
+                0% {
+                    opacity: 1;
+                    -ms-transform: scale(1)
+                }
+
+                70% {
+                    opacity: 0;
+                    -ms-transform: scale(3)
+                }
+
+                to {
+                    opacity: 0;
+                    -ms-transform: scale(1)
+                }
+            }
+
+            @keyframes mapboxgl-user-location-dot-pulse {
+                0% {
+                    opacity: 1;
+                    transform: scale(1)
+                }
+
+                70% {
+                    opacity: 0;
+                    transform: scale(3)
+                }
+
+                to {
+                    opacity: 0;
+                    transform: scale(1)
+                }
+            }
+
+            /* widget-base-348.6229618a.desktop.css */
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .offset-ZRHscq {
+                    margin-bottom:calc(56px + constant(safe-area-inset-bottom))
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .offset-ZRHscq {
+                    margin-bottom:calc(56px + env(safe-area-inset-bottom, 0))
+                }
+            }
+
+            /* bootstrap-672.6b09f769.desktop.css */
+            body,html {
+                -webkit-tap-highlight-color: transparent;
+            }
+
+            @page {
+                size: auto;
+                margin: 0
+            }
+
+            @keyframes fade-in {
+                0% {
+                    opacity: 0;
+                    transform: translateY(30px)
+                }
+
+                to {
+                    opacity: 1;
+                    transform: translateY(0)
+                }
+            }
+
+            @supports(padding-bottom: constant(safe-area-inset-bottom)) {
+                .personal-management-menu__social-links {
+                    margin-bottom:constant(safe-area-inset-bottom)
+                }
+            }
+
+            @supports(padding-bottom: env(safe-area-inset-bottom)) {
+                .personal-management-menu__social-links {
+                    margin-bottom:env(safe-area-inset-bottom,0)
+                }
+            }
+
+            /* main-179.dd0436cf.desktop.css */
+            .no-pointer-event {
+                pointer-events: none;
+            }
+
+            .kt-text-truncate {
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .kt-base-row {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                display: flex;
+                font-size: 1rem;
+                font-weight: 400;
+                justify-content: space-between;
+                line-height: 2;
+                min-height: 48px;
+                padding: 8px 0;
+                white-space: normal;
+            }
+
+            .kt-base-row__end,.kt-base-row__start {
+                align-items: flex-start;
+                display: flex;
+            }
+
+            .kt-base-row__end,.kt-base-row__start {
+                min-width: 0;
+            }
+
+            .kt-base-row__start {
+                flex: 1 1;
+            }
+
+            .kt-base-row__end {
+                flex-shrink: 0;
+                justify-content: flex-end;
+                margin-right: 10px;
+                max-width: 50%;
+            }
+
+            .kt-title-row {
+                align-items: center;
+                margin-top: 8px;
+                white-space: nowrap;
+            }
+
+            .kt-title-row__title {
+                font-size: inherit;
+                font-weight: 700;
+                line-height: 2;
+                margin: 0;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .kt-title-row__title--tertiary {
+                font-size: 1rem;
+                line-height: 2;
+            }
+
+            .kt-title-row__row {
+                align-items: center;
+                color: #242428;
+                color: rgb(var(--content-neutral-stronger));
+            }
+
+            .kt-title-row__description {
+                font-size: .875rem;
+                font-weight: 400;
+                line-height: 2;
+                margin: 0 8px 0 0;
+            }
+
+            .kt-title-row__description--default {
+                color: #71717a;
+                color: rgb(var(--content-neutral-default));
+            }
+
+            .kt-description-row {
+                min-height: auto;
+                padding: 0;
+                position: relative;
+            }
+
+            .kt-description-row__text {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                font-weight: 400;
+                line-height: 2;
+                margin: 0;
+                white-space: pre-line;
+                word-break: break-word;
+            }
+
+            .kt-description-row__text--primary {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+            }
+
+            .kt-description-row--padded {
+                padding: 16px 0;
+            }
+
+            .kt-icon {
+                text-rendering: auto;
+                background-position: 50%;
+                background-size: contain;
+                display: inline-block;
+                font-family: sonnat !important;
+                font-size: 1.25rem;
+                font-style: normal;
+                font-variant: normal;
+                height: 20px;
+                line-height: 1;
+                vertical-align: middle;
+                width: 20px;
+            }
+
+            .kt-icon--lg {
+                font-size: 1.5rem;
+                height: 24px;
+                width: 24px;
+            }
+
+            .kt-icon--sm {
+                font-size: 1.125rem;
+                height: 18px;
+                width: 18px;
+            }
+
+            .kt-icon--xs {
+                font-size: 1rem;
+                height: 16px;
+                width: 16px;
+            }
+
+            .kt-icon-social-linkedin:before {
+                content: "\e964";
+            }
+
+            .kt-icon-support:before {
+                content: "\e96a";
+            }
+
+            .kt-icon-info-outline:before {
+                content: "\e96d";
+            }
+
+            .kt-icon-cat-vehicles:before {
+                content: "\e96e";
+            }
+
+            .kt-icon-cat-electronic-devices:before {
+                content: "\e96f";
+            }
+
+            .kt-icon-social-instagram-fill:before {
+                content: "\e975";
+            }
+
+            .kt-icon-keyboard-arrow-left-large-o:before {
+                content: "\e97e";
+            }
+
+            .kt-icon-chair-office-o:before {
+                content: "\e992";
+            }
+
+            .kt-icon-chat-bubble:before {
+                content: "\e997";
+            }
+
+            .kt-icon-paint-brush-o:before {
+                content: "\e998";
+            }
+
+            .kt-icon-social-twitter:before {
+                content: "\e9a6";
+            }
+
+            .kt-icon-share-o:before {
+                content: "\e9b9";
+            }
+
+            .kt-icon-place:before {
+                content: "\e9c4";
+            }
+
+            .kt-icon-person:before {
+                content: "\e9c9";
+            }
+
+            .kt-icon-added-o:before {
+                content: "\e9e6";
+            }
+
+            .kt-icon-suitcase-o:before {
+                content: "\e9ef";
+            }
+
+            .kt-icon-real-estate:before {
+                content: "\e9f1";
+            }
+
+            .kt-icon-close:before {
+                content: "\e9f6";
+            }
+
+            .kt-icon-wrest-watch-o:before {
+                content: "\e9f8";
+            }
+
+            .kt-icon-search-o:before {
+                content: "\e9fc";
+            }
+
+            .kt-icon-lamp-o:before {
+                content: "\ea04";
+            }
+
+            .kt-icon-dice-o:before {
+                content: "\ea09";
+            }
+
+            .kt-icon-community:before {
+                content: "\ea0d";
+            }
+
+            .kt-icon-keyboard-arrow-down-o:before {
+                content: "\ea14";
+            }
+
+            .kt-icon-social-aparat:before {
+                content: "\ea34";
+            }
+
+            .kt-icon-sort-ascending:before {
+                content: "\eac7";
+            }
+
+            .kt-tag {
+                align-items: center;
+                border-radius: 2px;
+                display: inline-flex;
+                font-weight: 400;
+                height: auto;
+                line-height: 2;
+                overflow: hidden;
+                padding: 0 4px 0 8px;
+            }
+
+            .kt-tag__text {
+                flex: 1 1;
+                margin-right: 4px;
+                unicode-bidi: plaintext;
+            }
+
+            .kt-tag--just-icon {
+                padding: 0 4px;
+            }
+
+            .kt-tag--flipped:not(.kt-tag--just-text)>.kt-tag__text {
+                margin-left: 4px;
+                margin-right: 0;
+            }
+
+            .kt-tag--overlay {
+                background-color: rgba(0,0,0,.56);
+                background-color: var(--black-secondary);
+                border: 1px solid transparent;
+                color: #fff;
+                color: var(--white);
+            }
+
+            [data-theme=dark] .kt-tag--overlay {
+                background-color: hsla(0,0%,100%,.7);
+                background-color: var(--white-secondary);
+                color: #242424;
+                color: var(--gray-900);
+            }
+
+            .kt-tag--small {
+                font-size: .75rem;
+                max-height: 24px;
+                min-height: 24px;
+            }
+
+            .kt-tag__icon {
+                background-repeat: no-repeat;
+            }
+
+            .kt-divider {
+                background-color: #dbdbe4;
+                background-color: var(--border-tertiary);
+                border: none;
+                box-sizing: border-box;
+                height: 1px;
+                margin: 0;
+            }
+
+            .kt-divider--padded {
+                margin: 8px 0;
+            }
+
+            .kt-divider--vertical {
+                display: inline-block;
+                height: 1.5rem;
+                width: 1px;
+            }
+
+            .kt-divider--vertical.kt-divider--padded {
+                margin: 0 8px;
+            }
+
+            .kt-progress-snake {
+                display: inline-block;
+                position: relative;
+                vertical-align: middle;
+            }
+
+            .kt-progress-snake--center {
+                align-items: center;
+                display: inline-flex;
+                height: 100%;
+                justify-content: center;
+                width: 100%;
+            }
+
+            .kt-progress-snake--primary .kt-progress-snake__node {
+                background-color: #a62626;
+                background-color: var(--brand);
+            }
+
+            .kt-progress-snake--animated .kt-progress-snake__node {
+                animation: wave 1s ease-in-out infinite;
+            }
+
+            .kt-progress-snake__node {
+                background-color: rgba(0,0,0,.56);
+                background-color: var(--black-secondary);
+                border-radius: 50%;
+                display: inline-block;
+                height: 4px;
+                margin: 0 2px;
+                vertical-align: middle;
+                width: 4px;
+            }
+
+            .kt-progress-snake__node:nth-child(n+2) {
+                animation-delay: .2s;
+            }
+
+            .kt-progress-snake__node:nth-child(n+3) {
+                animation-delay: .4s;
+            }
+
+            .kt-button {
+                align-items: center;
+                background-color: rgba(0,0,0,.56);
+                background-color: var(--black-secondary);
+                border: 1px solid transparent;
+                border-radius: 4px;
+                box-sizing: border-box;
+                color: #fff;
+                color: var(--white);
+                cursor: pointer;
+                display: inline-flex;
+                font-size: 1rem;
+                font-weight: 500;
+                height: 2.5rem;
+                justify-content: center;
+                line-height: normal;
+                min-width: 6rem;
+                outline: none;
+                overflow: hidden;
+                padding: 0 16px;
+                position: relative;
+                transition: color .36s ease,background-color .36s ease,box-shadow .36s ease,border-color .36s ease,transform .36s ease;
+            }
+
+            .kt-button:focus,.kt-button:hover {
+                background-color: rgba(31,31,31,.56);
+                background-color: var(--black-hover);
+            }
+
+            .kt-button:active {
+                background-color: rgba(0,0,0,.6);
+                background-color: var(--black-press);
+            }
+
+            .kt-button.kt-button--disabled,.kt-button:disabled {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+                box-shadow: none;
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+                cursor: not-allowed;
+            }
+
+            .kt-button.kt-button--disabled:focus,.kt-button.kt-button--disabled:hover,.kt-button:disabled:focus,.kt-button:disabled:hover {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+                box-shadow: none;
+                transform: none;
+            }
+
+            .kt-button.kt-button--disabled:active,.kt-button:disabled:active {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+            }
+
+            .kt-button.kt-button--primary {
+                background-color: #a62626;
+                background-color: var(--brand);
+            }
+
+            .kt-button.kt-button--primary:focus,.kt-button.kt-button--primary:hover {
+                background-color: #be3737;
+                background-color: var(--brand-hover);
+            }
+
+            .kt-button.kt-button--primary:active {
+                background-color: #9d1b1b;
+                background-color: var(--brand-press);
+            }
+
+            .kt-button.kt-button--primary.kt-button--disabled,.kt-button.kt-button--primary.kt-button--disabled:active,.kt-button.kt-button--primary.kt-button--disabled:focus,.kt-button.kt-button--primary.kt-button--disabled:hover,.kt-button.kt-button--primary:disabled,.kt-button.kt-button--primary:disabled:active,.kt-button.kt-button--primary:disabled:focus,.kt-button.kt-button--primary:disabled:hover {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+            }
+
+            .kt-button--inlined,.kt-button--outlined {
+                background-color: transparent;
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-button--inlined:focus,.kt-button--inlined:hover,.kt-button--outlined:focus,.kt-button--outlined:hover {
+                background-color: rgba(0,0,0,.04);
+                background-color: var(--black-light-100);
+            }
+
+            .kt-button--inlined:active,.kt-button--outlined:active {
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+            }
+
+            .kt-button--inlined.kt-button--disabled,.kt-button--inlined.kt-button--disabled:active,.kt-button--inlined.kt-button--disabled:focus,.kt-button--inlined.kt-button--disabled:hover,.kt-button--inlined:disabled,.kt-button--inlined:disabled:active,.kt-button--inlined:disabled:focus,.kt-button--inlined:disabled:hover,.kt-button--outlined.kt-button--disabled,.kt-button--outlined.kt-button--disabled:active,.kt-button--outlined.kt-button--disabled:focus,.kt-button--outlined.kt-button--disabled:hover,.kt-button--outlined:disabled,.kt-button--outlined:disabled:active,.kt-button--outlined:disabled:focus,.kt-button--outlined:disabled:hover {
+                background-color: transparent;
+            }
+
+            .kt-button--inlined.kt-button--disabled:focus,.kt-button--inlined.kt-button--disabled:hover,.kt-button--inlined:disabled:focus,.kt-button--inlined:disabled:hover,.kt-button--outlined.kt-button--disabled:focus,.kt-button--outlined.kt-button--disabled:hover,.kt-button--outlined:disabled:focus,.kt-button--outlined:disabled:hover {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-button--inlined:focus,.kt-button--inlined:hover,.kt-button--outlined:focus,.kt-button--outlined:hover {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+            }
+
+            .kt-button--inlined:focus.kt-button--disabled,.kt-button--inlined:focus:disabled,.kt-button--inlined:hover.kt-button--disabled,.kt-button--inlined:hover:disabled,.kt-button--outlined:focus.kt-button--disabled,.kt-button--outlined:focus:disabled,.kt-button--outlined:hover.kt-button--disabled,.kt-button--outlined:hover:disabled {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-button--inlined.kt-button--primary,.kt-button--outlined.kt-button--primary {
+                background-color: transparent;
+                color: #a62626;
+                color: var(--brand);
+            }
+
+            .kt-button--inlined.kt-button--primary:focus,.kt-button--inlined.kt-button--primary:hover,.kt-button--outlined.kt-button--primary:focus,.kt-button--outlined.kt-button--primary:hover {
+                background-color: rgba(166,38,38,.04);
+                background-color: var(--brand-light-100);
+            }
+
+            .kt-button--inlined.kt-button--primary:active,.kt-button--outlined.kt-button--primary:active {
+                background-color: var(--brand-divide);
+            }
+
+            .kt-button--inlined.kt-button--primary.kt-button--disabled,.kt-button--inlined.kt-button--primary:disabled,.kt-button--outlined.kt-button--primary.kt-button--disabled,.kt-button--outlined.kt-button--primary:disabled {
+                background-color: transparent;
+                color: rgba(166,38,38,.32);
+                color: var(--brand-hint);
+            }
+
+            .kt-button--inlined.kt-button--primary.kt-button--disabled:active,.kt-button--inlined.kt-button--primary.kt-button--disabled:focus,.kt-button--inlined.kt-button--primary.kt-button--disabled:hover,.kt-button--inlined.kt-button--primary:disabled:active,.kt-button--inlined.kt-button--primary:disabled:focus,.kt-button--inlined.kt-button--primary:disabled:hover,.kt-button--outlined.kt-button--primary.kt-button--disabled:active,.kt-button--outlined.kt-button--primary.kt-button--disabled:focus,.kt-button--outlined.kt-button--primary.kt-button--disabled:hover,.kt-button--outlined.kt-button--primary:disabled:active,.kt-button--outlined.kt-button--primary:disabled:focus,.kt-button--outlined.kt-button--primary:disabled:hover {
+                background-color: transparent;
+            }
+
+            .kt-button--outlined {
+                border-color: rgba(0,0,0,.48);
+                border-color: var(--black-dark-100);
+            }
+
+            .kt-button--outlined.kt-button--disabled,.kt-button--outlined:disabled {
+                border-color: rgba(0,0,0,.32);
+                border-color: var(--black-hint);
+            }
+
+            .kt-button--outlined.kt-button--primary {
+                border-color: rgba(166,38,38,.56);
+                border-color: var(--brand-secondary);
+            }
+
+            .kt-button--outlined.kt-button--primary:focus,.kt-button--outlined.kt-button--primary:hover {
+                border-color: #a62626;
+                border-color: var(--brand);
+            }
+
+            .kt-button--outlined.kt-button--primary.kt-button--disabled,.kt-button--outlined.kt-button--primary:disabled {
+                border-color: rgba(166,38,38,.32);
+                border-color: var(--brand-hint);
+            }
+
+            .kt-button--inlined {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-button__icon {
+                height: 1.25rem;
+                margin-left: 8px;
+                margin-right: -4px;
+            }
+
+            .kt-button--circular {
+                border-radius: 50%;
+                height: 2.5rem;
+                min-width: auto;
+                padding: 0;
+                width: 2.5rem;
+            }
+
+            .kt-button--circular .kt-button__icon {
+                margin-left: 0;
+                margin-right: 0;
+            }
+
+            .kt-button--inlined kt-button__ripple,.kt-button--outlined kt-button__ripple {
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+            }
+
+            .kt-button-row {
+                display: flex;
+                justify-content: flex-end;
+            }
+
+            .kt-button-row--fullwidth>* {
+                flex: 1 1;
+            }
+
+            .kt-button-row>:not(:first-child) {
+                margin-right: 16px;
+            }
+
+            @media (max-width: 768px) {
+                .kt-button-row--responsive>* {
+                    flex: 1 1;
+                }
+            }
+
+            .kt-textfield {
+                height: 2.5rem;
+                position: relative;
+                width: 100%;
+            }
+
+            .kt-textfield .kt-textfield__input,.kt-textfield .kt-textfield__start-icon {
+                height: 2.5rem;
+                line-height: 2.5rem;
+                position: absolute;
+            }
+
+            .kt-textfield .kt-textfield__suffix {
+                height: calc(2.5rem - 4px);
+                line-height: calc(2.5rem - 4px);
+                position: absolute;
+            }
+
+            .kt-textfield__start-icon {
+                padding: 0 8px;
+                right: 0;
+            }
+
+            .kt-textfield__input::-webkit-input-placeholder {
+                -webkit-transition: color .15s ease;
+                transition: color .15s ease;
+            }
+
+            .kt-textfield__input::placeholder,.kt-textfield__start-icon {
+                transition: color .15s ease;
+            }
+
+            .kt-textfield__start-icon {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-textfield__input {
+                background-color: #fff;
+                background-color: var(--white);
+                border: 1px solid rgba(0,0,0,.24);
+                border: 1px solid var(--black-medium-200);
+                border-radius: 4px;
+                box-sizing: border-box;
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                font-size: 1rem;
+                outline: 0;
+                transition: color .15s ease,border-color .15s ease,box-shadow .15s ease,padding .15s ease;
+                width: 100%;
+            }
+
+            .kt-textfield__input[type=number] {
+                -moz-appearance: textfield;
+                direction: ltr;
+                text-align: left;
+            }
+
+            .kt-textfield__input[type=number]::-webkit-inner-spin-button,.kt-textfield__input[type=number]::-webkit-outer-spin-button {
+                -webkit-appearance: none;
+                margin: 0;
+            }
+
+            .kt-textfield__input[type=search] {
+                -webkit-appearance: none;
+            }
+
+            .kt-textfield__input::-webkit-input-placeholder {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+                direction: rtl;
+                opacity: 1;
+                text-align: right;
+            }
+
+            .kt-textfield__input::placeholder {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+                direction: rtl;
+                opacity: 1;
+                text-align: right;
+            }
+
+            .kt-textfield__input:hover {
+                border-color: rgba(0,0,0,.48);
+                border-color: var(--black-dark-100);
+            }
+
+            .kt-textfield__input:focus {
+                border-color: rgba(166,38,38,.56);
+                border-color: var(--brand-secondary);
+                box-shadow: inset 0 0 0 1px rgba(166,38,38,.56);
+                box-shadow: 0 0 0 1px var(--brand-secondary) inset;
+            }
+
+            .kt-textfield__input:disabled::-webkit-input-placeholder {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-textfield__input:disabled,.kt-textfield__input:disabled::placeholder {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-textfield__input:disabled,.kt-textfield__input:disabled:focus,.kt-textfield__input:disabled:hover {
+                border-color: rgba(0,0,0,.12);
+                border-color: var(--black-divider);
+            }
+
+            .kt-textfield__input:disabled:focus~.kt-textfield__start-icon,.kt-textfield__input:disabled:hover~.kt-textfield__start-icon,.kt-textfield__input:disabled~.kt-textfield__start-icon {
+                color: rgba(0,0,0,.12);
+                color: var(--black-divider);
+            }
+
+            .kt-textfield__input::-webkit-search-cancel-button {
+                -webkit-appearance: none;
+                appearance: none;
+            }
+
+            .kt-textfield__input--auto-validate:invalid~.kt-textfield__start-icon,.kt-textfield__input--auto-validate:invalid~.kt-textfield__suffix {
+                color: red;
+                color: var(--error);
+            }
+
+            .kt-textfield__suffix {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+                font-size: .875rem;
+                left: 8px;
+                margin: 0;
+                top: 2px;
+                transition: transform .15s ease,background-color .15s ease;
+                -webkit-user-select: none;
+                user-select: none;
+            }
+
+            .kt-textfield .kt-textfield__input {
+                padding-right: 16px;
+            }
+
+            .kt-textfield .kt-textfield__input {
+                padding-left: 16px;
+            }
+
+            .kt-textfield.kt-textfield--has-end-icon:not(.kt-textfield--clearable) .kt-textfield__suffix {
+                background-color: #fff;
+                background-color: var(--white);
+                transform: translateX(32px);
+            }
+
+            .kt-textfield--has-start-icon .kt-textfield__input {
+                padding-right: 40px;
+            }
+
+            .kt-textfield--has-end-icon .kt-textfield__input {
+                padding-left: 40px;
+            }
+
+            .kt-toast-container {
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                padding: 16px;
+                pointer-events: none;
+                position: fixed;
+                right: 0;
+                top: 0;
+                width: 100%;
+                z-index: 1070;
+            }
+
+            @media screen and (min-width: 768px) {
+                .kt-toast-container {
+                    padding: 32px;
+                }
+            }
+
+            .kt-dimmer {
+                height: 100vh;
+                left: 0;
+                opacity: 0;
+                position: fixed;
+                top: 0;
+                transition: opacity .36s ease-in-out,visibility .36s;
+                transition-duration: .24s;
+                visibility: hidden;
+                width: 100vw;
+                z-index: 1060;
+            }
+
+            .kt-dimmer__content {
+                align-items: center;
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                justify-content: center;
+                left: 0;
+                position: fixed;
+                top: 0;
+                width: 100%;
+            }
+
+            .kt-dimmer--darker {
+                background-color: rgba(0,0,0,.48);
+                background-color: var(--dimmer-darker);
+            }
+
+            .kt-accordion {
+                margin: 0;
+                padding: 0;
+            }
+
+            .kt-accordion-item {
+                border-radius: 4px;
+                font-size: .875rem;
+                list-style: none;
+                outline: none;
+            }
+
+            .kt-accordion-item .kt-accordion {
+                margin-right: 32px;
+            }
+
+            .kt-accordion-item .kt-accordion .kt-accordion {
+                margin-right: 16px;
+                position: relative;
+            }
+
+            .kt-accordion-item .kt-accordion .kt-accordion:before {
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+                bottom: 6px;
+                content: "";
+                position: absolute;
+                right: 0;
+                top: 6px;
+                transition: opacity .36s ease;
+                width: 1px;
+            }
+
+            .kt-accordion-item .kt-accordion .kt-accordion .kt-accordion-item {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                font-size: .75rem;
+                padding-right: 8px;
+                position: relative;
+            }
+
+            .kt-accordion-item .kt-accordion .kt-accordion .kt-accordion-item:before {
+                background-color: #a62626;
+                background-color: var(--brand);
+                bottom: 6px;
+                content: "";
+                opacity: 0;
+                position: absolute;
+                right: 0;
+                top: 6px;
+                transition: opacity .36s ease;
+                width: 1px;
+            }
+
+            .kt-accordion-item__header {
+                border-radius: 4px;
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                cursor: pointer;
+                display: block;
+                line-height: 2;
+                outline: none;
+                padding: 6px 0;
+                transition: color .36s ease;
+            }
+
+            .kt-accordion-item__header:focus,.kt-accordion-item__header:hover {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+            }
+
+            .kt-accordion-item__header--with-icon~.kt-accordion {
+                margin-right: 48px;
+            }
+
+            .kt-accordion-item__header--with-icon~.kt-accordion .kt-accordion {
+                margin-right: 16px;
+            }
+
+            .kt-accordion-item__icon {
+                margin: 0 0 2px 8px;
+            }
+
+            .kt-accordion-item--active>.kt-accordion-item__header {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                font-weight: 500;
+            }
+
+            .kt-accordion-title {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                margin: 0;
+                padding: 8px 0;
+            }
+
+            .kt-post-card {
+                background-color: #fff;
+                background-color: var(--white);
+                border-radius: 4px;
+                display: flex;
+                flex-direction: column;
+                min-height: 168px;
+                padding: 0;
+                position: relative;
+            }
+
+            .kt-post-card:after {
+                border-radius: 4px;
+                bottom: 0;
+                content: "";
+                display: block;
+                left: 0;
+                pointer-events: none;
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+
+            .kt-post-card--outlined:after {
+                box-shadow: inset 0 0 0 1px rgba(0,0,0,.08),inset 0 0 0 1px #fff;
+                box-shadow: 0 0 0 1px var(--black-light-200) inset,0 0 0 1px var(--white) inset;
+            }
+
+            @media screen and (max-width: 767px) {
+                .kt-post-card--outlined {
+                    border-bottom: 1px solid rgba(0,0,0,.12);
+                    border-bottom: 1px solid var(--black-divider);
+                    border-radius: 0;
+                }
+
+                .kt-post-card--outlined:after {
+                    box-shadow: none;
+                }
+
+                .kt-post-card__features>i.kt-icon-chat-bubble:before {
+                    content: "\e927";
+                }
+            }
+
+            .kt-post-card__action {
+                padding: 16px;
+            }
+
+            @media screen and (max-width: 767px) {
+                .kt-post-card__action {
+                    padding: 12px 0;
+                }
+            }
+
+            .kt-post-card__body {
+                display: flex;
+            }
+
+            .kt-post-card__info {
+                display: flex;
+                flex-direction: column;
+                flex-grow: 1;
+                min-width: 0;
+                position: relative;
+            }
+
+            .kt-post-card__title {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                font-size: 1rem;
+                font-weight: 500;
+                height: 56px;
+                line-height: 28px;
+                margin-bottom: auto;
+                margin-top: 0;
+                overflow: hidden;
+                overflow-wrap: break-word;
+            }
+
+            .kt-post-card__description {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                font-size: .875rem;
+                line-height: 24px;
+                min-width: 100%;
+                overflow: hidden;
+                overflow-wrap: break-word;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                width: 0;
+            }
+
+            .kt-post-card__bottom {
+                align-items: center;
+                display: flex;
+                line-height: 24px;
+                overflow-wrap: break-word;
+                white-space: nowrap;
+            }
+
+            .kt-post-card__bottom-description {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                font-size: .875rem;
+            }
+
+            .kt-post-card__red-text {
+                color: #a62626;
+                color: var(--brand);
+                font-size: .875rem;
+                margin-left: 4px;
+            }
+
+            .kt-post-card-thumbnail {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+                border-radius: 4px;
+                flex: 0 0 136px;
+                height: 136px;
+                margin-right: 4px;
+                overflow: hidden;
+                position: relative;
+                width: 136px;
+            }
+
+            .kt-post-card-thumbnail__badge {
+                max-width: calc(100% - 8px);
+                position: absolute;
+                right: 4px;
+                top: 4px;
+            }
+
+            .kt-image-block {
+                display: block;
+                overflow: hidden;
+                position: relative;
+                width: 100%;
+            }
+
+            .kt-image-block--radius-sm {
+                border-radius: 4px;
+            }
+
+            .kt-image-block__image {
+                display: block;
+                height: 100%;
+                left: 0;
+                -o-object-fit: cover;
+                object-fit: cover;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+
+            .kt-dropdown-button {
+                align-items: center;
+                background-color: rgba(0,0,0,.56);
+                background-color: var(--black-secondary);
+                border: 1px solid transparent;
+                border-radius: 4px;
+                box-sizing: border-box;
+                color: #fff;
+                color: var(--white);
+                cursor: pointer;
+                display: inline-flex;
+                font-size: 1rem;
+                font-weight: 500;
+                height: 2.5rem;
+                justify-content: center;
+                justify-content: space-between;
+                min-width: auto;
+                outline: none;
+                overflow: hidden;
+                padding: 0 16px 0 0;
+                transition: color .36s ease,background-color .36s ease,box-shadow .36s ease,border-color .36s ease,transform .36s ease;
+            }
+
+            .kt-dropdown-button:focus,.kt-dropdown-button:hover {
+                background-color: rgba(31,31,31,.56);
+                background-color: var(--black-hover);
+            }
+
+            .kt-dropdown-button:active {
+                background-color: rgba(0,0,0,.6);
+                background-color: var(--black-press);
+            }
+
+            .kt-dropdown-button:disabled {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+                box-shadow: none;
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+                cursor: not-allowed;
+            }
+
+            .kt-dropdown-button:disabled:focus,.kt-dropdown-button:disabled:hover {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+                box-shadow: none;
+                transform: none;
+            }
+
+            .kt-dropdown-button:disabled:active {
+                background-color: #f5f5f5;
+                background-color: var(--gray-100);
+            }
+
+            .kt-dropdown-button--inlined {
+                background-color: transparent;
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-dropdown-button--inlined:focus,.kt-dropdown-button--inlined:hover {
+                background-color: rgba(0,0,0,.04);
+                background-color: var(--black-light-100);
+            }
+
+            .kt-dropdown-button--inlined:active {
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+            }
+
+            .kt-dropdown-button--inlined:disabled,.kt-dropdown-button--inlined:disabled:active,.kt-dropdown-button--inlined:disabled:focus,.kt-dropdown-button--inlined:disabled:hover {
+                background-color: transparent;
+            }
+
+            .kt-dropdown-button--inlined:disabled:focus,.kt-dropdown-button--inlined:disabled:hover {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-dropdown-button--inlined:focus,.kt-dropdown-button--inlined:hover {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+            }
+
+            .kt-dropdown-button--inlined:focus:disabled,.kt-dropdown-button--inlined:hover:disabled {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-dropdown-button--inlined {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-dropdown-button__icon {
+                margin-left: 8px;
+                margin-right: -4px;
+                margin-right: -8px;
+            }
+
+            .kt-dropdown-button__arrow-icon {
+                display: block;
+                margin-left: 11px;
+                margin-right: 8px;
+                transform-origin: center;
+                transition: transform .24s ease;
+                will-change: transform;
+            }
+
+            .kt-dropdown-button:focus .kt-dropdown-button__arrow-icon {
+                transform: rotate(180deg);
+            }
+
+            .kt-dropdown-button:focus .kt-dropdown-button__arrow-icon--closed,.kt-dropdown-button__arrow-icon--closed {
+                transform: none;
+            }
+
+            .kt-dropdown-button--medium {
+                font-size: .875rem;
+            }
+
+            .kt-dropdown-button--small {
+                font-size: .75rem;
+                height: 2rem;
+                padding: 0 12px 0 0;
+            }
+
+            .kt-dropdown-button--small .kt-dropdown-button__icon {
+                margin-left: 4px;
+                margin-right: -6px;
+            }
+
+            .kt-dropdown-button--small .kt-dropdown-button__arrow-icon {
+                margin-left: 7px;
+                margin-right: 4px;
+            }
+
+            .kt-chip {
+                align-items: center;
+                background-color: rgba(0,0,0,.04);
+                background-color: var(--black-light-100);
+                border: none;
+                border-radius: 2px;
+                display: inline-flex;
+                font-size: .875rem;
+                font-weight: 400;
+                height: 2rem;
+                outline: none;
+                padding: 0 12px;
+                transition: background-color .36s ease;
+            }
+
+            .kt-chip:focus,.kt-chip:hover {
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+            }
+
+            .kt-chip:active {
+                background-color: rgba(0,0,0,.24);
+                background-color: var(--black-medium-200);
+            }
+
+            .kt-chip.kt-chip {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-chip--small {
+                font-size: .75rem;
+                height: 1.75rem;
+            }
+
+            .kt-chip--rounded {
+                border-radius: 16px;
+            }
+
+            .kt-chip--outlined {
+                background-color: transparent;
+                border: 1px solid rgba(0,0,0,.12);
+                border: 1px solid var(--black-divider);
+            }
+
+            .kt-chip--outlined:focus,.kt-chip--outlined:hover {
+                background-color: rgba(0,0,0,.04);
+                background-color: var(--black-light-100);
+            }
+
+            .kt-chip--outlined:active {
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+            }
+
+            .kt-chip--has-action {
+                cursor: pointer;
+            }
+
+            .kt-snackbar-container {
+                height: 100%;
+                left: 0;
+                pointer-events: none;
+                position: fixed;
+                top: 0;
+                width: 100%;
+                z-index: 1070;
+            }
+
+            .kt-dropdown-menu {
+                display: inline-block;
+                position: relative;
+            }
+
+            .kt-ftr {
+                display: flex;
+                padding: 8px 0;
+            }
+
+            .kt-ftr__labels {
+                align-items: center;
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+                display: flex;
+                flex-direction: column;
+                font-size: .75rem;
+                margin-left: 16px;
+                margin-right: 4px;
+            }
+
+            .kt-ftr__label {
+                align-items: center;
+                display: flex;
+                flex-grow: 1;
+            }
+
+            .kt-ftr__controls {
+                flex-grow: 1;
+                min-width: 0;
+            }
+
+            .kt-ftr__control+.kt-ftr__control {
+                margin-top: 16px;
+            }
+
+            .kt-ftr-separator {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                margin: 7px 0;
+            }
+
+            .kt-ftr-separator,.kt-ftr-separator:after,.kt-ftr-separator:before {
+                background-color: rgba(0,0,0,.24);
+                background-color: var(--black-medium-200);
+                border-radius: 50%;
+                content: "";
+                flex-shrink: 0;
+                height: 2px;
+                width: 2px;
+            }
+
+            .kt-ftr-separator:before {
+                margin-bottom: 3px;
+            }
+
+            .kt-ftr-separator:after {
+                margin-top: 3px;
+            }
+
+            .kt-nav-button {
+                font-size: .875rem;
+                line-height: 2;
+                min-width: unset;
+            }
+
+            .kt-nav-button--small {
+                font-size: .75rem;
+            }
+
+            .kt-inset-banner {
+                position: relative;
+            }
+
+            .kt-inset-banner__progress {
+                position: absolute;
+                z-index: 1;
+            }
+
+            .kt-inset-banner__image {
+                display: block;
+                margin-bottom: 16px;
+                max-height: 12.5rem;
+                outline: none;
+            }
+
+            .kt-inset-banner__image--loading {
+                visibility: hidden;
+            }
+
+            .kt-inset-banner__overlay-tag {
+                height: 32px;
+                left: 8px;
+                position: absolute;
+                top: 8px;
+            }
+
+            .kt-inset-banner__divider {
+                background-color: #fff;
+                background-color: rgb(var(--content-neutral-on-color));
+                height: 12px;
+            }
+
+            .kt-toggle {
+                align-items: center;
+                display: flex;
+            }
+
+            .kt-toggle--pointed {
+                cursor: pointer;
+            }
+
+            .kt-toggle__indicator {
+                background-color: rgba(0,0,0,.24);
+                background-color: var(--black-medium-200);
+                border-radius: 12px;
+                height: 24px;
+                padding: 2px;
+                transition: background-color .15s cubic-bezier(.4,0,.2,1);
+                -webkit-user-select: none;
+                user-select: none;
+                width: 42px;
+            }
+
+            .kt-toggle__indicator--small {
+                height: 18px;
+                padding: 1px;
+                width: 32px;
+            }
+
+            .kt-toggle__circle-container {
+                height: 20px;
+                transform: translateX(0);
+                transition: transform .15s cubic-bezier(.4,0,.2,1);
+                width: 20px;
+            }
+
+            .kt-toggle__circle-container--small {
+                height: 16px;
+                width: 16px;
+            }
+
+            .kt-toggle__circle {
+                background-color: #fff;
+                background-color: var(--white);
+                border-radius: 50%;
+                box-shadow: 0 2px 4px 0 rgba(0,0,0,.24);
+                box-shadow: 0 2px 4px 0 var(--black-medium-200);
+                height: 100%;
+                width: 100%;
+            }
+
+            .kt-toggle:focus-within .kt-toggle__circle:not(.kt-toggle__circle--disabled):before,.kt-toggle:hover .kt-toggle__circle:not(.kt-toggle__circle--disabled):before {
+                transform: scale(2);
+            }
+
+            .kt-toggle__circle:after,.kt-toggle__circle:before {
+                background-color: rgba(0,0,0,.04);
+                background-color: var(--black-light-100);
+                border-radius: 50%;
+                content: "";
+                height: 100%;
+                position: absolute;
+                transition: transform .15s cubic-bezier(.4,0,.2,1),background-color .15s cubic-bezier(.4,0,.2,1);
+                width: 100%;
+                z-index: -1;
+            }
+
+            .kt-toggle__circle:after {
+                background-color: rgba(166,38,38,.08);
+                background-color: var(--brand-light-200);
+            }
+
+            .kt-toggle__label {
+                align-items: center;
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                display: flex;
+                font-size: .75rem;
+                -webkit-user-select: none;
+                user-select: none;
+            }
+
+            .kt-visually-hidden {
+                word-wrap: normal;
+                clip: rect(0 0 0 0);
+                border: 0;
+                height: 1px;
+                margin: -1px;
+                overflow: hidden;
+                padding: 0;
+                position: absolute;
+                white-space: nowrap;
+                width: 1px;
+            }
+
+            .kt-mt-4 {
+                margin-top: 8px;
+            }
+
+            .kt-mt-8 {
+                margin-top: 16px;
+            }
+
+            .kt-mb-8 {
+                margin-bottom: 16px;
+            }
+
+            .kt-nav-text-field {
+                background-color: rgba(0,0,0,.08);
+                background-color: var(--black-light-200);
+                border-radius: 4px;
+                position: relative;
+                transition-duration: .36s;
+                transition-property: background-color,box-shadow;
+            }
+
+            .kt-nav-text-field__field {
+                align-items: center;
+                display: flex;
+                gap: 8px;
+                height: 40px;
+                padding: 0 8px;
+            }
+
+            .kt-nav-text-field__icon {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+                transition: color .36s;
+            }
+
+            .kt-nav-text-field__input {
+                background-color: transparent;
+                border: none;
+                border-radius: 4px;
+                box-sizing: border-box;
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                flex: 1 1;
+                font-size: .875rem;
+                outline: 0;
+                transition: color .36s;
+            }
+
+            .kt-nav-text-field__input::-webkit-input-placeholder {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-nav-text-field__input::placeholder {
+                color: rgba(0,0,0,.32);
+                color: var(--black-hint);
+            }
+
+            .kt-nav-text-field__dropdown {
+                display: none;
+                width: 100%;
+            }
+
+            .kt-nav-text-field:hover .kt-nav-text-field__icon {
+                color: rgba(0,0,0,.56);
+                color: var(--black-secondary);
+            }
+
+            .kt-scrollable {
+                height: 100%;
+                position: relative;
+                width: 100%;
+            }
+
+            .kt-scrollable__items-wrapper {
+                align-items: center;
+                display: flex;
+                height: 100%;
+                overflow: auto;
+                width: 100%;
+            }
+
+            .kt-scrollable__items-wrapper>* {
+                flex-shrink: 0;
+            }
+
+            .kt-scrollable__items-wrapper--horizontal {
+                flex-direction: row;
+            }
+
+            .kt-scrollable__items-wrapper--horizontal:before {
+                background-image: linear-gradient(270deg,#fff,hsla(0,0%,100%,.01));
+                background-image: linear-gradient(to left,var(--white),var(--transparent));
+                opacity: 0;
+                opacity: var(--fader-start-opacity,0);
+                right: 0;
+            }
+
+            .kt-scrollable__items-wrapper--horizontal:after,.kt-scrollable__items-wrapper--horizontal:before {
+                border-radius: 0 0 4px 4px;
+                bottom: 0;
+                content: "";
+                pointer-events: none;
+                position: absolute;
+                top: 0;
+                transition: opacity .18s linear;
+                -webkit-user-select: none;
+                user-select: none;
+                width: 0;
+                width: var(--fader-size,0);
+            }
+
+            .kt-scrollable__items-wrapper--horizontal:after {
+                background-image: linear-gradient(90deg,#fff,hsla(0,0%,100%,.01));
+                background-image: linear-gradient(to right,var(--white),var(--transparent));
+                left: 0;
+                opacity: 0;
+                opacity: var(--fader-end-opacity,0);
+            }
+
+            @media screen and (min-width: 520px) {
+                .kt-scrollable__items-wrapper::-webkit-scrollbar {
+                    height: 12px;
+                    width: 12px;
+                }
+
+                .kt-scrollable__items-wrapper::-webkit-scrollbar-thumb {
+                    background-clip: padding-box;
+                    background-color: rgba(0,0,0,.12);
+                    background-color: var(--black-divider);
+                    border: 4px solid hsla(0,0%,100%,.01);
+                    border: 4px solid var(--transparent);
+                    border-radius: 12px;
+                }
+
+                .kt-scrollable__items-wrapper::-webkit-scrollbar-thumb:hover {
+                    background-color: rgba(0,0,0,.32);
+                    background-color: var(--black-hint);
+                }
+            }
+
+            .kt-scrollable__items-wrapper--no-scrollbar {
+                -ms-overflow-style: none;
+                scrollbar-width: none;
+            }
+
+            .kt-scrollable__items-wrapper--no-scrollbar::-webkit-scrollbar,.kt-scrollable__items-wrapper--no-scrollbar::-webkit-scrollbar-thumb,.kt-scrollable__items-wrapper--no-scrollbar::-webkit-scrollbar-thumb:hover,.kt-scrollable__items-wrapper--no-scrollbar::-webkit-scrollbar-track {
+                background-color: transparent;
+                display: none;
+            }
+
+            .kt-new-modal {
+                background-color: #fff;
+                background-color: var(--white);
+                border-radius: 4px;
+                box-shadow: 0 1px 2px 0 rgba(0,0,0,.12);
+                box-shadow: 0 1px 2px 0 var(--black-divider);
+                display: flex;
+                flex-direction: column;
+                position: relative;
+            }
+
+            .kt-new-modal--default,.kt-new-modal--stickyfooter {
+                max-height: 656px;
+                min-height: 232px;
+                width: 488px;
+            }
+
+            @media screen and (max-width: 520px) {
+                .kt-new-modal--default,.kt-new-modal--stickyfooter {
+                    height: 100%;
+                    margin: 0;
+                    min-height: 100%;
+                    width: 100%;
+                }
+            }
+
+            .kt-new-modal__header {
+                display: flex;
+                flex-direction: column;
+                padding: 8px 24px;
+            }
+
+            @media screen and (max-width: 520px) {
+                .kt-new-modal__header {
+                    padding: 8px 16px;
+                }
+            }
+
+            .kt-new-modal__header--has-divider {
+                box-shadow: 0 1px 2px 0 rgba(0,0,0,.12);
+                box-shadow: 0 1px 2px 0 var(--black-divider);
+            }
+
+            .kt-new-modal__title {
+                color: rgba(0,0,0,.87);
+                color: var(--black-primary);
+                font-size: 1rem;
+                font-weight: 400;
+                margin: 0;
+            }
+
+            .kt-new-modal__title-box {
+                align-items: center;
+                display: flex;
+                justify-content: space-between;
+                min-height: 56px;
+            }
+
+            .kt-new-modal__body {
+                overflow-y: auto;
+                padding: 8px 24px 24px;
+            }
+
+            .kt-new-modal__body::-webkit-scrollbar {
+                height: 12px;
+                width: 12px;
+            }
+
+            .kt-new-modal__body::-webkit-scrollbar-thumb {
+                background-clip: padding-box;
+                background-color: rgba(0,0,0,.12);
+                background-color: var(--black-divider);
+                border: 4px solid hsla(0,0%,100%,.01);
+                border: 4px solid var(--transparent);
+                border-radius: 12px;
+            }
+
+            .kt-new-modal__body::-webkit-scrollbar-thumb:hover {
+                background-color: rgba(0,0,0,.32);
+                background-color: var(--black-hint);
+            }
+
+            .kt-new-modal__body--consider-sticky-footer {
+                margin-bottom: 72px;
+            }
+
+            @media screen and (max-width: 520px) {
+                .kt-new-modal__body {
+                    padding: 8px 16px 24px;
+                }
+            }
+
+            .kt-new-modal__footer {
+                background-color: #fff;
+                background-color: var(--white);
+                border-radius: 0 0 4px 4px;
+                bottom: 0;
+                box-shadow: 0 -1px 2px 0 rgba(0,0,0,.12);
+                box-shadow: 0 -1px 2px 0 var(--black-divider);
+                padding: 16px;
+                position: absolute;
+                width: 100%;
+            }
+
+            .kt-new-modal__close-button {
+                margin-left: -8px;
+            }
+
+            @media screen and (max-width: 520px) {
+                .kt-new-modal {
+                    border-radius: 0;
+                }
+            }
+
+            .kt-stateful {
+                --font-size: 0.875rem;
+                --color: var(--black-primary);
+                --value-color: var(--black-hint);
+                --chevron-color: var(--black-hint);
+                --chevron-margin: 0 16px 0 8px;
+                border-radius: 4px;
+                color: rgba(0,0,0,.87);
+                color: var(--color);
+                cursor: pointer;
+                display: flex;
+                font-size: .875rem;
+                font-size: var(--font-size);
+                height: 48px;
+                line-height: 48px;
+                outline: none;
+            }
+
+            .kt-stateful__value {
+                color: var(--value-color);
+                flex: 1 1;
+                text-align: left;
+            }
+
+            .kt-stateful__label,.kt-stateful__value {
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            .kt-stateful__label {
+                max-width: 70%;
+            }
+
+            .kt-stateful__chevron {
+                color: var(--chevron-color);
+                margin: var(--chevron-margin);
+            }
+
+            .kt-caption {
+                font-size: .75rem;
+                font-weight: 400;
+                line-height: 2;
+            }
+
+            .kt-description-row__text {
+                font-size: 1rem;
+                font-weight: 400;
+                line-height: 2;
+            }
+
+            @media screen and (max-width: 768px) {
+                .kt-description-row__text {
+                    font-size: .875rem;
+                }
+            }
+
+            .full-width {
+                width: 100%;
+            }
+
+            /* widget-base-348.6229618a.desktop.css */
+            .rawButton-W5tTZw {
+                cursor: pointer;
+            }
+
+            @media screen and (min-width: 768px) {
+                .fromInput-P6iar_ {
+                    margin-bottom: 4px;
+                }
+            }
+
+            @media screen and (max-width: 960px) {
+                .fromInput-P6iar_.fromInput-P6iar_ {
+                    border-bottom-left-radius: 0;
+                    border-top-left-radius: 0;
+                }
+
+                .toInput-k0JF3z.toInput-k0JF3z {
+                    border-bottom-right-radius: 0;
+                    border-top-right-radius: 0;
+                }
+
+                .suggestionRow-OuYhfP {
+                    margin-bottom: 8px;
+                }
+            }
+
+            .caption-XgIOoZ {
+                color: var(--black-secondary);
+                font-size: .75rem;
+                font-weight: 500;
+                margin-bottom: 4px;
+            }
+
+            .row-CjAfQK.row-CjAfQK {
+                height: 32px;
+                line-height: 2;
+                margin-top: 8px;
+            }
+
+            .modal-L5iuPz {
+                box-shadow: 0 8px 48px 8px var(--black-light-100),0 12px 16px -8px var(--black-divider),0 24px 32px 4px var(--black-light-200);
+            }
+
+            .body-TUWGGi {
+                -moz-box-orient: vertical;
+                -moz-box-direction: normal;
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                margin-bottom: 4rem;
+                padding-top: 0;
+            }
+
+            .footer-WOr1Fs {
+                padding: 12px 16px;
+            }
+
+            .submit-button-vm2Ach {
+                width: 100%;
+            }
+
+            .list-qndtFZ {
+                -moz-box-flex: 1;
+                flex-grow: 1;
+                height: 18rem;
+            }
+
+            .content-dcpfHq,.list-qndtFZ {
+                -moz-box-orient: vertical;
+                -moz-box-direction: normal;
+                display: flex;
+                flex-direction: column;
+            }
+
+            .content-dcpfHq {
+                height: 100%;
+            }
+
+            .scroll-GAC5YL {
+                -moz-box-flex: 1;
+                flex-grow: 1;
+                overflow-x: hidden;
+            }
+
+            .scroll-GAC5YL::-webkit-scrollbar {
+                height: 12px;
+                width: 12px;
+            }
+
+            .scroll-GAC5YL::-webkit-scrollbar-thumb {
+                background-clip: padding-box;
+                background-color: var(--black-divider);
+                border: 4px solid var(--transparent);
+                border-radius: 12px;
+            }
+
+            .scroll-GAC5YL::-webkit-scrollbar-thumb:hover {
+                background-color: var(--black-hint);
+            }
+
+            .scroll-GAC5YL>div {
+                left: 0;
+                padding-bottom: 4px;
+            }
+
+            .list-items-Z9S5xR {
+                -moz-box-flex: 1;
+                flex-grow: 1;
+                height: 100%;
+                width: 100%;
+            }
+
+            .toggle-kxE5S4 {
+                -moz-box-pack: justify;
+                justify-content: space-between;
+                line-height: 24px;
+            }
+
+            .postListHeadline-dBdJDG {
+                color: var(--black-secondary);
+                display: block;
+                font-size: .75rem;
+                font-weight: 400;
+                line-height: 1.5;
+                margin: 0;
+                padding: 8px 16px;
+            }
+
+            @media screen and (min-width: 520px) {
+                .postListHeadline-dBdJDG {
+                    padding: 8px 0;
+                    text-align: left;
+                }
+            }
+
+            .sorting-iDuYe8 {
+                -moz-box-pack: end;
+                -moz-box-align: center;
+                align-items: center;
+                display: flex;
+                justify-content: flex-end;
+            }
+
+            /* bootstrap-672.6b09f769.desktop.css */
+        </style>
+        <link data-chunk="main" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/vendors-216.9581312f.desktop.css" onload="this.media='all';this.onload=null;" media="print">
+        <link data-chunk="main" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/main-179.dd0436cf.desktop.css" onload="this.media='all';this.onload=null;" media="print">
+        <link data-chunk="bootstrap" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/widget-base-348.6229618a.desktop.css" onload="this.media='all';this.onload=null;" media="print">
+        <link data-chunk="bootstrap" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/bootstrap-672.6b09f769.desktop.css" onload="this.media='all';this.onload=null;" media="print">
+        <noscript>
+            <link data-chunk="main" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/vendors-216.9581312f.desktop.css">
+            <link data-chunk="main" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/main-179.dd0436cf.desktop.css">
+            <link data-chunk="bootstrap" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/widget-base-348.6229618a.desktop.css">
+            <link data-chunk="bootstrap" rel="stylesheet" href="https://s100.divarcdn.com/web-assets/2025/10/bootstrap-672.6b09f769.desktop.css">
+        </noscript>
+        <style>
+            .connection-banner-b55d2 {
+                position: sticky;
+                top: 0;
+                z-index: 1040;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 100%;
+                height: 0;
+                color: var(--white);
+                font-size: .75rem;
+                background-color: var(--blue-800);
+                transition: height .24s ease-in-out
+            }
+
+            .connection-banner__show-d8f73 {
+                height: 32px
+            }
+
+            .connection-banner__icon-cfe92 {
+                margin-left: 8px
+            }
+
+            .connection-banner__offline-c277c {
+                background-color: var(--gray-800)
+            }
+
+            .connection-banner__back-online-ff637 {
+                font-weight: 400
+            }
+
+            .modal-fbeee {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                height: 100%;
+                padding-top: 8px;
+                text-align: center
+            }
+
+            .modal__divar-logo-a605b {
+                display: block;
+                margin: 0 auto 16px
+            }
+
+            .modal__top-d5d3b,.modal__bottom-a8837 {
+                padding: 0 16px
+            }
+
+            .modal__bottom-a8837 {
+                align-self: flex-start;
+                text-align: initial
+            }
+
+            .modal__add-f631a {
+                color: #2385f2
+            }
+
+            .modal--bold-text-f3d95 {
+                font-weight: 500
+            }
+
+            .modal__close-button-eadb9 {
+                margin-right: auto
+            }
+
+            .error-f9466 {
+                padding-top: 48px;
+                text-align: center
+            }
+
+            .nav-bar-c7698 {
+                position: sticky;
+                top: 0;
+                z-index: 1040;
+                display: flex;
+                align-items: center;
+                width: 100%;
+                height: var(--navbar-height);
+                background: var(--white);
+                box-shadow: 0 1px 2px 0 var(--black-divider);
+                transition: top .24s ease-in-out
+            }
+
+            .nav-bar--with-connection-banner-b70a2 {
+                top: 32px
+            }
+
+            .nav-bar-c7698 {
+                justify-content: center
+            }
+
+            .nav-bar__content-d23b1 {
+                display: flex;
+                flex-grow: 1;
+                align-items: center;
+                max-width: 1440px;
+                padding: 0 16px
+            }
+
+            .nav-bar__end-section-dabb8 {
+                display: flex;
+                align-items: center;
+                margin-right: auto
+            }
+
+            .nav-bar__submit-btn-fbb11 {
+                margin-right: 16px
+            }
+
+            .nav-bar--dimmer-active-d3758 {
+                z-index: 1080
+            }
+
+            .nav-bar--dimmer-active-d3758::before {
+                position: absolute;
+                top: 0;
+                left: 100%;
+                width: 15px;
+                height: 100%;
+                background-color: var(--white-nav);
+                content: ""
+            }
+
+            .nav-bar__search-container-ac88f {
+                flex: 1;
+                max-width: 480px;
+                height: 40px;
+                margin-left: 8px
+            }
+
+            .nav-bar__category-mega-box-ad06f {
+                position: relative;
+                display: flex;
+                flex-grow: 1;
+                align-items: center;
+                margin-right: 16px
+            }
+
+            .nav-bar__city-button-fb19d {
+                flex-shrink: 0
+            }
+
+            [data-hidden-overflow-side=left] .nav-bar--dimmer-active-d3758::before {
+                right: 100%;
+                left: unset
+            }
+
+            .logo-e3eeb {
+                margin-left: 8px;
+                vertical-align: middle
+            }
+
+            .dropdown-bfba4.dropdown-bfba4 {
+                position: static;
+                margin-left: 8px
+            }
+
+            .dropdown__cats-button--open-c842d.dropdown__cats-button--open-c842d {
+                color: var(--black);
+                background-color: var(--black-light-100)
+            }
+
+            .dropdown__menu-bcdab.dropdown__menu-bcdab {
+                position: absolute;
+                top: 100%;
+                right: 0;
+                left: 0;
+                display: flex;
+                flex-direction: row;
+                width: 100%;
+                min-height: 496px;
+                max-height: 520px;
+                margin-top: 4px;
+                padding: 32px
+            }
+
+            .description-a64e0.description-a64e0 {
+                margin-bottom: 48px
+            }
+
+            .bookmark-icon-caca4 {
+                animation: preloader-c41f0 .2s ease alternate
+            }
+
+            .bookmark-icon--loading-a2282 {
+                transform: scale(0.9);
+                transition: transform .2s
+            }
+
+            @keyframes preloader-c41f0 {
+                100% {
+                    transform: scale(1.1)
+                }
+            }
+
+            .form-a9d32 {
+                display: flex;
+                flex-grow: 1
+            }
+
+            .form-a9d32 {
+                height: 100%
+            }
+
+            .dropdown-dc2a5 {
+                max-height: 528px;
+                overflow-y: auto
+            }
+
+            .empty-list-a2fa9 {
+                display: flex;
+                justify-content: center
+            }
+
+            .progressible-content-e2c95 {
+                width: 100%;
+                height: 100%
+            }
+
+            .progressible-content__progress-a7872 {
+                padding: 32px 0
+            }
+
+            .progressible-content__full-page-d920f {
+                position: fixed;
+                top: 0;
+                left: 0
+            }
+
+            .queries-b4dfc {
+                padding: 0 16px 16px 16px
+            }
+
+            .queries__title-ccabe {
+                margin: 16px 0;
+                color: var(--black-secondary);
+                font-size: .875rem;
+                line-height: 1.75
+            }
+
+            .queries__items-bee00 {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 8px
+            }
+
+            .queries__item-c3381 {
+                cursor: pointer
+            }
+
+            .nav-search-assistant-btn-a358c.nav-search-assistant-btn-a358c {
+                width: 42px;
+                height: 42px;
+                background-color: var(--white);
+                border: solid var(--black-hint) 1px;
+                border-radius: 4px
+            }
+
+            .nav-search-assistant-indicator-eb864 {
+                position: absolute;
+                top: -4px;
+                left: -1px;
+                padding: 2px 4px;
+                color: var(--white);
+                font-weight: 400;
+                font-size: .45rem;
+                background-color: var(--brand);
+                border: 1px solid var(--brand);
+                border-radius: 16px
+            }
+
+            .nav-search-assistant-tooltip-bf41b {
+                position: relative
+            }
+
+            .dropdown-f47ce {
+                width: 224px
+            }
+
+            .button-item-c4f33 {
+                background-color: unset;
+                border: none
+            }
+
+            .button-f32f0:not(:first-child) {
+                margin-right: 8px
+            }
+
+            .indicator-c6af3 {
+                position: absolute;
+                top: 1px;
+                right: 3px
+            }
+
+            .browse-c7458 {
+                min-width: 992px;
+                margin: 0 auto;
+                padding: 0
+            }
+
+            .browse__main-db2d7 {
+                min-height: 100px;
+                margin-right: 300px
+            }
+
+            .browse-c7458:not(.browse--has-map-b4ff7) {
+                max-width: 1440px
+            }
+
+            .browse-c7458:not(.browse--has-map-b4ff7) .browse__main-db2d7 {
+                margin-top: 32px;
+                padding-left: 16px
+            }
+
+            .browse__aside-ee1e7 {
+                -ms-overflow-style: none;
+                scrollbar-width: none;
+                position: fixed;
+                top: var(--navbar-height);
+                width: 280px;
+                height: calc(100vh - var(--navbar-height));
+                padding: 32px 16px 0 16px;
+                overflow: auto;
+                direction: ltr
+            }
+
+            .browse__aside-ee1e7::-webkit-scrollbar,.browse__aside-ee1e7::-webkit-scrollbar-track,.browse__aside-ee1e7::-webkit-scrollbar-thumb,.browse__aside-ee1e7::-webkit-scrollbar-thumb:hover {
+                display: none;
+                background-color: transparent
+            }
+
+            .browse__aside-ee1e7>* {
+                direction: rtl
+            }
+
+            .browse__footer-e7cdd {
+                padding-top: 8px
+            }
+
+            .a11y-menu__container-eac90 {
+                position: fixed;
+                top: calc(var(--navbar-height) + 16px);
+                right: 0;
+                display: flex;
+                flex-direction: column;
+                padding: 12px 12px 0;
+                transform: translateX(100%);
+                z-index: 1000;
+                background-color: var(--white);
+                border-radius: 4px;
+                box-shadow: 0 1px 6px 0 var(--black-light-200),0 -8px 32px -4px var(--black-light-100),0 16px 24px -6px var(--black-light-100)
+            }
+
+            .a11y-menu__container--focused-f4642 {
+                transform: translateX(-16px) !important
+            }
+
+            .a11y-menu__item-b4ea4 {
+                margin-bottom: 12px;
+                padding: 10px 16px;
+                color: var(--black-secondary);
+                font-weight: 500;
+                font-size: .875rem;
+                line-height: 2;
+                background-color: var(--white);
+                border: none;
+                border-radius: 4px;
+                cursor: pointer
+            }
+
+            @media screen and (max-width: 520px) {
+                .item-c65f7 {
+                    min-height:208px
+                }
+            }
+
+            @media screen and (min-width: 521px) {
+                .item-c65f7 {
+                    min-height:148px
+                }
+            }
+
+            @media screen and (min-width: 1025px) {
+                .item-c65f7 {
+                    min-height:168px
+                }
+            }
+
+            .selected-link-c3a82 {
+                pointer-events: none
+            }
+
+            .filter-page__error-message-f3205 {
+                position: static;
+                margin-top: 8px
+            }
+
+            .filter-page-c03cf .kt-stateful {
+                --chevron-margin: 0 16px 0 0px
+            }
+
+            .filter-page-c03cf .kt-title-row__title--tertiary {
+                font-weight: 500;
+                font-size: .875rem
+            }
+
+            .filter-page-c03cf .kt-toggle__label {
+                font-size: .875rem
+            }
+
+            .row-b80e7.row-b80e7 {
+                height: 32px;
+                margin-top: 8px;
+                line-height: 2
+            }
+
+            .raw-button-cd669 {
+                cursor: pointer
+            }
+
+            .plain-f1b00,button.plain-f1b00,.plain-f1b00[type],.plain-f1b00[role=button] {
+                width: auto;
+                margin: 0;
+                padding: 0;
+                overflow: visible;
+                color: inherit;
+                font: inherit;
+                line-height: normal;
+                text-align: inherit;
+                background: transparent;
+                border: none;
+                border-radius: 0;
+                -webkit-appearance: none;
+                appearance: none;
+                -webkit-font-smoothing: inherit;
+                -moz-osx-font-smoothing: inherit
+            }
+
+            .plain-f1b00:-moz-focusring,button.plain-f1b00:-moz-focusring,.plain-f1b00[type]:-moz-focusring,.plain-f1b00[role=button]:-moz-focusring {
+                outline: auto
+            }
+
+            .disabled-efff4,button.disabled-efff4,button[disabled].disabled-efff4,.disabled-efff4[disabled][role=button] {
+                color: var(--black-hint);
+                box-shadow: none;
+                cursor: not-allowed
+            }
+
+            .disabled-efff4:hover,.disabled-efff4:focus,button.disabled-efff4:hover,button.disabled-efff4:focus,button[disabled].disabled-efff4:hover,button[disabled].disabled-efff4:focus,.disabled-efff4[disabled][role=button]:hover,.disabled-efff4[disabled][role=button]:focus {
+                background-color: transparent;
+                box-shadow: none;
+                transform: none
+            }
+
+            .modal-baee1 {
+                box-shadow: 0 8px 48px 8px var(--black-light-100),0 12px 16px -8px var(--black-divider),0 24px 32px 4px var(--black-light-200)
+            }
+
+            @media screen and (min-width: 768px) {
+                .modal-baee1 {
+                    height:41rem
+                }
+            }
+
+            .modal-baee1 .title-box-ce27a {
+                min-height: auto
+            }
+
+            .header-f8935 {
+                padding: 16px
+            }
+
+            @media screen and (min-width: 520px) {
+                .header-f8935 {
+                    padding:32px 32px 16px
+                }
+            }
+
+            .body-e67ac {
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                margin-bottom: 4rem;
+                padding-top: 0
+            }
+
+            .footer-ad63c {
+                padding: 12px 16px
+            }
+
+            .container-da401 {
+                display: flex;
+                align-items: center;
+                padding-top: 16px;
+                overflow-y: hidden
+            }
+
+            .container-da401:last-child {
+                margin-left: 0
+            }
+
+            .item-dd6e4 {
+                margin-left: 8px
+            }
+
+            .search-box-e2b9a {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-top: 16px;
+                margin-bottom: 8px
+            }
+
+            .search-back-d0f67 {
+                flex-grow: 0;
+                flex-shrink: 0;
+                margin: 0 2px
+            }
+
+            .loading-chip-fe7a7 {
+                flex-grow: 0;
+                flex-shrink: 0;
+                width: 100px;
+                margin-left: 6px
+            }
+
+            .horizontal-loading-d82d3 {
+                display: flex;
+                align-items: center
+            }
+
+            .list-cbb2c {
+                display: flex;
+                flex-direction: column;
+                flex-grow: 1;
+                height: 18rem
+            }
+
+            .content-e40eb {
+                display: flex;
+                flex-direction: column;
+                height: 100%
+            }
+
+            .scroll-a3109 {
+                flex-grow: 1;
+                overflow-x: hidden
+            }
+
+            .scroll-a3109::-webkit-scrollbar {
+                width: 12px;
+                height: 12px
+            }
+
+            .scroll-a3109::-webkit-scrollbar-thumb {
+                background-color: var(--black-divider);
+                background-clip: padding-box;
+                border: 4px solid var(--transparent);
+                border-radius: 12px
+            }
+
+            .scroll-a3109::-webkit-scrollbar-thumb:hover {
+                background-color: var(--black-hint)
+            }
+
+            .scroll-a3109>div {
+                left: 0;
+                padding-bottom: 4px
+            }
+
+            .item-row-de762 {
+                padding: 0 10px
+            }
+
+            .list-items-f5f11 {
+                flex-grow: 1;
+                width: 100%;
+                height: 100%
+            }
+
+            .submit-button-c5045 {
+                width: 100%
+            }
+
+            .warning-ef6fa * {
+                color: var(--warning)
+            }
+
+            .links-bbf4a {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center
+            }
+
+            .links__link-item-ae2ee {
+                color: var(--black-secondary);
+                transition: color 360ms ease;
+                display: inline-block;
+                padding: 8px;
+                font-size: .75rem;
+                line-height: 24px
+            }
+
+            .links__link-item-ae2ee:hover {
+                color: var(--black-primary)
+            }
+
+            .links__link-item--primary-d4f3e,.links__link-item--primary-d4f3e:hover {
+                color: var(--brand)
+            }
+
+            .links-ad0c5 {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center
+            }
+
+            .links__link-item-d30af {
+                color: var(--black-secondary);
+                transition: color 360ms ease;
+                display: flex;
+                flex-flow: wrap;
+                align-items: center;
+                justify-content: center;
+                width: 40px;
+                height: 40px;
+                margin: 0 4px;
+                line-height: 40px
+            }
+
+            .links__link-item-d30af:hover {
+                color: var(--black-primary)
+            }
+
+            .links__link-item--primary-f8de8,.links__link-item--primary-f8de8:hover {
+                color: var(--brand)
+            }
+
+            .kt-col-xxl-dee46,.kt-col-xxl-auto-d0be0,.kt-col-xxl-12-ca0a2,.kt-col-xxl-11-ae3b5,.kt-col-xxl-10-c0ea7,.kt-col-xxl-9-a6b13,.kt-col-xxl-8-f6e70,.kt-col-xxl-7-b58ee,.kt-col-xxl-6-b3fbd,.kt-col-xxl-5-efa75,.kt-col-xxl-4-e9d46,.kt-col-xxl-3-f5f5c,.kt-col-xxl-2-b4b13,.kt-col-xxl-1-ca7b6,.kt-col-xl-ff9be,.kt-col-xl-auto-bdf3f,.kt-col-xl-12-f7e91,.kt-col-xl-11-a7e58,.kt-col-xl-10-a1d63,.kt-col-xl-9-a79d7,.kt-col-xl-8-eabc6,.kt-col-xl-7-bcbbc,.kt-col-xl-6-db598,.kt-col-xl-5-b9d59,.kt-col-xl-4-cffa0,.kt-col-xl-3-c2666,.kt-col-xl-2-d13ea,.kt-col-xl-1-c1154,.kt-col-lg-d3969,.kt-col-lg-auto-d9cf7,.kt-col-lg-12-c1775,.kt-col-lg-11-c12f2,.kt-col-lg-10-bbb0b,.kt-col-lg-9-ae77f,.kt-col-lg-8-a6983,.kt-col-lg-7-b64f8,.kt-col-lg-6-df1ac,.kt-col-lg-5-d9d25,.kt-col-lg-4-e7d25,.kt-col-lg-3-c0209,.kt-col-lg-2-fdcfa,.kt-col-lg-1-d2286,.kt-col-md-f8002,.kt-col-md-auto-f13f1,.kt-col-md-12-d0cf9,.kt-col-md-11-c52a4,.kt-col-md-10-c0c88,.kt-col-md-9-efca9,.kt-col-md-8-c1648,.kt-col-md-7-c7a14,.kt-col-md-6-db110,.kt-col-md-5-c6fab,.kt-col-md-4-e2098,.kt-col-md-3-e5d74,.kt-col-md-2-d3847,.kt-col-md-1-ef5f8,.kt-col-sm-b79bc,.kt-col-sm-auto-f0734,.kt-col-sm-12-aaa56,.kt-col-sm-11-d52fe,.kt-col-sm-10-aceae,.kt-col-sm-9-c250c,.kt-col-sm-8-f7c50,.kt-col-sm-7-f9073,.kt-col-sm-6-ab0d0,.kt-col-sm-5-ec259,.kt-col-sm-4-e3503,.kt-col-sm-3-fa5b5,.kt-col-sm-2-c0e06,.kt-col-sm-1-cecb6,.kt-col-dc3f9,.kt-col-auto-e5b19,.kt-col-12-dc217,.kt-col-11-c63bd,.kt-col-10-cd052,.kt-col-9-a05ab,.kt-col-8-e86cf,.kt-col-7-dfb70,.kt-col-6-bee95,.kt-col-5-ef7b1,.kt-col-4-b681f,.kt-col-3-e5e18,.kt-col-2-fe74e,.kt-col-1-e2ca7 {
+                position: relative;
+                width: 100%;
+                padding-right: 8px;
+                padding-left: 8px
+            }
+
+            .kt-col-dc3f9 {
+                flex-basis: 0;
+                flex-grow: 1;
+                max-width: 100%
+            }
+
+            .kt-col-auto-e5b19 {
+                flex: 0 0 auto;
+                width: auto;
+                max-width: 100%
+            }
+
+            .kt-col-1-e2ca7 {
+                flex: 0 0 8.3333333333%;
+                max-width: 8.3333333333%
+            }
+
+            .kt-col-2-fe74e {
+                flex: 0 0 16.6666666667%;
+                max-width: 16.6666666667%
+            }
+
+            .kt-col-3-e5e18 {
+                flex: 0 0 25%;
+                max-width: 25%
+            }
+
+            .kt-col-4-b681f {
+                flex: 0 0 33.3333333333%;
+                max-width: 33.3333333333%
+            }
+
+            .kt-col-5-ef7b1 {
+                flex: 0 0 41.6666666667%;
+                max-width: 41.6666666667%
+            }
+
+            .kt-col-6-bee95 {
+                flex: 0 0 50%;
+                max-width: 50%
+            }
+
+            .kt-col-7-dfb70 {
+                flex: 0 0 58.3333333333%;
+                max-width: 58.3333333333%
+            }
+
+            .kt-col-8-e86cf {
+                flex: 0 0 66.6666666667%;
+                max-width: 66.6666666667%
+            }
+
+            .kt-col-9-a05ab {
+                flex: 0 0 75%;
+                max-width: 75%
+            }
+
+            .kt-col-10-cd052 {
+                flex: 0 0 83.3333333333%;
+                max-width: 83.3333333333%
+            }
+
+            .kt-col-11-c63bd {
+                flex: 0 0 91.6666666667%;
+                max-width: 91.6666666667%
+            }
+
+            .kt-col-12-dc217 {
+                flex: 0 0 100%;
+                max-width: 100%
+            }
+
+            .kt-order-first-c55a2 {
+                order: -1
+            }
+
+            .kt-order-last-ce394 {
+                order: 13
+            }
+
+            .kt-order-0-a24e9 {
+                order: 0
+            }
+
+            .kt-order-1-ca4aa {
+                order: 1
+            }
+
+            .kt-order-2-cbee7 {
+                order: 2
+            }
+
+            .kt-order-3-bd86c {
+                order: 3
+            }
+
+            .kt-order-4-f2ac9 {
+                order: 4
+            }
+
+            .kt-order-5-b9067 {
+                order: 5
+            }
+
+            .kt-order-6-b7fe3 {
+                order: 6
+            }
+
+            .kt-order-7-ae42e {
+                order: 7
+            }
+
+            .kt-order-8-f7674 {
+                order: 8
+            }
+
+            .kt-order-9-f2c68 {
+                order: 9
+            }
+
+            .kt-order-10-a297f {
+                order: 10
+            }
+
+            .kt-order-11-ab266 {
+                order: 11
+            }
+
+            .kt-order-12-dd6fa {
+                order: 12
+            }
+
+            .kt-offset-1-bf369 {
+                margin-right: 8.3333333333%
+            }
+
+            .kt-offset-2-bfdf6 {
+                margin-right: 16.6666666667%
+            }
+
+            .kt-offset-3-a72d3 {
+                margin-right: 25%
+            }
+
+            .kt-offset-4-aaa96 {
+                margin-right: 33.3333333333%
+            }
+
+            .kt-offset-5-db3c9 {
+                margin-right: 41.6666666667%
+            }
+
+            .kt-offset-6-c2a34 {
+                margin-right: 50%
+            }
+
+            .kt-offset-7-a3ee4 {
+                margin-right: 58.3333333333%
+            }
+
+            .kt-offset-8-fc3fd {
+                margin-right: 66.6666666667%
+            }
+
+            .kt-offset-9-b298d {
+                margin-right: 75%
+            }
+
+            .kt-offset-10-ec575 {
+                margin-right: 83.3333333333%
+            }
+
+            .kt-offset-11-e4eb2 {
+                margin-right: 91.6666666667%
+            }
+
+            @media(min-width: 520px) {
+                .kt-col-sm-b79bc {
+                    flex-basis:0;
+                    flex-grow: 1;
+                    max-width: 100%
+                }
+
+                .kt-col-sm-auto-f0734 {
+                    flex: 0 0 auto;
+                    width: auto;
+                    max-width: 100%
+                }
+
+                .kt-col-sm-1-cecb6 {
+                    flex: 0 0 8.3333333333%;
+                    max-width: 8.3333333333%
+                }
+
+                .kt-col-sm-2-c0e06 {
+                    flex: 0 0 16.6666666667%;
+                    max-width: 16.6666666667%
+                }
+
+                .kt-col-sm-3-fa5b5 {
+                    flex: 0 0 25%;
+                    max-width: 25%
+                }
+
+                .kt-col-sm-4-e3503 {
+                    flex: 0 0 33.3333333333%;
+                    max-width: 33.3333333333%
+                }
+
+                .kt-col-sm-5-ec259 {
+                    flex: 0 0 41.6666666667%;
+                    max-width: 41.6666666667%
+                }
+
+                .kt-col-sm-6-ab0d0 {
+                    flex: 0 0 50%;
+                    max-width: 50%
+                }
+
+                .kt-col-sm-7-f9073 {
+                    flex: 0 0 58.3333333333%;
+                    max-width: 58.3333333333%
+                }
+
+                .kt-col-sm-8-f7c50 {
+                    flex: 0 0 66.6666666667%;
+                    max-width: 66.6666666667%
+                }
+
+                .kt-col-sm-9-c250c {
+                    flex: 0 0 75%;
+                    max-width: 75%
+                }
+
+                .kt-col-sm-10-aceae {
+                    flex: 0 0 83.3333333333%;
+                    max-width: 83.3333333333%
+                }
+
+                .kt-col-sm-11-d52fe {
+                    flex: 0 0 91.6666666667%;
+                    max-width: 91.6666666667%
+                }
+
+                .kt-col-sm-12-aaa56 {
+                    flex: 0 0 100%;
+                    max-width: 100%
+                }
+
+                .kt-order-sm-first-e0c4f {
+                    order: -1
+                }
+
+                .kt-order-sm-last-f9986 {
+                    order: 13
+                }
+
+                .kt-order-sm-0-c2add {
+                    order: 0
+                }
+
+                .kt-order-sm-1-b7c06 {
+                    order: 1
+                }
+
+                .kt-order-sm-2-cf4d5 {
+                    order: 2
+                }
+
+                .kt-order-sm-3-f1ae4 {
+                    order: 3
+                }
+
+                .kt-order-sm-4-b64cf {
+                    order: 4
+                }
+
+                .kt-order-sm-5-f4b99 {
+                    order: 5
+                }
+
+                .kt-order-sm-6-d07ed {
+                    order: 6
+                }
+
+                .kt-order-sm-7-fbf09 {
+                    order: 7
+                }
+
+                .kt-order-sm-8-eb712 {
+                    order: 8
+                }
+
+                .kt-order-sm-9-e424f {
+                    order: 9
+                }
+
+                .kt-order-sm-10-f4e32 {
+                    order: 10
+                }
+
+                .kt-order-sm-11-f0ccb {
+                    order: 11
+                }
+
+                .kt-order-sm-12-c128b {
+                    order: 12
+                }
+
+                .kt-offset-sm-0-e7afe {
+                    margin-right: 0
+                }
+
+                .kt-offset-sm-1-a1c6d {
+                    margin-right: 8.3333333333%
+                }
+
+                .kt-offset-sm-2-e25ea {
+                    margin-right: 16.6666666667%
+                }
+
+                .kt-offset-sm-3-c098f {
+                    margin-right: 25%
+                }
+
+                .kt-offset-sm-4-f4009 {
+                    margin-right: 33.3333333333%
+                }
+
+                .kt-offset-sm-5-d3d82 {
+                    margin-right: 41.6666666667%
+                }
+
+                .kt-offset-sm-6-aa3ae {
+                    margin-right: 50%
+                }
+
+                .kt-offset-sm-7-cdeb6 {
+                    margin-right: 58.3333333333%
+                }
+
+                .kt-offset-sm-8-f68b2 {
+                    margin-right: 66.6666666667%
+                }
+
+                .kt-offset-sm-9-d15ee {
+                    margin-right: 75%
+                }
+
+                .kt-offset-sm-10-d83ca {
+                    margin-right: 83.3333333333%
+                }
+
+                .kt-offset-sm-11-bd8ee {
+                    margin-right: 91.6666666667%
+                }
+            }
+
+            @media(min-width: 768px) {
+                .kt-col-md-f8002 {
+                    flex-basis:0;
+                    flex-grow: 1;
+                    max-width: 100%
+                }
+
+                .kt-col-md-auto-f13f1 {
+                    flex: 0 0 auto;
+                    width: auto;
+                    max-width: 100%
+                }
+
+                .kt-col-md-1-ef5f8 {
+                    flex: 0 0 8.3333333333%;
+                    max-width: 8.3333333333%
+                }
+
+                .kt-col-md-2-d3847 {
+                    flex: 0 0 16.6666666667%;
+                    max-width: 16.6666666667%
+                }
+
+                .kt-col-md-3-e5d74 {
+                    flex: 0 0 25%;
+                    max-width: 25%
+                }
+
+                .kt-col-md-4-e2098 {
+                    flex: 0 0 33.3333333333%;
+                    max-width: 33.3333333333%
+                }
+
+                .kt-col-md-5-c6fab {
+                    flex: 0 0 41.6666666667%;
+                    max-width: 41.6666666667%
+                }
+
+                .kt-col-md-6-db110 {
+                    flex: 0 0 50%;
+                    max-width: 50%
+                }
+
+                .kt-col-md-7-c7a14 {
+                    flex: 0 0 58.3333333333%;
+                    max-width: 58.3333333333%
+                }
+
+                .kt-col-md-8-c1648 {
+                    flex: 0 0 66.6666666667%;
+                    max-width: 66.6666666667%
+                }
+
+                .kt-col-md-9-efca9 {
+                    flex: 0 0 75%;
+                    max-width: 75%
+                }
+
+                .kt-col-md-10-c0c88 {
+                    flex: 0 0 83.3333333333%;
+                    max-width: 83.3333333333%
+                }
+
+                .kt-col-md-11-c52a4 {
+                    flex: 0 0 91.6666666667%;
+                    max-width: 91.6666666667%
+                }
+
+                .kt-col-md-12-d0cf9 {
+                    flex: 0 0 100%;
+                    max-width: 100%
+                }
+
+                .kt-order-md-first-a0fe6 {
+                    order: -1
+                }
+
+                .kt-order-md-last-d4a9d {
+                    order: 13
+                }
+
+                .kt-order-md-0-c375e {
+                    order: 0
+                }
+
+                .kt-order-md-1-ad51f {
+                    order: 1
+                }
+
+                .kt-order-md-2-eb0d2 {
+                    order: 2
+                }
+
+                .kt-order-md-3-e657b {
+                    order: 3
+                }
+
+                .kt-order-md-4-c02b5 {
+                    order: 4
+                }
+
+                .kt-order-md-5-d1ba1 {
+                    order: 5
+                }
+
+                .kt-order-md-6-fa291 {
+                    order: 6
+                }
+
+                .kt-order-md-7-a9c3f {
+                    order: 7
+                }
+
+                .kt-order-md-8-d275d {
+                    order: 8
+                }
+
+                .kt-order-md-9-bf733 {
+                    order: 9
+                }
+
+                .kt-order-md-10-a1362 {
+                    order: 10
+                }
+
+                .kt-order-md-11-e55a6 {
+                    order: 11
+                }
+
+                .kt-order-md-12-cabf9 {
+                    order: 12
+                }
+
+                .kt-offset-md-0-ac9cf {
+                    margin-right: 0
+                }
+
+                .kt-offset-md-1-ea79d {
+                    margin-right: 8.3333333333%
+                }
+
+                .kt-offset-md-2-c989e {
+                    margin-right: 16.6666666667%
+                }
+
+                .kt-offset-md-3-f8cd9 {
+                    margin-right: 25%
+                }
+
+                .kt-offset-md-4-ec141 {
+                    margin-right: 33.3333333333%
+                }
+
+                .kt-offset-md-5-fbeef {
+                    margin-right: 41.6666666667%
+                }
+
+                .kt-offset-md-6-f6ede {
+                    margin-right: 50%
+                }
+
+                .kt-offset-md-7-bef84 {
+                    margin-right: 58.3333333333%
+                }
+
+                .kt-offset-md-8-b891b {
+                    margin-right: 66.6666666667%
+                }
+
+                .kt-offset-md-9-b2e5b {
+                    margin-right: 75%
+                }
+
+                .kt-offset-md-10-f5927 {
+                    margin-right: 83.3333333333%
+                }
+
+                .kt-offset-md-11-abe7d {
+                    margin-right: 91.6666666667%
+                }
+            }
+
+            @media(min-width: 960px) {
+                .kt-col-lg-d3969 {
+                    flex-basis:0;
+                    flex-grow: 1;
+                    max-width: 100%
+                }
+
+                .kt-col-lg-auto-d9cf7 {
+                    flex: 0 0 auto;
+                    width: auto;
+                    max-width: 100%
+                }
+
+                .kt-col-lg-1-d2286 {
+                    flex: 0 0 8.3333333333%;
+                    max-width: 8.3333333333%
+                }
+
+                .kt-col-lg-2-fdcfa {
+                    flex: 0 0 16.6666666667%;
+                    max-width: 16.6666666667%
+                }
+
+                .kt-col-lg-3-c0209 {
+                    flex: 0 0 25%;
+                    max-width: 25%
+                }
+
+                .kt-col-lg-4-e7d25 {
+                    flex: 0 0 33.3333333333%;
+                    max-width: 33.3333333333%
+                }
+
+                .kt-col-lg-5-d9d25 {
+                    flex: 0 0 41.6666666667%;
+                    max-width: 41.6666666667%
+                }
+
+                .kt-col-lg-6-df1ac {
+                    flex: 0 0 50%;
+                    max-width: 50%
+                }
+
+                .kt-col-lg-7-b64f8 {
+                    flex: 0 0 58.3333333333%;
+                    max-width: 58.3333333333%
+                }
+
+                .kt-col-lg-8-a6983 {
+                    flex: 0 0 66.6666666667%;
+                    max-width: 66.6666666667%
+                }
+
+                .kt-col-lg-9-ae77f {
+                    flex: 0 0 75%;
+                    max-width: 75%
+                }
+
+                .kt-col-lg-10-bbb0b {
+                    flex: 0 0 83.3333333333%;
+                    max-width: 83.3333333333%
+                }
+
+                .kt-col-lg-11-c12f2 {
+                    flex: 0 0 91.6666666667%;
+                    max-width: 91.6666666667%
+                }
+
+                .kt-col-lg-12-c1775 {
+                    flex: 0 0 100%;
+                    max-width: 100%
+                }
+
+                .kt-order-lg-first-eb4db {
+                    order: -1
+                }
+
+                .kt-order-lg-last-e6dbe {
+                    order: 13
+                }
+
+                .kt-order-lg-0-f006c {
+                    order: 0
+                }
+
+                .kt-order-lg-1-a5737 {
+                    order: 1
+                }
+
+                .kt-order-lg-2-ae005 {
+                    order: 2
+                }
+
+                .kt-order-lg-3-cc8ac {
+                    order: 3
+                }
+
+                .kt-order-lg-4-ecb99 {
+                    order: 4
+                }
+
+                .kt-order-lg-5-a676c {
+                    order: 5
+                }
+
+                .kt-order-lg-6-c232e {
+                    order: 6
+                }
+
+                .kt-order-lg-7-a7d73 {
+                    order: 7
+                }
+
+                .kt-order-lg-8-ad99b {
+                    order: 8
+                }
+
+                .kt-order-lg-9-eaa81 {
+                    order: 9
+                }
+
+                .kt-order-lg-10-e81a2 {
+                    order: 10
+                }
+
+                .kt-order-lg-11-f812d {
+                    order: 11
+                }
+
+                .kt-order-lg-12-e9f1a {
+                    order: 12
+                }
+
+                .kt-offset-lg-0-f017c {
+                    margin-right: 0
+                }
+
+                .kt-offset-lg-1-bd489 {
+                    margin-right: 8.3333333333%
+                }
+
+                .kt-offset-lg-2-bb19f {
+                    margin-right: 16.6666666667%
+                }
+
+                .kt-offset-lg-3-f71fa {
+                    margin-right: 25%
+                }
+
+                .kt-offset-lg-4-cb853 {
+                    margin-right: 33.3333333333%
+                }
+
+                .kt-offset-lg-5-e81d7 {
+                    margin-right: 41.6666666667%
+                }
+
+                .kt-offset-lg-6-ed5ce {
+                    margin-right: 50%
+                }
+
+                .kt-offset-lg-7-f2e12 {
+                    margin-right: 58.3333333333%
+                }
+
+                .kt-offset-lg-8-a8c9d {
+                    margin-right: 66.6666666667%
+                }
+
+                .kt-offset-lg-9-b13f0 {
+                    margin-right: 75%
+                }
+
+                .kt-offset-lg-10-baf49 {
+                    margin-right: 83.3333333333%
+                }
+
+                .kt-offset-lg-11-c2525 {
+                    margin-right: 91.6666666667%
+                }
+            }
+
+            @media(min-width: 1024px) {
+                .kt-col-xl-ff9be {
+                    flex-basis:0;
+                    flex-grow: 1;
+                    max-width: 100%
+                }
+
+                .kt-col-xl-auto-bdf3f {
+                    flex: 0 0 auto;
+                    width: auto;
+                    max-width: 100%
+                }
+
+                .kt-col-xl-1-c1154 {
+                    flex: 0 0 8.3333333333%;
+                    max-width: 8.3333333333%
+                }
+
+                .kt-col-xl-2-d13ea {
+                    flex: 0 0 16.6666666667%;
+                    max-width: 16.6666666667%
+                }
+
+                .kt-col-xl-3-c2666 {
+                    flex: 0 0 25%;
+                    max-width: 25%
+                }
+
+                .kt-col-xl-4-cffa0 {
+                    flex: 0 0 33.3333333333%;
+                    max-width: 33.3333333333%
+                }
+
+                .kt-col-xl-5-b9d59 {
+                    flex: 0 0 41.6666666667%;
+                    max-width: 41.6666666667%
+                }
+
+                .kt-col-xl-6-db598 {
+                    flex: 0 0 50%;
+                    max-width: 50%
+                }
+
+                .kt-col-xl-7-bcbbc {
+                    flex: 0 0 58.3333333333%;
+                    max-width: 58.3333333333%
+                }
+
+                .kt-col-xl-8-eabc6 {
+                    flex: 0 0 66.6666666667%;
+                    max-width: 66.6666666667%
+                }
+
+                .kt-col-xl-9-a79d7 {
+                    flex: 0 0 75%;
+                    max-width: 75%
+                }
+
+                .kt-col-xl-10-a1d63 {
+                    flex: 0 0 83.3333333333%;
+                    max-width: 83.3333333333%
+                }
+
+                .kt-col-xl-11-a7e58 {
+                    flex: 0 0 91.6666666667%;
+                    max-width: 91.6666666667%
+                }
+
+                .kt-col-xl-12-f7e91 {
+                    flex: 0 0 100%;
+                    max-width: 100%
+                }
+
+                .kt-order-xl-first-b5a5e {
+                    order: -1
+                }
+
+                .kt-order-xl-last-f84c9 {
+                    order: 13
+                }
+
+                .kt-order-xl-0-c0f84 {
+                    order: 0
+                }
+
+                .kt-order-xl-1-ca369 {
+                    order: 1
+                }
+
+                .kt-order-xl-2-fb72f {
+                    order: 2
+                }
+
+                .kt-order-xl-3-d99b6 {
+                    order: 3
+                }
+
+                .kt-order-xl-4-c8975 {
+                    order: 4
+                }
+
+                .kt-order-xl-5-a5a95 {
+                    order: 5
+                }
+
+                .kt-order-xl-6-ec24e {
+                    order: 6
+                }
+
+                .kt-order-xl-7-c707c {
+                    order: 7
+                }
+
+                .kt-order-xl-8-cc8fd {
+                    order: 8
+                }
+
+                .kt-order-xl-9-b7674 {
+                    order: 9
+                }
+
+                .kt-order-xl-10-bf7d4 {
+                    order: 10
+                }
+
+                .kt-order-xl-11-c6fb4 {
+                    order: 11
+                }
+
+                .kt-order-xl-12-d9aaa {
+                    order: 12
+                }
+
+                .kt-offset-xl-0-b0a27 {
+                    margin-right: 0
+                }
+
+                .kt-offset-xl-1-a1e23 {
+                    margin-right: 8.3333333333%
+                }
+
+                .kt-offset-xl-2-e561d {
+                    margin-right: 16.6666666667%
+                }
+
+                .kt-offset-xl-3-c82c1 {
+                    margin-right: 25%
+                }
+
+                .kt-offset-xl-4-e5214 {
+                    margin-right: 33.3333333333%
+                }
+
+                .kt-offset-xl-5-e0e6e {
+                    margin-right: 41.6666666667%
+                }
+
+                .kt-offset-xl-6-ba57b {
+                    margin-right: 50%
+                }
+
+                .kt-offset-xl-7-bd7f1 {
+                    margin-right: 58.3333333333%
+                }
+
+                .kt-offset-xl-8-a0249 {
+                    margin-right: 66.6666666667%
+                }
+
+                .kt-offset-xl-9-d8260 {
+                    margin-right: 75%
+                }
+
+                .kt-offset-xl-10-d5ca8 {
+                    margin-right: 83.3333333333%
+                }
+
+                .kt-offset-xl-11-c886a {
+                    margin-right: 91.6666666667%
+                }
+            }
+
+            @media(min-width: 1366px) {
+                .kt-col-xxl-dee46 {
+                    flex-basis:0;
+                    flex-grow: 1;
+                    max-width: 100%
+                }
+
+                .kt-col-xxl-auto-d0be0 {
+                    flex: 0 0 auto;
+                    width: auto;
+                    max-width: 100%
+                }
+
+                .kt-col-xxl-1-ca7b6 {
+                    flex: 0 0 8.3333333333%;
+                    max-width: 8.3333333333%
+                }
+
+                .kt-col-xxl-2-b4b13 {
+                    flex: 0 0 16.6666666667%;
+                    max-width: 16.6666666667%
+                }
+
+                .kt-col-xxl-3-f5f5c {
+                    flex: 0 0 25%;
+                    max-width: 25%
+                }
+
+                .kt-col-xxl-4-e9d46 {
+                    flex: 0 0 33.3333333333%;
+                    max-width: 33.3333333333%
+                }
+
+                .kt-col-xxl-5-efa75 {
+                    flex: 0 0 41.6666666667%;
+                    max-width: 41.6666666667%
+                }
+
+                .kt-col-xxl-6-b3fbd {
+                    flex: 0 0 50%;
+                    max-width: 50%
+                }
+
+                .kt-col-xxl-7-b58ee {
+                    flex: 0 0 58.3333333333%;
+                    max-width: 58.3333333333%
+                }
+
+                .kt-col-xxl-8-f6e70 {
+                    flex: 0 0 66.6666666667%;
+                    max-width: 66.6666666667%
+                }
+
+                .kt-col-xxl-9-a6b13 {
+                    flex: 0 0 75%;
+                    max-width: 75%
+                }
+
+                .kt-col-xxl-10-c0ea7 {
+                    flex: 0 0 83.3333333333%;
+                    max-width: 83.3333333333%
+                }
+
+                .kt-col-xxl-11-ae3b5 {
+                    flex: 0 0 91.6666666667%;
+                    max-width: 91.6666666667%
+                }
+
+                .kt-col-xxl-12-ca0a2 {
+                    flex: 0 0 100%;
+                    max-width: 100%
+                }
+
+                .kt-order-xxl-first-f91a7 {
+                    order: -1
+                }
+
+                .kt-order-xxl-last-c1878 {
+                    order: 13
+                }
+
+                .kt-order-xxl-0-d4f87 {
+                    order: 0
+                }
+
+                .kt-order-xxl-1-bc544 {
+                    order: 1
+                }
+
+                .kt-order-xxl-2-ea532 {
+                    order: 2
+                }
+
+                .kt-order-xxl-3-e2072 {
+                    order: 3
+                }
+
+                .kt-order-xxl-4-c3dcf {
+                    order: 4
+                }
+
+                .kt-order-xxl-5-e4300 {
+                    order: 5
+                }
+
+                .kt-order-xxl-6-e9cde {
+                    order: 6
+                }
+
+                .kt-order-xxl-7-eb7e1 {
+                    order: 7
+                }
+
+                .kt-order-xxl-8-e7eb8 {
+                    order: 8
+                }
+
+                .kt-order-xxl-9-b50de {
+                    order: 9
+                }
+
+                .kt-order-xxl-10-bf6df {
+                    order: 10
+                }
+
+                .kt-order-xxl-11-e5701 {
+                    order: 11
+                }
+
+                .kt-order-xxl-12-e6749 {
+                    order: 12
+                }
+
+                .kt-offset-xxl-0-bd9dd {
+                    margin-right: 0
+                }
+
+                .kt-offset-xxl-1-ce9c9 {
+                    margin-right: 8.3333333333%
+                }
+
+                .kt-offset-xxl-2-f31ed {
+                    margin-right: 16.6666666667%
+                }
+
+                .kt-offset-xxl-3-f7f92 {
+                    margin-right: 25%
+                }
+
+                .kt-offset-xxl-4-abaab {
+                    margin-right: 33.3333333333%
+                }
+
+                .kt-offset-xxl-5-d2e92 {
+                    margin-right: 41.6666666667%
+                }
+
+                .kt-offset-xxl-6-b374c {
+                    margin-right: 50%
+                }
+
+                .kt-offset-xxl-7-e6602 {
+                    margin-right: 58.3333333333%
+                }
+
+                .kt-offset-xxl-8-e77e2 {
+                    margin-right: 66.6666666667%
+                }
+
+                .kt-offset-xxl-9-f34a2 {
+                    margin-right: 75%
+                }
+
+                .kt-offset-xxl-10-a8925 {
+                    margin-right: 83.3333333333%
+                }
+
+                .kt-offset-xxl-11-d263b {
+                    margin-right: 91.6666666667%
+                }
+            }
+
+            .post-list__bottom-container-cac2f {
+                padding: 32px
+            }
+
+            .post-list__items-container-e44b2 {
+                display: flex;
+                flex-wrap: wrap;
+                background-color: var(--white);
+                clip-path: inset(0 0 0 0)
+            }
+
+            .post-list__loader-b295d {
+                height: 40px
+            }
+
+            .post-list__error-message-a3ce2 {
+                text-align: center
+            }
+
+            .post-list__error-message-a3ce2.post-list__error-message-a3ce2 {
+                position: static
+            }
+
+            .post-list__load-more-btn-container-cef96 {
+                display: flex;
+                justify-content: center;
+                height: 40px
+            }
+
+            .post-list-eb562 {
+                margin: 0 -8px
+            }
+
+            .post-list__load-more-btn-be092 {
+                width: 176px
+            }
+
+            .widget-col-d2306 {
+                flex-basis: 50%;
+                max-width: 50%;
+                padding: 8px
+            }
+
+            .full-width-widget-col-c8bd0 {
+                flex-basis: 100%;
+                width: 100%;
+                padding: 8px
+            }
+
+            @media screen and (min-width: 1366px) {
+                .widget-col-d2306 {
+                    flex-basis:33.3333%;
+                    max-width: 33.3333%
+                }
+            }
+
+            .inset-banner-aa6ae {
+                position: relative
+            }
+
+            .inset-banner-aa6ae.inset-banner-aa6ae {
+                max-height: none;
+                margin-bottom: 0
+            }
+
+            .container-a165a {
+                display: flex;
+                justify-content: space-around;
+                margin: 16px
+            }
+
+            .absolute-c06f1 {
+                position: absolute;
+                bottom: 32px;
+                left: 50%;
+                transform: translateX(-50%)
+            }
+
+            .multi-city-change-alert-actions-ac158.kt-button-a3665 {
+                flex: 1
+            }
+
+            .container-a30c5 {
+                margin-top: var(--navbar-height)
+            }
+
+            .modal-a5925 {
+                box-shadow: 0 8px 48px 8px var(--black-light-100),0 12px 16px -8px var(--black-divider),0 24px 32px 4px var(--black-light-200)
+            }
+
+            @media screen and (min-width: 768px) {
+                .modal-a5925 {
+                    height:41rem
+                }
+            }
+
+            .title-a774e.title-a774e {
+                font-weight: 500;
+                font-size: 1.125rem
+            }
+
+            .title-box-e8244 {
+                min-height: unset;
+                margin-top: -6px;
+                margin-bottom: 8px
+            }
+
+            .header-a5d43 {
+                padding: 16px;
+                box-shadow: 0 1px 2px 0 var(--black-divider)
+            }
+
+            @media screen and (min-width: 520px) {
+                .header-a5d43 {
+                    padding:32px 32px 16px
+                }
+            }
+
+            .body-b56d9.body-b56d9 {
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                margin-bottom: 4rem;
+                padding: 0 16px
+            }
+
+            @media screen and (min-width: 520px) {
+                .body-b56d9.body-b56d9 {
+                    padding:8px 32px 0 24px
+                }
+            }
+
+            .footer-aafd0 {
+                z-index: 2;
+                padding: 12px 16px
+            }
+
+            .submit-modal__body-fc3be.submit-modal__body-fc3be {
+                padding-top: 24px
+            }
+
+            .ios-installation-banner-d199c {
+                position: fixed;
+                bottom: 0;
+                display: flex;
+                align-items: center;
+                width: 100%;
+                height: 80px;
+                padding: 8px;
+                background-color: var(--white);
+                border-radius: 16px 16px 0 0
+            }
+
+            .ios-installation-banner__close-icon-bc55a {
+                margin-left: 8px
+            }
+
+            .ios-installation-banner__right-ecd92 {
+                display: flex;
+                flex: 1;
+                align-items: center
+            }
+
+            .ios-installation-banner__app-logo-d3ba6 {
+                margin-left: 10px;
+                border: 1px solid var(--gray-200);
+                border-radius: 16px
+            }
+
+            .ios-installation-banner__title-fc8ce {
+                margin: 0;
+                color: var(--black-primary);
+                font-weight: 500;
+                font-size: .75rem
+            }
+
+            .ios-installation-banner__subtitle-d0a5a {
+                margin: 0;
+                color: var(--black-secondary);
+                font-size: .625rem
+            }
+
+            .ios-installation-banner__left-cfd5b {
+                margin-left: 8px;
+                padding: 8px 12px;
+                color: var(--black-primary);
+                font-weight: 500;
+                font-size: .875rem;
+                border: 1px solid var(--black-primary);
+                border-radius: 4px
+            }
+
+            .error-message-b99b3 {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center
+            }
+
+            .header-c7b11 {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin: 8px 0
+            }
+
+            .body-e6802 {
+                display: flex;
+                flex-direction: column
+            }
+
+            .rwv-debugger-a2a67 {
+                position: fixed;
+                bottom: 64px;
+                left: 32px;
+                display: flex;
+                justify-content: center;
+                width: 24px;
+                margin: 0;
+                padding: 2px 17px 0;
+                line-height: 32px;
+                background-color: var(--white);
+                border: 4px solid var(--success-primary);
+                border-radius: 50%;
+                box-shadow: 0 8px 12px -6px var(--black-medium-100),0 12px 16px 0 var(--black-divider),0 1px 32px 0 var(--black-light-200)
+            }
+
+            .header-d4c4e {
+                position: relative
+            }
+
+            .header-d4c4e .title-c8bc7 {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+                margin: 0;
+                color: var(--black-press);
+                font-size: .875rem
+            }
+
+            .body-a11ad {
+                margin-bottom: 8px;
+                overflow-x: hidden
+            }
+        </style>
+        <script data-react-helmet="true" type="application/ld+json">
+            {
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "item": {
+                            "@id": "https://divar.ir",
+                            "name": "دیوار"
+                        }
+                    },
+                    {
+                        "@type": "ListItem",
+                        "position": 2,
+                        "item": {
+                            "@id": "https://divar.ir/s/tehran",
+                            "name": "تهران"
+                        }
+                    }
+                ],
+                "@context": "http://schema.org",
+                "@type": "BreadcrumbList"
+            }</script>
+        <script data-react-helmet="true" type="application/ld+json">
+            {
+                "@context": "https://schema.org",
+                "@type": "WebSite",
+                "name": "divar.ir",
+                "url": "https://divar.ir/",
+                "publisher": {
+                    "sameAs": [
+                        "https://www.instagram.com/divar.official",
+                        "https://www.linkedin.com/company/divarofficial",
+                        "https://www.facebook.com/DivarApp",
+                        "https://twitter.com/divar_official",
+                        "https://fa.wikipedia.org/wiki/دیوار_(وبگاه)",
+                        "https://cafebazaar.ir/app/ir.divar",
+                        "https://my.sibche.ir/app/details/id/3489/name/Divar",
+                        "https://sibapp.com/applications/divar",
+                        "https://sibirani.com/apps/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1-Divar/",
+                        "https://anardoni.com/ios/app/6kl9LCixX",
+                        "https://www.youtube.com/channel/UCvw4asKnOL8MP_esQAZQSMg",
+                        "https://www.aparat.com/divar.official/%D8%AF%DB%8C%D9%88%D8%A7%D8%B1"
+                    ],
+                    "location": {
+                        "@type": "Place",
+                        "address": "آدرس پستی: تهران، بلوار میرداماد، تقاطع نلسون ماندلا(جردن)، ساختمان ۴۰۴، طبقهٔ ۵",
+                        "hasMap": "https://maps.app.goo.gl/Tmp7VLtqZ6n63fcy5",
+                        "latitude": 35.761848,
+                        "longitude": 51.418054
+                    },
+                    "@context": "https://schema.org",
+                    "contactPoint": {
+                        "email": "support@divar.ir",
+                        "@type": "ContactPoint",
+                        "telephone": "+98 21 79458000",
+                        "availableLanguage": [
+                            "Persian",
+                            "English"
+                        ],
+                        "contactType": "customer Service"
+                    },
+                    "url": "https://divar.ir",
+                    "name": "دیوار",
+                    "alternateName": "divar",
+                    "legalName": "آگه پردازان هوشمند",
+                    "description": "نیازمندی‌ و ثبت آگهی رایگان رهن، اجاره، خرید، فروش خانه، آپارتمان، استخدام، خرید و فروش خودرو، ماشین صفر نو دست دو کارکرده، موبایل و تبلت نو و کارکرده و دست دو، موتور سیکلت صفر و نو و دست دوم و کارکرده، بازی، خدمات در تهران",
+                    "telephone": "+98 21 88652137",
+                    "logo": "https://s100.divarcdn.com/static/thewall-assets/android-chrome-512x512.png",
+                    "@type": "Organization"
+                }
+            }</script>
+        <script>
+            window.env = {
+                "SERVING_MODE": "desktop",
+                "IS_STAGING": false,
+                "PORT": 8080,
+                "DISABLE_AXIOS_CACHE_INTERCEPTOR": false,
+                "FORCE_SSR_FOR_KNOWN_BOTS": true,
+                "RELEASE_VERSION": "the-wall-v12-93-1",
+                "KHESHT_VERSION": "",
+                "ANDROID_PACKAGE_NAME": "io.thewall",
+                "ANDROID_PACKAGE_NAME_IRAN": "ir.divar",
+                "WEBENGAGE_ENABLE": false,
+                "MONITORING_CLIENT_EXPORTER_ENABLE": true,
+                "GOOGLE_ANALYTICS_ENABLED": true,
+                "GOOGLE_ANALYTICS_ID": "G-1G1K17N77F",
+                "GOOGLE_TAG_MANAGER_ID": "GTM-NGGBSR3",
+                "RESEND_AUTH_CODE_TIMEOUT": 30000,
+                "LOCAL_SEARCH_HISTORY_VERSION": 1.1,
+                "ENABLE_ENAMAD": true,
+                "SHOW_IOS_APP_STORE_LINK": true,
+                "SHOW_GOOGLE_PLAY_LINK": false,
+                "SHOW_APK_FILE_LINK": true,
+                "APK_FILE_LINK": "https://divar.ir/downloads/android/release/release_251012010/Divar-release-11.14.3-251012010.apk",
+                "APK_FILE_FALLBACK_LINK": "https://divar.ir/downloads/android/release/rollback_apk.apk",
+                "GOOGLE_PLAY_APP_LINK": "https://play.google.com/store/apps/details?id=io.thewall&utm_campaign=new_app_google_play&utm_source=divar_download_page&utm_medium=web",
+                "IS_CANARY": false,
+                "BROWSE_LINK_PROCESSOR_DATA_URL": "https://s100.divarcdn.com/static/public/search/filters-config.json?version=1.0",
+                "PLACES_DATA_URL": "https://map.divarcdn.com/places-web.json",
+                "OTEL_ENDPOINT": "https://opentelemetry.divar.ir/v1/traces",
+                "ENABLE_A11Y_FEEDBACK": true,
+                "CHECK_COOKIE_SERVER_COLLISION": false,
+                "CAPTCHA_SITE_KEY": "fctd38ygaj",
+                "ENABLE_BLOG_LINKS": true,
+                "IS_Clarity_ENABLED": true,
+                "FORCE_RICH_WEB_VIEW_CSR": false,
+                "IS_SUPPORT_TICKETING_ENABLED": false,
+                "IS_SENTRY_ENABLED": true,
+                "IS_SENTRY_REPLAY_ENABLED": false,
+                "IS_CLIENT_IDS_ENABLED": true,
+                "IS_RESUBMIT_ENABLED": true,
+                "IS_SUBMIT_WEB_NEW_CATEGORY_SELECTION_ENABLED": true,
+                "IS_SUBMIT_WEB_VIDEO_UPLOAD_ENABLED": true,
+                "HAS_RECOVERABLE_ERROR_HANDLER": true,
+                "IS_OPEN_TELEMETRY_ENABLED": true,
+                "AUTH_CAPTCHA_SCRIPT_SRC": "https://divar.rcaptcha.ir/1/api.js?domain=divar.ir",
+                "AUTH_CAPTCHA_SCRIPT_SITE_KEY": "2xh7ii1dih",
+                "CLIENT_EXPORTER_WIDGET_RENDER_SAMPLE_RATE": 0.1,
+                "CLIENT_EXPORTER_ACTION_CLICK_SAMPLE_RATE": 0.1,
+                "IS_LOGIN_RESTRICTION_MESSAGE_ENABLED": false,
+                "IMAGE_UPLOAD_API_TIMEOUT": 600,
+                "IS_LOGOUT_REQUEST_ENABLED": true,
+                "IS_SEARCH_ASSISTANT_QUERY_SUGGESTION_ENABLED": true,
+                "IS_INSET_BANNER_LAZY_ENABLED": true,
+                "IS_SEARCH_ASSISTANT_TAB_ENABLED": true,
+                "IS_GOOGLE_REFERRER_ACTION_LOG_ENABLED": true,
+                "IS_PAYMENT_RETRY_ENABLED": false,
+                "IS_PAYMENT_OVVERRIDE_ENABLED": false,
+                "IS_SENTRY_CLS_ATTRIBUTION_ENABLED": true,
+                "ENABLE_DEVICE_ID_VALIDATION_SENTRY": true,
+                "IS_LIVE_SESSION_ENABLED": false,
+                "IS_INJECT_META_TAGS_FOR_CSR_ENABLED": true,
+                "IS_BLACKLIST_APPEAL_FORM_PAGE_ENABLED": false,
+                "NODE_ENV": "production",
+                "PUBLIC_PATH": "https://s100.divarcdn.com/web-assets/2025/10/",
+                "PREFIX_URL": "https://divar.ir",
+                "DOMAIN_NAME": ".divar.ir",
+                "SENTRY_DSN": "https://7e7d19d51ebe4bd5955fda8ab50107b1@sentry.divar.cloud/5",
+                "SENTRY_SAMPLE_RATE": 0.5,
+                "API_URL": "https://api.divar.ir/",
+                "ACTION_LOG_API_URL": "https://actionlog.divar.ir/log",
+                "API_TIMEOUT": 10,
+                "SENTRY_ORG": "sentry",
+                "SENTRY_PROJECT": "the-wall",
+                "SENTRY_URL": "https://sentry.divar.cloud",
+                "RENDER_MODE": "ssr"
+            };
+        </script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+        </script>
+    </head>
+    <body dir="rtl">
+        <div id=app>
+            <div class="kt-dimmer kt-dimmer--darker">
+                <div class="kt-dimmer__content">
+                    <div class="kt-visually-hidden fallback-focus-class" tabindex="-1"></div>
+                    <section role="dialog" class="kt-new-modal kt-new-modal--stickyfooter">
+                        <header class="kt-new-modal__header kt-new-modal__header--has-divider">
+                            <div class="kt-new-modal__title-box">
+                                <button class="kt-button kt-button--inlined kt-button--circular kt-new-modal__close-button modal__close-button-eadb9" type="button" tabindex="0" aria-label="بستن">
+                                    <i class="kt-icon kt-icon-close kt-button__icon no-pointer-event"></i>
+                                </button>
+                            </div>
+                        </header>
+                        <div class="kt-new-modal__body kt-new-modal__body--consider-sticky-footer">
+                            <div class="modal-fbeee">
+                                <div class="modal__top-d5d3b">
+                                    <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjM4NiAxNC42MTdIOC4yOGEuNzEyLjcxMiAwIDAgMS0uNTk1LS44MDZjLjQ3My0zLjExNy42My04LjA5Mi42My04LjEyNy4wMzUtLjM4Ni4zMzMtLjcuNzM2LS42ODNhLjcxNS43MTUgMCAwIDEgLjY4My43MThjMCAuMjEtLjE3NSA1LjA5Ny0uNjQ4IDguMzAzYS43LjcgMCAwIDEtLjcuNTk1Wm0xMC4wMzcgMS4yOTZhLjY5My42OTMgMCAwIDEtLjY2Ni0uNDkuNjg2LjY4NiAwIDAgMSAuNDU1LS44NzZjMy4zMS0xLjA1IDMuMzYzLTEuODU3IDMuMzgxLTIuMjk1LjAzNS0uNjgzLS40OS0xLjU1OC0uNy0xLjg1NmEuNzAyLjcwMiAwIDEgMSAxLjEzOC0uODI0Yy4xMDUuMTQgMS4wNSAxLjQ1NC45NjMgMi43NjgtLjA4NyAxLjU5NC0xLjMxNCAyLjU3NS00LjM2MSAzLjU1NmEuODc4Ljg3OCAwIDAgMC0uMTA1LjAxLjkyOC45MjggMCAwIDEtLjEwNS4wMDdabS05LjUxMiAyLjQ3YS42NTUuNjU1IDAgMCAxLS41NDMtLjI2Mi42ODMuNjgzIDAgMCAxIC4xMjMtLjk4YzEuNDM2LTEuMTQgMi40LTIuMTU2IDMuMDMtMy4wNDktLjM1LS4xNzUtLjcxOC0uNDM4LS45MS0uODc2LS4xNzYtLjQwMy0uMjgxLTEuMDY5LjMzMi0xLjk2Mi44NzYtMS4yOTYgMS43NTItMS41OTQgMi4wODQtMS42NjRhLjg3Ljg3IDAgMCAxIDEuMDE2LjYxM2MuMDg4LjMxNS4yOTggMS4zMTQtLjMzMiAyLjgzOC44NC0uMDE4IDEuNTA2LS4yNDUgMi4wMTQtLjY2Ni45OC0uNzg4IDEuMDMzLTIuMTIgMS4wMzMtMi4xMzdhLjcxNS43MTUgMCAwIDEgLjcxOS0uNjgzLjcxNS43MTUgMCAwIDEgLjY4My43MThjMCAuMDctLjA3IDEuOTQ0LTEuNTI0IDMuMTctLjkxMS43NzEtMi4xNTUgMS4xMDQtMy42NjEuOTgyLS43MTggMS4xMDMtMS44NTcgMi40LTMuNjI2IDMuOGEuNzA3LjcwNyAwIDAgMS0uNDM4LjE1OFptMy44MDEtNy4wNzZjLS4yNDcuMjExLS40Ni40NTktLjYzLjczNS0uMjI4LjM1LS4yNDYuNTQzLS4yMjguNTk2LjAzNS4wODguMjEuMTc1LjM4NS4yNDUuMzMzLS42NjUuNDM4LTEuMTkuNDczLTEuNTc2Wm0uMTc1IDQuOTIyYS43MS43MSAwIDAgMCAuNy42ODNoLjAzNmMuMDUzIDAgMS4yMjYtLjAzNSAyLjkwOC0uNDJhLjcuNyAwIDAgMCAuNTQzLS44NC43MDMuNzAzIDAgMCAwLS44NDEtLjU0NGMtMS41Ni4zMzItMi42NjMuMzg1LTIuNjguMzg1YS43MDQuNzA0IDAgMCAwLS42NjYuNzM2Wk0xLjEzNCAxOC4xMDNjLjEyMi4xNzUuMzUuMjguNTYuMjguMTQgMCAuMjgtLjAzNS40Mi0uMTIyIDQuNDUtMy4yNCA0LjYyNS03LjQ4IDQuNjI1LTcuNjU1IDAtLjM4NS0uMjk4LS43LS42ODMtLjcxOC0uMzg2LS4wMTgtLjcuMjk4LS43MTguNjgzIDAgLjE0LS4xNzYgMy43MzEtNC4wNDcgNi41NTFhLjcwMi43MDIgMCAwIDAtLjE1Ny45ODFaIiBmaWxsPSIjRDgzOTM5Ii8+PC9zdmc+" alt="نشان دیوار" width="64" height="64" class="modal__divar-logo-a605b"/>
+                                    <div class="kt-base-row kt-base-row--large kt-description-row kt-description-row--padded">
+                                        <div class="kt-base-row__start">
+                                            <p class="kt-description-row__text kt-description-row__text--primary">وب‌اپلیکیشن یا PWA دیوار سرویسی است که نصب آن، استفاده از دیوار را بدون نیاز به دانلود اپلیکیشن و به‌روز‌رسانی و تنها با کلیک روی آیکون آن فراهم می‌کند. در نسخهٔ وب‌اپلیکیشن نیازی به دانلود و به‌روزرسانی نیست و کاربران iOS و اندروید با دسترسی‌ به آیکون اپلیکیشن در کنار سایر اپ‌های موبایل خود می‌توانند از آن استفاده کنند.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <hr class="kt-divider kt-divider--padded kt-divider--default" role="presentation"/>
+                                <div class="modal__bottom-a8837">
+                                    <div class="kt-base-row kt-base-row--large kt-description-row kt-description-row--padded">
+                                        <div class="kt-base-row__start">
+                                            <p class="kt-description-row__text kt-description-row__text--primary">
+                                                ۱. در نوار پایین روی دکمهٔ <i class="kt-icon kt-icon-share-o" style="color:#2385f2" aria-label="اشتراک‌گذاری"></i>
+                                                <span class="modal--bold-text-f3d95">share</span>
+                                                بزنید.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="kt-base-row kt-base-row--large kt-description-row">
+                                        <div class="kt-base-row__start">
+                                            <p class="kt-description-row__text kt-description-row__text--primary">
+                                                ۲. در منوی باز شده، گزینهٔ <i class="kt-icon kt-icon-added-o" style="color:#2385f2" aria-label="اضافه کردن به صفحهٔ اصلی"></i>
+                                                <span class="modal--bold-text-f3d95">Add to home screen</span>
+                                                را انتخاب کنید.
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="kt-base-row kt-base-row--large kt-description-row kt-description-row--padded">
+                                        <div class="kt-base-row__start">
+                                            <p class="kt-description-row__text kt-description-row__text--primary">
+                                                ۳. در قسمت بالا روی دکمهٔ <span class="modal__add-f631a">Add</span>
+                                                بزنید.
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <footer class="kt-new-modal__footer">
+                            <div class="kt-button-row kt-button-row--responsive">
+                                <button class="kt-button kt-button--primary" type="button" tabindex="0">
+                                    <span class="kt-text-truncate no-pointer-event">متوجه شدم</span>
+                                </button>
+                            </div>
+                        </footer>
+                    </section>
+                </div>
+            </div>
+            <header class="nav-bar-c7698">
+                <div id="skip-to-content-container"></div>
+                <nav class="nav-bar__content-d23b1">
+                    <a href="/s/tehran">
+                        <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04LjM4NiAxNC42MTdIOC4yOGEuNzEyLjcxMiAwIDAgMS0uNTk1LS44MDZjLjQ3My0zLjExNy42My04LjA5Mi42My04LjEyNy4wMzUtLjM4Ni4zMzMtLjcuNzM2LS42ODNhLjcxNS43MTUgMCAwIDEgLjY4My43MThjMCAuMjEtLjE3NSA1LjA5Ny0uNjQ4IDguMzAzYS43LjcgMCAwIDEtLjcuNTk1Wm0xMC4wMzcgMS4yOTZhLjY5My42OTMgMCAwIDEtLjY2Ni0uNDkuNjg2LjY4NiAwIDAgMSAuNDU1LS44NzZjMy4zMS0xLjA1IDMuMzYzLTEuODU3IDMuMzgxLTIuMjk1LjAzNS0uNjgzLS40OS0xLjU1OC0uNy0xLjg1NmEuNzAyLjcwMiAwIDEgMSAxLjEzOC0uODI0Yy4xMDUuMTQgMS4wNSAxLjQ1NC45NjMgMi43NjgtLjA4NyAxLjU5NC0xLjMxNCAyLjU3NS00LjM2MSAzLjU1NmEuODc4Ljg3OCAwIDAgMC0uMTA1LjAxLjkyOC45MjggMCAwIDEtLjEwNS4wMDdabS05LjUxMiAyLjQ3YS42NTUuNjU1IDAgMCAxLS41NDMtLjI2Mi42ODMuNjgzIDAgMCAxIC4xMjMtLjk4YzEuNDM2LTEuMTQgMi40LTIuMTU2IDMuMDMtMy4wNDktLjM1LS4xNzUtLjcxOC0uNDM4LS45MS0uODc2LS4xNzYtLjQwMy0uMjgxLTEuMDY5LjMzMi0xLjk2Mi44NzYtMS4yOTYgMS43NTItMS41OTQgMi4wODQtMS42NjRhLjg3Ljg3IDAgMCAxIDEuMDE2LjYxM2MuMDg4LjMxNS4yOTggMS4zMTQtLjMzMiAyLjgzOC44NC0uMDE4IDEuNTA2LS4yNDUgMi4wMTQtLjY2Ni45OC0uNzg4IDEuMDMzLTIuMTIgMS4wMzMtMi4xMzdhLjcxNS43MTUgMCAwIDEgLjcxOS0uNjgzLjcxNS43MTUgMCAwIDEgLjY4My43MThjMCAuMDctLjA3IDEuOTQ0LTEuNTI0IDMuMTctLjkxMS43NzEtMi4xNTUgMS4xMDQtMy42NjEuOTgyLS43MTggMS4xMDMtMS44NTcgMi40LTMuNjI2IDMuOGEuNzA3LjcwNyAwIDAgMS0uNDM4LjE1OFptMy44MDEtNy4wNzZjLS4yNDcuMjExLS40Ni40NTktLjYzLjczNS0uMjI4LjM1LS4yNDYuNTQzLS4yMjguNTk2LjAzNS4wODguMjEuMTc1LjM4NS4yNDUuMzMzLS42NjUuNDM4LTEuMTkuNDczLTEuNTc2Wm0uMTc1IDQuOTIyYS43MS43MSAwIDAgMCAuNy42ODNoLjAzNmMuMDUzIDAgMS4yMjYtLjAzNSAyLjkwOC0uNDJhLjcuNyAwIDAgMCAuNTQzLS44NC43MDMuNzAzIDAgMCAwLS44NDEtLjU0NGMtMS41Ni4zMzItMi42NjMuMzg1LTIuNjguMzg1YS43MDQuNzA0IDAgMCAwLS42NjYuNzM2Wk0xLjEzNCAxOC4xMDNjLjEyMi4xNzUuMzUuMjguNTYuMjguMTQgMCAuMjgtLjAzNS40Mi0uMTIyIDQuNDUtMy4yNCA0LjYyNS03LjQ4IDQuNjI1LTcuNjU1IDAtLjM4NS0uMjk4LS43LS42ODMtLjcxOC0uMzg2LS4wMTgtLjcuMjk4LS43MTguNjgzIDAgLjE0LS4xNzYgMy43MzEtNC4wNDcgNi41NTFhLjcwMi43MDIgMCAwIDAtLjE1Ny45ODFaIiBmaWxsPSIjRDgzOTM5Ii8+PC9zdmc+" alt="نشان دیوار" width="48" height="48" class="logo-e3eeb"/>
+                    </a>
+                    <hr class="kt-divider kt-divider--padded kt-divider--vertical kt-divider--default" role="presentation"/>
+                    <div class="kt-rich-tooltip__trigger" data-tooltip-id="city-input-tooltip">
+                        <button class="kt-button kt-button--inlined kt-nav-button nav-bar__city-button-fb19d" type="button" tabindex="0">
+                            <i class="kt-icon kt-icon-place kt-button__icon no-pointer-event"></i>
+                            <span class="kt-text-truncate no-pointer-event">تهران</span>
+                        </button>
+                    </div>
+                    <div class="nav-bar__category-mega-box-ad06f">
+                        <div aria-haspopup="true" class="kt-dropdown-menu dropdown-bfba4">
+                            <button type="button" class="kt-dropdown-button kt-dropdown-button--medium kt-dropdown-button--inlined">
+                                دسته‌ها<i class="kt-icon kt-icon-keyboard-arrow-down-o kt-icon--sm kt-dropdown-button__arrow-icon kt-dropdown-button__arrow-icon--closed"></i>
+                            </button>
+                        </div>
+                        <div class="nav-bar__search-container-ac88f">
+                            <div class="kt-dimmer kt-dimmer--darker">
+                                <div class="kt-dimmer__content">
+                                    <div class="kt-visually-hidden fallback-focus-class" tabindex="-1"></div>
+                                    <section role="dialog" class="kt-new-modal kt-new-modal--default">
+                                        <header class="kt-new-modal__header kt-new-modal__header--has-divider">
+                                            <div class="kt-new-modal__title-box">
+                                                <p class="kt-new-modal__title"></p>
+                                                <button class="kt-button kt-button--inlined kt-button--circular kt-new-modal__close-button" type="button" tabindex="0" aria-label="بستن">
+                                                    <i class="kt-icon kt-icon-close kt-button__icon no-pointer-event"></i>
+                                                </button>
+                                            </div>
+                                        </header>
+                                        <div class="kt-new-modal__body">
+                                            <div class="kt-base-row kt-base-row--large kt-description-row kt-description-row--padded">
+                                                <div class="kt-base-row__start">
+                                                    <p class="description-a64e0 kt-description-row__text kt-description-row__text--primary"></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <footer class="kt-new-modal__footer">
+                                            <div class="kt-button-row kt-button-row--fullwidth">
+                                                <button class="kt-button kt-button--primary" type="button" tabindex="0">
+                                                    <span class="kt-text-truncate no-pointer-event"></span>
+                                                </button>
+                                            </div>
+                                        </footer>
+                                    </section>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="full-width kt-nav-text-field">
+                                    <div class="kt-nav-text-field__field">
+                                        <form class="form-a9d32">
+                                            <input class="kt-nav-text-field__input" type="text" autoComplete="off" placeholder="جستجو در همهٔ آگهی‌ها" name="search" value=""/>
+                                        </form>
+                                        <i class="kt-icon kt-icon-search-o kt-nav-text-field__icon"></i>
+                                    </div>
+                                    <div class="kt-nav-text-field__dropdown">
+                                        <hr class="kt-divider kt-divider--default" role="presentation"/>
+                                        <div class="dropdown-dc2a5">
+                                            <div class="progressible-content-e2c95">
+                                                <div class="kt-progress-snake progressible-content__progress-a7872 kt-progress-snake--primary kt-progress-snake--animated kt-progress-snake--center kt-progress-snake--lg" role="progressbar">
+                                                    <span class="kt-progress-snake__node"></span>
+                                                    <span class="kt-progress-snake__node"></span>
+                                                    <span class="kt-progress-snake__node"></span>
+                                                </div>
+                                            </div>
+                                            <div class="queries-b4dfc">
+                                                <div class="queries__title-ccabe">بیشترین جستجوهای دیوار</div>
+                                                <div class="queries__items-bee00">
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/car">
+                                                        <span>خودروی سواری</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/buy-apartment">
+                                                        <span>فروش آپارتمان</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/rent-apartment">
+                                                        <span>اجاره آپارتمان</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/mobile-phones">
+                                                        <span>موبایل</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/chair-bench">
+                                                        <span>صندلی و نیمکت</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/pets-animals">
+                                                        <span>حیوانات</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/personal-goods">
+                                                        <span>وسایل شخصی</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/services">
+                                                        <span>خدمات</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/jobs">
+                                                        <span>استخدام</span>
+                                                    </a>
+                                                    <a class="kt-chip kt-chip--small kt-chip--rounded kt-chip--outlined kt-chip--has-action queries__item-c3381" role="button" tabindex="0" href="/s/tehran/tv-projector">
+                                                        <span>تلویزیون</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nav-bar__end-section-dabb8">
+                            <div aria-haspopup="true" class="kt-dropdown-menu">
+                                <button class="kt-button kt-button--inlined kt-nav-button button-f32f0 kt-nav-button--small" type="button" tabindex="0" aria-haspopup="true" aria-expanded="false">
+                                    <i class="kt-icon kt-icon-person kt-button__icon no-pointer-event"></i>
+                                    <span class="kt-text-truncate no-pointer-event">دیوار من </span>
+                                </button>
+                            </div>
+                            <a referrerPolicy="no-referrer" rel="nofollow noopener noreferrer" class="kt-button kt-button--inlined kt-nav-button button-f32f0 kt-nav-button--small" role="button" tabindex="0" href="https://divar.ir/chat">
+                                <i class="kt-icon kt-icon-chat-bubble kt-button__icon no-pointer-event"></i>
+                                <span class="kt-text-truncate no-pointer-event">چت و تماس</span>
+                            </a>
+                            <a referrerPolicy="no-referrer" rel="noopener noreferrer" class="kt-button kt-button--inlined kt-nav-button button-f32f0 kt-nav-button--small" role="button" tabindex="0" href="https://divar.ir/help">
+                                <i class="kt-icon kt-icon-support kt-button__icon no-pointer-event"></i>
+                                <span class="kt-text-truncate no-pointer-event">پشتیبانی </span>
+                            </a>
+                            <button class="kt-button kt-button--primary kt-nav-button nav-bar__submit-btn-fbb11" type="button" tabindex="0">
+                                <span class="kt-text-truncate no-pointer-event">ثبت آگهی </span>
+                            </button>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <div class="browse-c7458">
+                <div class="browse__aside-ee1e7">
+                    <aside>
+                        <ul class="kt-accordion">
+                            <div class="kt-accordion-title kt-caption">دسته‌ها</div>
+                            <ul class="kt-accordion">
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/real-estate">
+                                        <i class="kt-icon kt-icon-real-estate kt-accordion-item__icon"></i>
+                                        املاک
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/vehicles">
+                                        <i class="kt-icon kt-icon-cat-vehicles kt-accordion-item__icon"></i>
+                                        وسایل نقلیه
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/electronic-devices">
+                                        <i class="kt-icon kt-icon-cat-electronic-devices kt-accordion-item__icon"></i>
+                                        کالای دیجیتال
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/home-kitchen">
+                                        <i class="kt-icon kt-icon-lamp-o kt-accordion-item__icon"></i>
+                                        خانه و آشپزخانه
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/services">
+                                        <i class="kt-icon kt-icon-paint-brush-o kt-accordion-item__icon"></i>
+                                        خدمات
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/personal-goods">
+                                        <i class="kt-icon kt-icon-wrest-watch-o kt-accordion-item__icon"></i>
+                                        وسایل شخصی
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/entertainment">
+                                        <i class="kt-icon kt-icon-dice-o kt-accordion-item__icon"></i>
+                                        سرگرمی و فراغت
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/social-services">
+                                        <i class="kt-icon kt-icon-community kt-accordion-item__icon"></i>
+                                        اجتماعی
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/tools-materials-equipment">
+                                        <i class="kt-icon kt-icon-chair-office-o kt-accordion-item__icon"></i>
+                                        تجهیزات و صنعتی
+                                    </a>
+                                </li>
+                                <li class="kt-accordion-item" role="button" tabindex="-1">
+                                    <a class="kt-accordion-item__header kt-accordion-item__header--with-icon" index="-1" href="/s/tehran/jobs">
+                                        <i class="kt-icon kt-icon-suitcase-o kt-accordion-item__icon"></i>
+                                        استخدام و کاریابی
+                                    </a>
+                                </li>
+                            </ul>
+                        </ul>
+                        <hr class="kt-divider kt-mt-4 kt-divider--default" role="presentation"/>
+                        <form class="filter-page-c03cf">
+                            <div id="districts">
+                                <div role="button" tabindex="0" class="raw-button-cd669" aria-disabled="false">
+                                    <div class="row-b80e7 kt-stateful kt-stateful--small kt-stateful--empty">
+                                        <div class="kt-stateful__label">محله</div>
+                                        <div class="kt-stateful__value">
+                                            انتخاب<i class="kt-icon kt-icon-keyboard-arrow-left-large-o kt-stateful__chevron"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="kt-dimmer kt-dimmer--darker">
+                                    <div class="kt-dimmer__content">
+                                        <div class="kt-visually-hidden fallback-focus-class" tabindex="-1"></div>
+                                        <section role="dialog" class="kt-new-modal kt-new-modal--default modal-baee1">
+                                            <header class="kt-new-modal__header header-f8935">
+                                                <div class="kt-new-modal__title-box title-box-ce27a">
+                                                    <p class="kt-new-modal__title">انتخاب محله</p>
+                                                    <button class="kt-button kt-button--inlined kt-button--circular kt-new-modal__close-button" type="button" tabindex="0" aria-label="بستن">
+                                                        <i class="kt-icon kt-icon-close kt-button__icon no-pointer-event"></i>
+                                                    </button>
+                                                </div>
+                                                <div class="search-box-e2b9a">
+                                                    <div class="kt-textfield kt-textfield--has-start-icon kt-textfield--has-end-icon kt-textfield--clearable">
+                                                        <input type="text" aria-controls="multi-select-list-box" aria-owns="multi-select-list-box" placeholder="جستجو" id="_R_dkimlsc_" class="kt-textfield__input kt-textfield__input--empty" aria-invalid="false" value=""/>
+                                                        <div class="kt-textfield__start-icon">
+                                                            <i class="kt-icon kt-icon-search-o kt-icon--lg"></i>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </header>
+                                            <div class="kt-new-modal__body body-e67ac">
+                                                <div class="list-cbb2c">
+                                                    <div class="content-e40eb">
+                                                        <div role="list" id="multi-select-list-box" class="list-items-f5f11">
+                                                            <div data-testid="virtuoso-scroller" data-virtuoso-scroller="true" style="height:100%;outline:none;overflow-y:auto;position:relative;-webkit-overflow-scrolling:touch" tabindex="0" class="scroll-a3109">
+                                                                <div data-viewport-type="element" style="height:100%;position:absolute;top:0;width:100%">
+                                                                    <div data-testid="virtuoso-item-list" style="box-sizing:border-box;margin-top:0;padding-bottom:0;padding-top:0"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <footer class="kt-new-modal__footer footer-ad63c">
+                                                <div class="full-width kt-button-row kt-button-row--fullwidth">
+                                                    <button class="kt-button kt-button--outlined" type="button" tabindex="0">
+                                                        <span class="kt-text-truncate no-pointer-event">انصراف</span>
+                                                    </button>
+                                                    <button class="kt-button kt-button--primary kt-button--disabled submit-button-c5045" disabled="" type="button" tabindex="-1">
+                                                        <span class="kt-text-truncate no-pointer-event"></span>
+                                                    </button>
+                                                </div>
+                                            </footer>
+                                        </section>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div aria-live="assertive" aria-atomic="true"></div>
+                                    <hr class="kt-divider kt-mt-8 kt-mb-8 kt-divider--default" role="presentation"/>
+                                </div>
+                            </div>
+                            <div>
+                                <div class="kt-base-row kt-base-row--large kt-title-row">
+                                    <div class="kt-base-row__start kt-title-row__row kt-title-row__row--default">
+                                        <div id="filter_price" class="kt-title-row__title kt-title-row__title--tertiary">قیمت</div>
+                                        <p class="kt-title-row__description kt-title-row__description--default">(تومان)</p>
+                                    </div>
+                                    <div class="kt-base-row__end"></div>
+                                </div>
+                            </div>
+                            <div id="price">
+                                <div class="kt-ftr">
+                                    <div class="kt-ftr__labels">
+                                        <label for="price-minimum" class="kt-ftr__label">از</label>
+                                        <div class="kt-ftr-separator"></div>
+                                        <label for="price-maximum" class="kt-ftr__label">تا</label>
+                                    </div>
+                                    <div class="kt-ftr__controls">
+                                        <div class="kt-textfield kt-ftr__control fromInput-P6iar_ kt-textfield--has-end-icon kt-textfield--has-suffix kt-textfield--clearable">
+                                            <input type="search" inputMode="numeric" autoComplete="off" aria-labelledby="filter_price price-minimum" id="price-minimum" style="padding-left:55px" class="kt-textfield__input kt-ftr__control fromInput-P6iar_ kt-textfield__input--empty" aria-invalid="false" value=""/>
+                                            <p class="kt-textfield__suffix">تومان</p>
+                                        </div>
+                                        <div class="kt-textfield kt-ftr__control toInput-k0JF3z kt-textfield--has-end-icon kt-textfield--has-suffix kt-textfield--clearable">
+                                            <input type="search" inputMode="numeric" autoComplete="off" aria-labelledby="filter_price price-maximum" id="price-maximum" style="padding-left:55px" class="kt-textfield__input kt-ftr__control toInput-k0JF3z kt-textfield__input--empty" aria-invalid="false" value=""/>
+                                            <p class="kt-textfield__suffix">تومان</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption-XgIOoZ"></div>
+                                <div data-testid="error-messages" aria-live="assertive" aria-atomic="true"></div>
+                                <div role="presentation">
+                                    <div class="kt-scrollable">
+                                        <div class="suggestionRow-OuYhfP kt-scrollable__items-wrapper kt-scrollable__items-wrapper--no-scrollbar kt-scrollable__items-wrapper--horizontal"></div>
+                                    </div>
+                                </div>
+                                <div>
+                                    <hr class="kt-divider kt-mt-8 kt-mb-8 kt-divider--default" role="presentation"/>
+                                </div>
+                            </div>
+                            <div id="has-photo">
+                                <label class="toggle-kxE5S4 kt-toggle kt-toggle--pointed">
+                                    <span class="kt-visually-hidden">
+                                        <input type="checkbox" tabindex="0" role="switch" name="has-photo" value=""/>
+                                    </span>
+                                    <span class="kt-toggle__label">عکس‌دار</span>
+                                    <div class="kt-toggle__indicator kt-toggle__indicator--small">
+                                        <div class="kt-toggle__circle-container kt-toggle__circle-container--small">
+                                            <div class="kt-toggle__circle"></div>
+                                        </div>
+                                    </div>
+                                </label>
+                                <div>
+                                    <div aria-live="assertive" aria-atomic="true"></div>
+                                    <hr class="kt-divider kt-mt-8 kt-mb-8 kt-divider--default" role="presentation"/>
+                                </div>
+                            </div>
+                            <div id="addon_service_tags">
+                                <div data-testid="stateful-row-filter_addon_service_tags" role="button" tabindex="0" class="rawButton-W5tTZw" aria-disabled="false">
+                                    <div class="row-CjAfQK kt-stateful kt-stateful--small kt-stateful--empty">
+                                        <div class="kt-stateful__label">افزونه‌ها</div>
+                                        <div class="kt-stateful__value">
+                                            انتخاب<i class="kt-icon kt-icon-keyboard-arrow-left-large-o kt-stateful__chevron"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="kt-dimmer kt-dimmer--darker">
+                                    <div class="kt-dimmer__content">
+                                        <div class="kt-visually-hidden fallback-focus-class" tabindex="-1"></div>
+                                        <section role="dialog" class="kt-new-modal kt-new-modal--default modal-L5iuPz">
+                                            <header class="kt-new-modal__header">
+                                                <div class="kt-new-modal__title-box">
+                                                    <p class="kt-new-modal__title">انتخاب افزونه‌ها</p>
+                                                    <button class="kt-button kt-button--inlined kt-button--circular kt-new-modal__close-button" type="button" tabindex="0" aria-label="بستن" data-testid="close-btn">
+                                                        <i class="kt-icon kt-icon-close kt-button__icon no-pointer-event"></i>
+                                                    </button>
+                                                </div>
+                                            </header>
+                                            <div class="kt-new-modal__body body-TUWGGi">
+                                                <div class="list-qndtFZ">
+                                                    <div data-testid="progressible-content-progress-disabled" class="content-dcpfHq">
+                                                        <div role="list" id="multi-select-list-box" class="list-items-Z9S5xR">
+                                                            <div data-testid="virtuoso-scroller" data-virtuoso-scroller="true" style="height:100%;outline:none;overflow-y:auto;position:relative;-webkit-overflow-scrolling:touch" tabindex="0" class="scroll-GAC5YL">
+                                                                <div data-viewport-type="element" style="height:100%;position:absolute;top:0;width:100%">
+                                                                    <div data-testid="virtuoso-item-list" style="box-sizing:border-box;margin-top:0;padding-bottom:0;padding-top:0"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <footer class="kt-new-modal__footer footer-WOr1Fs">
+                                                <div class="full-width kt-button-row kt-button-row--fullwidth">
+                                                    <button class="kt-button kt-button--outlined" type="button" tabindex="0">
+                                                        <span class="kt-text-truncate no-pointer-event">انصراف</span>
+                                                    </button>
+                                                    <button class="kt-button kt-button--primary kt-button--disabled submit-button-vm2Ach" disabled="" type="button" tabindex="-1">
+                                                        <span class="kt-text-truncate no-pointer-event"></span>
+                                                    </button>
+                                                </div>
+                                            </footer>
+                                        </section>
+                                    </div>
+                                </div>
+                                <div>
+                                    <div aria-live="assertive" aria-atomic="true"></div>
+                                    <hr class="kt-divider kt-mt-8 kt-mb-8 kt-divider--default" role="presentation"/>
+                                </div>
+                            </div>
+                        </form>
+                    </aside>
+                    <footer class="browse__footer-e7cdd">
+                        <nav class="links-bbf4a">
+                            <h2 class="kt-visually-hidden">دربارهٔ دیوار </h2>
+                            <a class="links__link-item-ae2ee" title=" دربارهٔ دیوار " href="/about">دربارهٔ دیوار </a>
+                            <a class="links__link-item-ae2ee" title="دریافت برنامه" href="/download">دریافت برنامه </a>
+                            <a referrerPolicy="no-referrer" rel="nofollow" class="links__link-item-ae2ee" title="اتاق خبر" href="https://divar.news" target="_blank">اتاق خبر </a>
+                            <a class="links__link-item-ae2ee" title="دیوار حرفه‌ای" href="/my-divar/pro">دیوار حرفه‌ای </a>
+                            <a referrerPolicy="no-referrer" rel="noopener noreferrer" target="_blank" class="links__link-item-ae2ee" title="گزارش آسیب‌پذیری" href="https://divar.ir/bugbounty">گزارش آسیب‌پذیری</a>
+                            <a referrerPolicy="no-referrer" rel="noopener noreferrer" target="_blank" class="links__link-item-ae2ee" title="دیواری شو" href="https://careers.divar.ir">دیواری شو</a>
+                            <a referrerPolicy="no-referrer" rel="noopener noreferrer" target="_blank" class="links__link-item-ae2ee" title="پشتیبانی و قوانین" href="https://divar.ir/help">پشتیبانی و قوانین</a>
+                        </nav>
+                        <nav class="links-ad0c5">
+                            <h2 class="kt-visually-hidden">دیوار در شبکه‌های اجتماعی</h2>
+                            <a referrerPolicy="no-referrer" rel="" href="https://twitter.com/divar_official" title="دیوار در توییتر" target="_blank" aria-label="دیوار در توییتر" class="links__link-item-d30af">
+                                <i class="kt-icon kt-icon-social-twitter"></i>
+                            </a>
+                            <a referrerPolicy="no-referrer" rel="" href="https://www.instagram.com/divar.official" title="دیوار در اینستاگرام" target="_blank" aria-label="دیوار در اینستاگرام" class="links__link-item-d30af">
+                                <i class="kt-icon kt-icon-social-instagram-fill"></i>
+                            </a>
+                            <a referrerPolicy="no-referrer" rel="" href="https://www.linkedin.com/company/divarofficial" title="دیوار در لینکداین" target="_blank" aria-label="دیوار در لینکداین" class="links__link-item-d30af">
+                                <i class="kt-icon kt-icon-social-linkedin"></i>
+                            </a>
+                            <a referrerPolicy="no-referrer" rel="" href="https://www.aparat.com/divar.official" title="دیوار در آپارات" target="_blank" aria-label="دیوار در آپارات" class="links__link-item-d30af">
+                                <i class="kt-icon kt-icon-social-aparat"></i>
+                            </a>
+                        </nav>
+                    </footer>
+                </div>
+                <main class="browse__main-db2d7">
+                    <div class="sorting-iDuYe8">
+                        <div class="kt-rich-tooltip__trigger" data-tooltip-id="sorting-tooltip">
+                            <div aria-haspopup="true" class="kt-dropdown-menu" aria-label="تغییر مرتب‌سازی آگهی‌ها">
+                                <button type="button" class="kt-dropdown-button kt-dropdown-button--small kt-dropdown-button--inlined">
+                                    <i class="kt-icon kt-icon-sort-ascending kt-icon--xs kt-dropdown-button__icon"></i>
+                                    پیشنهادی<i class="kt-icon kt-icon-keyboard-arrow-down-o kt-icon--xs kt-dropdown-button__arrow-icon"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <h1 class="postListHeadline-dBdJDG">انواع آگهی‌ها و نیازمندی های تهران</h1>
+                    <div id="post-list-container-id">
+                        <div class="post-list-eb562">
+                            <div class="post-list__items-container-e44b2">
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D9%84%D9%88%DA%A9%D8%B3-%D8%B3%D8%A7%D8%B2%D9%87-%D8%A8%D8%B1%D8%AC-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D8%A7%D8%AD%D8%AF%DB%B1%DB%B2%DB%B2%D9%85%D8%AA%D8%B1%DB%8C-%DA%86%DB%8C%D8%AA%DA%AF%D8%B1-%D8%AA%D9%87%D8%A7%D8%AA%D8%B1-%D8%A8%D8%A7-%D8%B7%D9%84%D8%A7/AamPHpTG">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">لوکس سازه برج العرب/واحد۱۲۲متری/چیتگر/تهاتر با طلا</h2>
+                                                    <div class="kt-post-card__description">۶,۴۶۶,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">پله شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="دفتر فروش مرکزی شرکت فرتاک در شهرک چیتگر">دفتر فروش مرکزی شرکت فرتاک در شهرک چیتگر</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/W0QQVUEQ5P2dAXAWSY1NcQ/99dc68cd-0a79-4d9f-a78e-d6a8dfe345ec.webp" alt="لوکس سازه برج العرب/واحد۱۲۲متری/چیتگر/تهاتر با طلا"/>
+                                                        </picture>
+                                                    </div>
+                                                    <div data-has-skeleton="true" class="kt-tag kt-tag--overlay kt-tag--small kt-post-card-thumbnail__tag kt-post-card-thumbnail__badge">
+                                                        <i class="kt-icon kt-icon--xs kt-tag__icon" style="background-image:url(&quot;https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/stairs.png&quot;)"></i>
+                                                        <span data-has-skeleton="true" class="kt-tag__text kt-text-truncate">پله</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/116-%D9%85%D8%AA%D8%B1-%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87-%D8%AF%D9%88-%D9%82%D8%AF%D9%85%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9-%D9%81%D9%88%D9%84-%D8%A8%D8%A7%D8%B2%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8/Aaq7AAP5">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">116 متر قیطریه/دو قدمی پارک/فول بازسازی/دو خواب</h2>
+                                                    <div class="kt-post-card__description">۲۲,۰۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="در قیطریه">در قیطریه</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/6tiwSayztvNMUeLbfNdnVw/01ce1146-babb-4fa6-9e75-f76c7e4c9b3d.webp" alt="116 متر قیطریه/دو قدمی پارک/فول بازسازی/دو خواب"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87-%DB%B1%DB%B3%DB%B0-%D9%85%D8%AA%D8%B1-%DB%B2-%D8%AE%D9%88%D8%A7%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1-%DB%B2-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%B3%D9%86%D8%AF%DB%8C/QaAwehiP">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی</h2>
+                                                    <div class="kt-post-card__description">۳۲,۰۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="مسکن آدرس در قیطریه">مسکن آدرس در قیطریه</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/SAfZONi28IsYB9nyDcuRZg/80088dc4-c7c9-4037-b9b5-507b16a0264e.webp" alt="قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B5%DB%B8%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D9%86%D8%AF%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D9%85%D8%A8-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87/Aax22rj8">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۵۸متری(سندتهران)بمب سرمایه گذاری/اندیشه</h2>
+                                                    <div class="kt-post-card__description">۱,۵۳۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="خانوم امتی در جوانمردان (اندیشه)">خانوم امتی در جوانمردان (اندیشه)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/Y0rlrQYHVkSHQ62sXwusyQ/17d0782e-c25c-4c84-9db1-a3ec9da53426.webp" alt="۵۸متری(سندتهران)بمب سرمایه گذاری/اندیشه"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A7%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%D9%86%D9%86%D8%AF%DA%AF%DB%8C/QaAI_47S">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">اموزش رانندگی</h2>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="لحظاتی پیش در بوستان ولایت">لحظاتی پیش در بوستان ولایت</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/sIDEnhCwisB9PLLRGbMhTw/608318a0-3230-4acb-ad60-c9114d6d03b2.webp" alt="اموزش رانندگی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D9%85%D9%86%D8%B2%D9%84-%D9%85%D8%B3%DA%A9%D9%88%D9%86%DB%8C/Aa6Tl_K9">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">اجاره منزل مسکونی</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">اجاره: ۱۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="در فلاح">در فلاح</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/2h3H6vEQAX15W3-cAvnL9Q/bb7bf14a-1b58-413a-8925-65f6effb97f4.webp" alt="اجاره منزل مسکونی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1%DB%8C-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/QaA4dFHF">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">آپارتمان ۷۵ متری کرمان شمالی * فول امکانات</h2>
+                                                    <div class="kt-post-card__description">۷,۷۵۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="۱ ساعت پیش در کرمان">۱ ساعت پیش در کرمان</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/G6HntgO5w1y2vbOYViVPGg/8ec1d25c-f775-492c-a6cf-405476788e98.webp" alt="آپارتمان ۷۵ متری کرمان شمالی * فول امکانات"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A7%D8%AC%D8%A7%D8%B1%D9%87-%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B3-%D9%85%D8%AA%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B2%D9%87%D8%AA%D8%A7%D8%A8%DB%8C/Aaq_RkML">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">اجاره آپارتمان ۵۳ متری در زهتابی</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۳۵۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">رهن کامل</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="در زهتابی">در زهتابی</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/lZHf_Vbzk_9c4F1eZdpitQ/afd42110-2205-4512-9240-bb8e8716b9c0.webp" alt="اجاره آپارتمان ۵۳ متری در زهتابی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B8%DB%B2-%D9%85%D8%AA%D8%B1-%DA%A9%D9%84%DB%8C%D8%AF%D9%86%D8%AE%D9%88%D8%B1%D8%AF%D9%87-%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D9%81%D9%88%D9%84-%D8%B3%D9%88%D9%85-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D9%88%D8%A7%DB%8C%DB%8C/QaAAO8tj">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۸۲ متر کلیدنخورده/دو خواب/فول/سوم نیروهوایی</h2>
+                                                    <div class="kt-post-card__description">۱۰,۷۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس املاک خدابنده در نیروی هوایی (پیروزی)">آژانس املاک خدابنده در نیروی هوایی (پیروزی)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/bQHKbph77QQ3twjZeys6bg/0319a0aa-b45e-4dda-8cfa-7c5e90f54c61.webp" alt="۸۲ متر کلیدنخورده/دو خواب/فول/سوم نیروهوایی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B2%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1-%D8%B3%D9%87-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D9%81%D8%B1%D8%B9%DB%8C/Aa_zPiW3">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۲۱۰ متر / سه پارکینگ / بهترین فرعی</h2>
+                                                    <div class="kt-post-card__description">۳۵,۳۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس اسپیناس در نیروی هوایی (پیروزی)">آژانس اسپیناس در نیروی هوایی (پیروزی)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/QBjXM7ead2ezLpWa1cr26g/5dc0cb2a-023d-4a33-8609-d22f6406d37e.webp" alt="۲۱۰ متر / سه پارکینگ / بهترین فرعی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%AF%D9%88-%D8%AE%D9%88%D8%A7%D8%A8-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%88%DB%8C%D9%88%D9%88-%D8%B9%D8%A7%D9%84%DB%8C/QaAceI8K">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">دو‌خواب/نوساز/ ویوو عالی</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۳,۶۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">رهن کامل</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس مثلث در شهرک غرب">آژانس مثلث در شهرک غرب</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/OfwPw-bgC5qD-xsC-_5nlw/0e083083-c56c-4a51-ad88-908bf8cb57b7.webp" alt="دو‌خواب/نوساز/ ویوو عالی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B5%DB%B7%D9%85%D8%AA%D9%80%D8%B1-%D8%B3%D9%86%D9%80%D8%AF-%D8%AF%D8%A7%D8%B1-%DA%A9%D9%80%D9%85-%D9%88%D8%A7%D8%AD%D9%80%D8%AF-%D8%B1%D9%88%D8%A8%D9%86%D9%85%D9%80%D8%A7-%D8%A7%D9%86%D9%80%D8%AF%DB%8C%D8%B4%D9%80%D9%87/AaF_DSj_">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۵۷متـر‌سنـد‌دار/کـم‌واحـد‌‌روبنمـا/انـدیشـه</h2>
+                                                    <div class="kt-post-card__description">۱,۲۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس دپارتمان بالون در جوانمردان (اندیشه)">آژانس دپارتمان بالون در جوانمردان (اندیشه)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/yOOAbwdh9Ro_jkE33LUbkA/c1b4f44e-164f-44b4-803f-91467a510e4e.webp" alt="۵۷متـر‌سنـد‌دار/کـم‌واحـد‌‌روبنمـا/انـدیشـه"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B5%DB%B3%D9%85%D8%AA%D8%B1%DB%8C-%D8%B3%D8%A7%D9%84%D9%86-%D9%86%D9%88%D8%B1%DA%AF%DB%8C%D8%B1-%D9%81%D8%A7%D8%B21-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D8%B3%D8%B1%D8%A7%D8%B3%D8%B1-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-%D8%AE%D8%B7%DB%8C/QaAwOwzz">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۵۳متری/ سالن نورگیر /فاز1 اندیشه/سراسر پنجره خطی/</h2>
+                                                    <div class="kt-post-card__description">۱,۳۲۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="دپارتمان بزرگ آی تک  در جوانمردان (اندیشه)">دپارتمان بزرگ آی تک  در جوانمردان (اندیشه)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/YVABWmZZIaZIzcIJQyaF5g/7937f3a6-e1fc-4fc5-8c73-d2c0543c5834.webp" alt="۵۳متری/ سالن نورگیر /فاز1 اندیشه/سراسر پنجره خطی/"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%AC%D8%B1%D8%AF%D9%86-%D8%B7%D8%A7%D9%87%D8%B1%DB%8C-118-%D9%85%D8%AA%D8%B1-2-%D9%BE%D8%A7%D8%B1%DA%A9%DB%8C%D9%86%DA%AF/Aa1vSyKE">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">جردن طاهری 118 متر 2 پارکینگ</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۳,۵۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">رهن کامل</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس نلسون جردن در امانیه">آژانس نلسون جردن در امانیه</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/6S5QC1VVSCuXh41q2op4dw/a73f3962-dd57-4972-990b-d694f9711f64.webp" alt="جردن طاهری 118 متر 2 پارکینگ"/>
+                                                        </picture>
+                                                    </div>
+                                                    <div data-has-skeleton="true" class="kt-tag kt-tag--overlay kt-tag--small kt-tag--just-icon kt-post-card-thumbnail__tag kt-post-card-thumbnail__badge">
+                                                        <i class="kt-icon kt-icon--xs kt-tag__icon" style="background-image:url(&quot;https://s100.divarcdn.com/static/imgs/widget-icons/dark/white_primary/v1/videocam.png&quot;)"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B2%D8%AE%D9%88%D8%A7%D8%A8%D9%87-%DB%B6%DB%B1%D9%85%D8%AA%D8%B1-%D8%AA%DA%A9%D9%88%D8%A7%D8%AD%D8%AF%DB%8C-%D9%81%D9%88%D9%84-%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA/Aa8Dp9rE">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۲خوابه ۶۱متر تکواحدی فول امکانات</h2>
+                                                    <div class="kt-post-card__description">۶,۲۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="مشاور امیر در نیروی هوایی (پیروزی)">مشاور امیر در نیروی هوایی (پیروزی)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/NDQGtKWYXrguh9IooeCgXA/66aef079-0b41-4649-88cc-4db86b2d13f1.webp" alt="۲خوابه ۶۱متر تکواحدی فول امکانات"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B1%DB%B1%DB%B0-%D9%85%D8%AA%D8%B1%DB%8C-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D9%81%D9%88%D9%84/Aa_7393y">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">آپارتمان ۱۱۰ متری نوساز فول</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">اجاره: ۱۲,۵۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس ⭐️مشاورين املاك فرهاد⭐️ در زهتابی">آژانس ⭐️مشاورين املاك فرهاد⭐️ در زهتابی</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/eyb4H0ukdgY3BuUK-9Dn6w/a10b8159-661d-4add-af17-703d1f791ac2.webp" alt="آپارتمان ۱۱۰ متری نوساز فول"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%DA%AF%D8%B0%D8%A7%D8%B1%DB%8C-%D8%B3%D9%86%D8%AF%D8%AA%DA%A9-%D8%A8%D8%B1%DA%AF-%D8%A7%D9%86%D8%AF%DB%8C%D8%B4%D9%87-%D9%BE%DA%A9%DB%8C%D8%AC-%D8%B1%D8%A7%D8%AF%DB%8C%D8%A7%D8%AA-%DB%B4%DB%B8%D9%85%D8%AA%D8%B1/Aa3TYHTO">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر</h2>
+                                                    <div class="kt-post-card__description">۱,۱۵۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس دپارتمان بالون در جوانمردان (اندیشه)">آژانس دپارتمان بالون در جوانمردان (اندیشه)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/wB81AT7QRT15ulUaPmO4Mw/a0c4f7d7-30cc-4694-8fbd-101863920439.webp" alt="سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-105-%D9%85%D8%AA%D8%B1%DB%8C-%D9%81%D9%88%D9%84-%D8%B3%D9%88%D9%85-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D9%88%D8%A7%DB%8C%DB%8C/Aaw7x13H">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">آپارتمان 105 متری فول سوم نیروهوایی</h2>
+                                                    <div class="kt-post-card__description">۹,۰۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="در نیروی هوایی (پیروزی)">در نیروی هوایی (پیروزی)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/ndDg_gtLrzto6QjVjBSxDQ/2e6a98fc-9627-419c-af03-21e227004735.webp" alt="آپارتمان 105 متری فول سوم نیروهوایی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="full-width-widget-col-c8bd0">
+                                    <div>
+                                        <div>
+                                            <div class="kt-inset-banner">
+                                                <a href="https://a-banners.divar.ir/auction/?ext_link_data=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHRlcm5hbFVybCI6eyJTY2hlbWUiOiJodHRwcyIsIk9wYXF1ZSI6IiIsIlVzZXIiOm51bGwsIkhvc3QiOiJ3d3cuaGFtcmFoLW1lY2hhbmljLmNvbSIsIlBhdGgiOiIvY2FyLXNlbGwvY2FyLWluZm9ybWF0aW9uLyIsIlJhd1BhdGgiOiIiLCJPbWl0SG9zdCI6ZmFsc2UsIkZvcmNlUXVlcnkiOmZhbHNlLCJSYXdRdWVyeSI6ImV2ZW50UGFyYW1zPVx1MDAyNnV0bV9zb3VyY2U9eWVrdGFuZXRcdTAwMjZ1dG1fY2FtcGFpZ249ZGl2YXJfcm9vdF9jYXJzZWxsXHUwMDI2dXRtX21lZGl1bT1kaXZhci1jcGFcdTAwMjZ1dG1fdGVybT15bl9tb2JfMzI4NTgwXHUwMDI2dXRtX2NvbnRlbnQ9cm9vdFx1MDAyNnV0bV95bl9hZGl2ZXJ5PXYxLU9UQTFNVFF6T2pnM056WXpOem96TWpnMU9EQTZNVGd5TVRVNk5EY3lORFU2TVdaalpUZzFaREF0WlRCbVpTMDFOamMxTFRoa01XRXRORGM0T1RjeE16RXlNVGN6T2pFM05qRTJOams1TnpNNlpHbDJZWEpmYm1WM1gzSmxZMjl0YldWdVpHVnlMbU52Ym5SeWIydzZNRHBqY0cwNk1Eb3hOVG94TkRwbFpESmtZalpqTXkwNVpEZ3dMVFEzTURjdFlUVXdNUzFrTldJeE5UZzRaR0kyWmpVNllXUnBkbVZ5ZVRwVlRrdE9UMWRPT21aaGJITmxcdTAwMjZ1dG1feW5fZGF0YT12Ni5pLmJ4RFEuZFF0Qi5kWERmLm1zYi5lVFguMWZjZTg1ZDAtZTBmZS01Njc1LThkMWEtNDc4OTcxMzEyMTczLjFiODdiNmUxLTMwZmMtNDY4NS05ZWE2LTE1YWU4NTNlOTUwMS5wLlcxMD0uVzEwPS5lZDJkYjZjMy05ZDgwLTQ3MDctYTUwMS1kNWIxNTg4ZGI2ZjUuTkFUSVZFLm0uZmFsc2VcdTAwMjZ1dG1feW5fZGl2YXI9djEtTVRjMk1UWTJPVGszTXpvNU1EVXhORE02T0RjM05qTTNPak15T0RVNE1EcHliMjkwT2pveE9qQTZNRG8wTnpJME5RXHUwMDI2dXRtX3luPXY0LU1UbzROemMyTXpjNk9UQTFNVFF6T2pFNk1Ub3hPakkiLCJGcmFnbWVudCI6IiIsIlJhd0ZyYWdtZW50IjoiIn0sImFkSWQiOiJiMWQ0ODYwMS0wMDg5LTQyYzYtOWVmMS1kMTc3NjdhYmYwODEiLCJldmVudFR5cGUiOjUwMX0.47gCunhYMHTMKas2-LfdT2koC5Xzg8GA93ydiUOLlEg" class="" target="_blank" rel="nofollow noopener noreferrer">
+                                                    <div class="kt-progress-snake kt-inset-banner__progress kt-progress-snake--animated kt-progress-snake--center kt-progress-snake--lg" aria-label="Image loading progress" role="progressbar">
+                                                        <span class="kt-progress-snake__node"></span>
+                                                        <span class="kt-progress-snake__node"></span>
+                                                        <span class="kt-progress-snake__node"></span>
+                                                    </div>
+                                                    <span class="kt-inset-banner__image kt-inset-banner__image--loading inset-banner-aa6ae">
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:21.87499900195317%">
+                                                            <img decoding="auto" fetchPriority="auto" class="kt-image-block__image kt-image-block__image--lazy" data-src="https://a-banners.divarcdn.com/ssp/ads/media/image/aa8e52f8-ecbe-40f0-bf59-a487574e9537.jpg" alt="بنر تبلیغاتی"/>
+                                                        </picture>
+                                                    </span>
+                                                </a>
+                                                <a href="https://www.yektanet.com/advertising-on-divar/" class="kt-inset-banner__overlay-tag" data-testid="overlay-tag" data-has-action="true" aria-label="اطلاعات بیشتر درباره تبلیغات بنری در دیوار" target="_self" rel="nofollow noopener noreferrer">
+                                                    <span data-has-skeleton="true" class="kt-tag kt-tag--overlay kt-tag--small">
+                                                        <i class="kt-icon kt-icon-info-outline kt-icon--xs kt-tag__icon"></i>
+                                                        <span data-has-skeleton="true" class="kt-tag__text kt-text-truncate">تبلیغ</span>
+                                                        <hr class="kt-divider kt-inset-banner__divider kt-divider--padded kt-divider--vertical kt-divider--default" role="presentation"/>
+                                                        <i class="kt-icon kt-icon--xs" style="background-image:url(&quot;https://s100.divarcdn.com/static/imgs/widget-icons/dark/icon_secondary/v1/yektanet.png&quot;)"></i>
+                                                    </span>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B1%DB%B3%DB%B5-%D9%85%D8%AA%D8%B1-%DB%B3-%D8%AE%D9%88%D8%A7%D8%A8-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87-%D9%81%D9%88%D9%84-%D9%86%D9%88%D8%B3%D8%A7%D8%B2-%D8%B4%D8%B4%D9%85-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D9%88%D8%A7%DB%8C%DB%8C/Aa0f8XHE">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی</h2>
+                                                    <div class="kt-post-card__description">۱۶,۸۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس مهندسین و مشاورین املاک‌ خسروی فرعی۲۹ ۵ در نیروی هوایی (پیروزی)">آژانس مهندسین و مشاورین املاک‌ خسروی فرعی۲۹ ۵ در نیروی هوایی (پیروزی)</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/6jeAu5O9jTuPN01E7-yZVQ/1a47b084-6905-42cc-bb77-76129c913df5.webp" alt="۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B4%DB%B4-%D9%85%D8%AA%D8%B1%DB%8C-%D8%B4%D9%87%D8%B3%D9%88%D8%A7%D8%B1-%D8%B4%D9%85%D8%A7%D9%84%DB%8C-%D8%A2%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%B1-%D9%82%DB%8C%D9%85%D8%AA-%D9%85%D9%86%D8%A7%D8%B3%D8%A8/QaAsuvEc">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۱۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">اجاره: ۸,۵۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="نیم ساعت پیش در فلاح">نیم ساعت پیش در فلاح</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/yGxe6NDKXTic0PNfSHvndA/ff8da2dd-e837-4e44-ad05-adec4b83ee54.webp" alt="۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%DB%B1%DB%B7%DB%B5-%D9%85%D8%AA%D8%B1-%D9%85%D8%AF%D8%B1%D9%86-%D8%AF%D9%88-%D9%82%D8%AF%D9%85%DB%8C-%D9%BE%D8%A7%D8%B1%DA%A9-%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87/Aa4nqqJw">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">۱۷۵ متر مدرن دو قدمی پارک قیطریه</h2>
+                                                    <div class="kt-post-card__description">۴۰,۰۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس مشاورین املاک یک در قیطریه">آژانس مشاورین املاک یک در قیطریه</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/iSJTMl0MbuBG3wRyYOmOzQ/ac4b3cc0-e3e1-45e0-bd38-92a0060cd431.webp" alt="۱۷۵ متر مدرن دو قدمی پارک قیطریه"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/121-%D9%85%D8%AA%D8%B1-%D9%BE%D9%87%D9%86%D9%87-c-%D9%86%D8%B2%D8%A7%D8%AC%D8%A7-%D9%86%D8%A7%D8%B1%D9%86%D8%AC-%DB%B1-%D8%B7-%DB%B2%DB%B6-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D9%85%D9%86%D8%B7%D9%82%D9%87-%DB%B2%DB%B2/AaMYMk6E">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲</h2>
+                                                    <div class="kt-post-card__description">۸,۰۰۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__red-text">نردبان شده</span>
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس مسکن سپهر در شهرک چیتگر">آژانس مسکن سپهر در شهرک چیتگر</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/y7nj5CkZPgOtr2bAnUOGYg/ef37bfcb-0e88-4578-9a1c-ba3b4460ec12.jpg.webp" alt="121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                                <div class="widget-col-d2306">
+                                    <article class="kt-post-card kt-post-card--outlined">
+                                        <a class="kt-post-card__action" href="/v/%D8%A2%D9%BE%D8%A7%D8%B1%D8%AA%D9%85%D8%A7%D9%86-%DB%B5%DB%B0-%D9%85%D8%AA%D8%B1-%D8%AE%D9%88%D8%B4-%D9%86%D9%82%D8%B4%D9%87/Aa_zEEO-">
+                                            <div class="kt-post-card__body">
+                                                <div class="kt-post-card__info">
+                                                    <h2 class="kt-post-card__title">آپارتمان ۵۰ متر خوش نقشه</h2>
+                                                    <div class="kt-post-card__description">ودیعه: ۳۵۰,۰۰۰,۰۰۰ تومان</div>
+                                                    <div class="kt-post-card__description">رهن کامل</div>
+                                                    <div class="kt-post-card__bottom">
+                                                        <span class="kt-post-card__bottom-description kt-text-truncate" title="آژانس املاک آریانا در زهتابی">آژانس املاک آریانا در زهتابی</span>
+                                                    </div>
+                                                </div>
+                                                <div class="kt-post-card-thumbnail">
+                                                    <div>
+                                                        <picture class="kt-image-block kt-image-block--radius-sm" style="padding-bottom:100%">
+                                                            <img decoding="auto" fetchPriority="high" class="kt-image-block__image" src="https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/JcTAzhm10ezy5scHTi7nuw/0928248e-3ecb-4e79-a6cb-ffa324c9c419.webp" alt="آپارتمان ۵۰ متر خوش نقشه"/>
+                                                        </picture>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="post-list__bottom-container-cac2f"></div>
+                    </div>
+                </main>
+            </div>
+            <div class="kt-toast-container container-a30c5"></div>
+            <div class="kt-snackbar-container"></div>
+            <div class="kt-dimmer kt-dimmer--darker">
+                <div class="kt-dimmer__content">
+                    <div class="kt-visually-hidden fallback-focus-class" tabindex="-1"></div>
+                    <section role="dialog" class="kt-new-modal kt-new-modal--default">
+                        <header class="kt-new-modal__header kt-new-modal__header--has-divider">
+                            <div class="kt-new-modal__title-box">
+                                <p class="kt-new-modal__title"></p>
+                                <button class="kt-button kt-button--inlined kt-button--circular kt-new-modal__close-button" type="button" tabindex="0" aria-label="بستن">
+                                    <i class="kt-icon kt-icon-close kt-button__icon no-pointer-event"></i>
+                                </button>
+                            </div>
+                        </header>
+                        <div class="kt-new-modal__body">
+                            <div class="kt-base-row kt-base-row--large kt-description-row kt-description-row--padded">
+                                <div class="kt-base-row__start">
+                                    <p class="description-a64e0 kt-description-row__text kt-description-row__text--primary"></p>
+                                </div>
+                            </div>
+                        </div>
+                        <footer class="kt-new-modal__footer">
+                            <div class="kt-button-row kt-button-row--fullwidth">
+                                <button class="kt-button kt-button--primary" type="button" tabindex="0">
+                                    <span class="kt-text-truncate no-pointer-event"></span>
+                                </button>
+                            </div>
+                        </footer>
+                    </section>
+                </div>
+            </div>
+        </div>
+        <script>
+            window.__PRELOADED_STATE__ = {
+                "nb": {
+                    "listTopWidgets": [{
+                        "widgetType": "SORT",
+                        "visibilityConditions": [],
+                        "uid": "d97e4691-8ee7-4b41-93b8-82370d19f675",
+                        "normalizerId": "60887a90-6893-4c5f-8c13-299f6fffc436",
+                        "dto": {
+                            "widget_type": "SORT",
+                            "data": {
+                                "@type": "type.googleapis.com\u002Fwidgets.SortData",
+                                "title": "پیشنهادی",
+                                "icon": {
+                                    "image_url_dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_primary\u002Fv1\u002Fsort-ascending.png",
+                                    "image_url_light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_primary\u002Fv1\u002Fsort-ascending.png",
+                                    "icon_name": "SORT_ASCENDING",
+                                    "icon_color": "ICON_PRIMARY"
+                                },
+                                "items": [{
+                                    "title": "پیشنهادی (جدید)",
+                                    "action": {
+                                        "type": "OPEN_POSTLIST_PAGE_GRPC",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.OpenPostListPageGRPCPayload",
+                                            "search_data": {
+                                                "form_data": {
+                                                    "data": {
+                                                        "category": {
+                                                            "str": {
+                                                                "value": "ROOT"
+                                                            }
+                                                        },
+                                                        "sort": {
+                                                            "str": {
+                                                                "value": "recommended"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "source_view": "SORT",
+                                            "source_view_str": "SORT"
+                                        }
+                                    }
+                                }, {
+                                    "title": "جدیدترین",
+                                    "action": {
+                                        "type": "OPEN_POSTLIST_PAGE_GRPC",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.OpenPostListPageGRPCPayload",
+                                            "search_data": {
+                                                "form_data": {
+                                                    "data": {
+                                                        "category": {
+                                                            "str": {
+                                                                "value": "ROOT"
+                                                            }
+                                                        },
+                                                        "sort": {
+                                                            "str": {
+                                                                "value": "sort_date"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "source_view": "SORT",
+                                            "source_view_str": "SORT"
+                                        }
+                                    }
+                                }]
+                            }
+                        },
+                        "KEY_PROP_NAME": "d97e4691-8ee7-4b41-93b8-82370d19f675",
+                        "__NORMALIZED_WIDGET_V2__": true
+                    }, {
+                        "widgetType": "POST_LIST_HEADLINE",
+                        "visibilityConditions": [],
+                        "uid": "80740695-5e67-4414-8886-516c79c82171",
+                        "normalizerId": "1bf02a22-dbcc-4e3b-9464-788834dcb29c",
+                        "dto": {
+                            "widget_type": "POST_LIST_HEADLINE",
+                            "data": {
+                                "@type": "type.googleapis.com\u002Fwidgets.PostListHeadline",
+                                "text": "انواع آگهی‌ها و نیازمندی های تهران"
+                            }
+                        },
+                        "KEY_PROP_NAME": "80740695-5e67-4414-8886-516c79c82171",
+                        "__NORMALIZED_WIDGET_V2__": true
+                    }],
+                    "listWidgets": [{
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "75fe0307-bfce-4b33-b7eb-17e252f0890a",
+                            "normalizerId": "f92977e3-d29e-40eb-840f-9690cfa332e8",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "لوکس سازه برج العرب\u002Fواحد۱۲۲متری\u002Fچیتگر\u002Fتهاتر با طلا",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "AamPHpTG",
+                                            "web_info": {
+                                                "title": "لوکس سازه برج العرب\u002Fواحد۱۲۲متری\u002Fچیتگر\u002Fتهاتر با طلا",
+                                                "district_persian": "شهرک چیتگر",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FW0QQVUEQ5P2dAXAWSY1NcQ\u002F99dc68cd-0a79-4d9f-a78e-d6a8dfe345ec.webp",
+                                    "bottom_description_text": "دفتر فروش مرکزی شرکت فرتاک در شهرک چیتگر",
+                                    "has_chat": true,
+                                    "red_text": "پله شده",
+                                    "middle_description_text": "۶,۴۶۶,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 5,
+                                    "image_top_left_tag": {
+                                        "text": "پله",
+                                        "icon": {
+                                            "image_url_dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Fwhite_primary\u002Fv1\u002Fstairs.png",
+                                            "image_url_light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Fwhite_primary\u002Fv1\u002Fstairs.png",
+                                            "icon_name": "STAIRS",
+                                            "icon_color": "WHITE_PRIMARY"
+                                        }
+                                    },
+                                    "token": "AamPHpTG",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "AamPHpTG",
+                                            "index": 0,
+                                            "post_type": "PELLE",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-23T07:18:59.392553Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "75fe0307-bfce-4b33-b7eb-17e252f0890a",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "051c22ab-a229-43f2-a2c7-77d2044de450",
+                            "normalizerId": "a44c07f9-769d-4c01-9e03-293f786303f3",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "116 متر قیطریه\u002Fدو قدمی پارک\u002Fفول بازسازی\u002Fدو خواب",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aaq7AAP5",
+                                            "web_info": {
+                                                "title": "116 متر قیطریه\u002Fدو قدمی پارک\u002Fفول بازسازی\u002Fدو خواب",
+                                                "district_persian": "قیطریه",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F6tiwSayztvNMUeLbfNdnVw\u002F01ce1146-babb-4fa6-9e75-f76c7e4c9b3d.webp",
+                                    "bottom_description_text": "در قیطریه",
+                                    "has_chat": true,
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۲۲,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 5,
+                                    "token": "Aaq7AAP5",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aaq7AAP5",
+                                            "index": 0,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:29:00.174004Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "051c22ab-a229-43f2-a2c7-77d2044de450",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "7b8c9e3c-79eb-4166-b584-10f3a78e40eb",
+                            "normalizerId": "dbc90ba4-ee07-471c-98c3-99a085798b17",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAwehiP",
+                                            "web_info": {
+                                                "title": "قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی",
+                                                "district_persian": "قیطریه",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FSAfZONi28IsYB9nyDcuRZg\u002F80088dc4-c7c9-4037-b9b5-507b16a0264e.webp",
+                                    "bottom_description_text": "مسکن آدرس در قیطریه",
+                                    "middle_description_text": "۳۲,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "token": "QaAwehiP",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAwehiP",
+                                            "index": 1,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:20:22.438101Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "7b8c9e3c-79eb-4166-b584-10f3a78e40eb",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "3ba9ee6a-0032-4b3c-9fe8-cf4cef2c989a",
+                            "normalizerId": "bac2018e-640e-4e0c-bd8b-d8a3be9c858c",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۵۸متری(سندتهران)بمب سرمایه گذاری\u002Fاندیشه",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aax22rj8",
+                                            "web_info": {
+                                                "title": "۵۸متری(سندتهران)بمب سرمایه گذاری\u002Fاندیشه",
+                                                "district_persian": "جوانمردان (اندیشه)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FY0rlrQYHVkSHQ62sXwusyQ\u002F17d0782e-c25c-4c84-9db1-a3ec9da53426.webp",
+                                    "bottom_description_text": "خانوم امتی در جوانمردان (اندیشه)",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۱,۵۳۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 10,
+                                    "token": "Aax22rj8",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aax22rj8",
+                                            "index": 2,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:41:59.872836Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "3ba9ee6a-0032-4b3c-9fe8-cf4cef2c989a",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "604add2b-5f61-4337-8303-5da9ba9ef1db",
+                            "normalizerId": "88cce79e-e888-4998-9a71-56234a0ed705",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "اموزش رانندگی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAI_47S",
+                                            "web_info": {
+                                                "title": "اموزش رانندگی",
+                                                "district_persian": "بوستان ولایت",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FsIDEnhCwisB9PLLRGbMhTw\u002F608318a0-3230-4acb-ad60-c9114d6d03b2.webp",
+                                    "bottom_description_text": "لحظاتی پیش در بوستان ولایت",
+                                    "has_chat": true,
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "token": "QaAI_47S",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAI_47S",
+                                            "index": 3,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:45:45.075353Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "604add2b-5f61-4337-8303-5da9ba9ef1db",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "2ac6b992-f8c5-44fb-bb77-205da1db71c2",
+                            "normalizerId": "299d391c-ce87-449b-af22-6297febc2ffe",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "اجاره منزل مسکونی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa6Tl_K9",
+                                            "web_info": {
+                                                "title": "اجاره منزل مسکونی",
+                                                "district_persian": "فلاح",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F2h3H6vEQAX15W3-cAvnL9Q\u002Fbb7bf14a-1b58-413a-8925-65f6effb97f4.webp",
+                                    "bottom_description_text": "در فلاح",
+                                    "has_chat": true,
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "اجاره: ۱۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 6,
+                                    "top_description_text": "ودیعه: ۲۰۰,۰۰۰,۰۰۰ تومان",
+                                    "token": "Aa6Tl_K9",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa6Tl_K9",
+                                            "index": 4,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:24:15.245856Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "2ac6b992-f8c5-44fb-bb77-205da1db71c2",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "88b9a357-f88f-4414-9c83-b9c3db5a098c",
+                            "normalizerId": "dc8edff6-050f-466d-98d4-33ded9b8c6b6",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "آپارتمان ۷۵ متری کرمان شمالی * فول امکانات",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaA4dFHF",
+                                            "web_info": {
+                                                "title": "آپارتمان ۷۵ متری کرمان شمالی * فول امکانات",
+                                                "district_persian": "کرمان",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FG6HntgO5w1y2vbOYViVPGg\u002F8ec1d25c-f775-492c-a6cf-405476788e98.webp",
+                                    "bottom_description_text": "۱ ساعت پیش در کرمان",
+                                    "has_chat": true,
+                                    "middle_description_text": "۷,۷۵۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 10,
+                                    "token": "QaA4dFHF",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaA4dFHF",
+                                            "index": 5,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:17:14.026450Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "88b9a357-f88f-4414-9c83-b9c3db5a098c",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "03d50e8e-9e0f-4eff-bdf2-a43c4b3851d4",
+                            "normalizerId": "53d4d416-9083-4d5d-a77d-7b9a5c43957b",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "اجاره آپارتمان ۵۳ متری در زهتابی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aaq_RkML",
+                                            "web_info": {
+                                                "title": "اجاره آپارتمان ۵۳ متری در زهتابی",
+                                                "district_persian": "زهتابی",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FlZHf_Vbzk_9c4F1eZdpitQ\u002Fafd42110-2205-4512-9240-bb8e8716b9c0.webp",
+                                    "bottom_description_text": "در زهتابی",
+                                    "has_chat": true,
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "رهن کامل",
+                                    "has_divider": true,
+                                    "image_count": 3,
+                                    "top_description_text": "ودیعه: ۳۵۰,۰۰۰,۰۰۰ تومان",
+                                    "token": "Aaq_RkML",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aaq_RkML",
+                                            "index": 6,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-27T19:06:36.142690Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "03d50e8e-9e0f-4eff-bdf2-a43c4b3851d4",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "23b61d2e-e644-4c6b-88ca-bfc6d5fc31fd",
+                            "normalizerId": "73967f38-fd91-474f-af0d-49babde152b0",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۸۲ متر کلیدنخورده\u002Fدو خواب\u002Fفول\u002Fسوم نیروهوایی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAAO8tj",
+                                            "web_info": {
+                                                "title": "۸۲ متر کلیدنخورده\u002Fدو خواب\u002Fفول\u002Fسوم نیروهوایی",
+                                                "district_persian": "نیروی هوایی (پیروزی)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FbQHKbph77QQ3twjZeys6bg\u002F0319a0aa-b45e-4dda-8cfa-7c5e90f54c61.webp",
+                                    "bottom_description_text": "آژانس املاک خدابنده در نیروی هوایی (پیروزی)",
+                                    "has_chat": true,
+                                    "middle_description_text": "۱۰,۷۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "token": "QaAAO8tj",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAAO8tj",
+                                            "index": 7,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:36:06.520797Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "23b61d2e-e644-4c6b-88ca-bfc6d5fc31fd",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "38e587ee-3c26-43e3-a463-5a60fed84d53",
+                            "normalizerId": "ccca20d7-beb5-4c0b-a36f-ef6f25321731",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۲۱۰ متر \u002F سه پارکینگ \u002F بهترین فرعی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa_zPiW3",
+                                            "web_info": {
+                                                "title": "۲۱۰ متر \u002F سه پارکینگ \u002F بهترین فرعی",
+                                                "district_persian": "نیروی هوایی (پیروزی)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FQBjXM7ead2ezLpWa1cr26g\u002F5dc0cb2a-023d-4a33-8609-d22f6406d37e.webp",
+                                    "bottom_description_text": "آژانس اسپیناس در نیروی هوایی (پیروزی)",
+                                    "has_chat": true,
+                                    "middle_description_text": "۳۵,۳۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "token": "Aa_zPiW3",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa_zPiW3",
+                                            "index": 8,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:46:38.385028Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "38e587ee-3c26-43e3-a463-5a60fed84d53",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "249f14c3-1818-4696-ad09-cbab2229bea9",
+                            "normalizerId": "5133a044-cbef-4426-8919-c1ac7c6ef6bb",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "دو‌خواب\u002Fنوساز\u002F ویوو عالی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAceI8K",
+                                            "web_info": {
+                                                "title": "دو‌خواب\u002Fنوساز\u002F ویوو عالی",
+                                                "district_persian": "شهرک غرب",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FOfwPw-bgC5qD-xsC-_5nlw\u002F0e083083-c56c-4a51-ad88-908bf8cb57b7.webp",
+                                    "bottom_description_text": "آژانس مثلث در شهرک غرب",
+                                    "middle_description_text": "رهن کامل",
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "top_description_text": "ودیعه: ۳,۶۰۰,۰۰۰,۰۰۰ تومان",
+                                    "token": "QaAceI8K",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAceI8K",
+                                            "index": 9,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:54:35.220199Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "249f14c3-1818-4696-ad09-cbab2229bea9",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "ba3508ea-ff19-4c3c-ac76-b2e97bd36836",
+                            "normalizerId": "fcd3fcd7-ecca-4aa7-9cdd-0b987b2121dc",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۵۷متـر‌سنـد‌دار\u002Fکـم‌واحـد‌‌روبنمـا\u002Fانـدیشـه",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "AaF_DSj_",
+                                            "web_info": {
+                                                "title": "۵۷متـر‌سنـد‌دار\u002Fکـم‌واحـد‌‌روبنمـا\u002Fانـدیشـه",
+                                                "district_persian": "جوانمردان (اندیشه)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FyOOAbwdh9Ro_jkE33LUbkA\u002Fc1b4f44e-164f-44b4-803f-91467a510e4e.webp",
+                                    "bottom_description_text": "آژانس دپارتمان بالون در جوانمردان (اندیشه)",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۱,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 10,
+                                    "token": "AaF_DSj_",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "AaF_DSj_",
+                                            "index": 10,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:22:54.130959Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "ba3508ea-ff19-4c3c-ac76-b2e97bd36836",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "e963336c-d833-466a-968e-28751a5fd567",
+                            "normalizerId": "39e46934-f3b6-4299-a166-10f5d7f26fab",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۵۳متری\u002F سالن نورگیر \u002Fفاز1 اندیشه\u002Fسراسر پنجره خطی\u002F",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAwOwzz",
+                                            "web_info": {
+                                                "title": "۵۳متری\u002F سالن نورگیر \u002Fفاز1 اندیشه\u002Fسراسر پنجره خطی\u002F",
+                                                "district_persian": "جوانمردان (اندیشه)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FYVABWmZZIaZIzcIJQyaF5g\u002F7937f3a6-e1fc-4fc5-8c73-d2c0543c5834.webp",
+                                    "bottom_description_text": "دپارتمان بزرگ آی تک  در جوانمردان (اندیشه)",
+                                    "middle_description_text": "۱,۳۲۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 13,
+                                    "token": "QaAwOwzz",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAwOwzz",
+                                            "index": 11,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:19:11.705629Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "e963336c-d833-466a-968e-28751a5fd567",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "62962405-4013-4e06-934c-4034d8ec7fa7",
+                            "normalizerId": "52a18b0f-66b2-47a8-8510-70ab224c37e6",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "جردن طاهری 118 متر 2 پارکینگ",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa1vSyKE",
+                                            "web_info": {
+                                                "title": "جردن طاهری 118 متر 2 پارکینگ",
+                                                "district_persian": "امانیه",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F6S5QC1VVSCuXh41q2op4dw\u002Fa73f3962-dd57-4972-990b-d694f9711f64.webp",
+                                    "bottom_description_text": "آژانس نلسون جردن در امانیه",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "رهن کامل",
+                                    "has_divider": true,
+                                    "image_count": 14,
+                                    "top_description_text": "ودیعه: ۳,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                    "image_top_left_tag": {
+                                        "icon": {
+                                            "image_url_dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Fwhite_primary\u002Fv1\u002Fvideocam.png",
+                                            "image_url_light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Fwhite_primary\u002Fv1\u002Fvideocam.png",
+                                            "icon_name": "VIDEOCAM",
+                                            "icon_color": "WHITE_PRIMARY"
+                                        }
+                                    },
+                                    "token": "Aa1vSyKE",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa1vSyKE",
+                                            "index": 12,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:15:07.318073Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "62962405-4013-4e06-934c-4034d8ec7fa7",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "03dc69e7-80e1-427f-9e98-79adcfcd0ced",
+                            "normalizerId": "02e6fa81-5df3-4d51-ac96-15b4a6e9838a",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۲خوابه ۶۱متر تکواحدی فول امکانات",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa8Dp9rE",
+                                            "web_info": {
+                                                "title": "۲خوابه ۶۱متر تکواحدی فول امکانات",
+                                                "district_persian": "نیروی هوایی (پیروزی)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FNDQGtKWYXrguh9IooeCgXA\u002F66aef079-0b41-4649-88cc-4db86b2d13f1.webp",
+                                    "bottom_description_text": "مشاور امیر در نیروی هوایی (پیروزی)",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۶,۲۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 9,
+                                    "token": "Aa8Dp9rE",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa8Dp9rE",
+                                            "index": 13,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:29:58.983389Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "03dc69e7-80e1-427f-9e98-79adcfcd0ced",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "cb774bf2-7f2a-4f67-8cec-bff81c48c418",
+                            "normalizerId": "5880547e-084f-4c1e-a85a-e56e0a66810c",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "آپارتمان ۱۱۰ متری نوساز فول",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa_7393y",
+                                            "web_info": {
+                                                "title": "آپارتمان ۱۱۰ متری نوساز فول",
+                                                "district_persian": "زهتابی",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002Feyb4H0ukdgY3BuUK-9Dn6w\u002Fa10b8159-661d-4add-af17-703d1f791ac2.webp",
+                                    "bottom_description_text": "آژانس ⭐️مشاورين املاك فرهاد⭐️ در زهتابی",
+                                    "has_chat": true,
+                                    "middle_description_text": "اجاره: ۱۲,۵۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 5,
+                                    "top_description_text": "ودیعه: ۵۰۰,۰۰۰,۰۰۰ تومان",
+                                    "token": "Aa_7393y",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa_7393y",
+                                            "index": 14,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-27T14:19:00.813568Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "cb774bf2-7f2a-4f67-8cec-bff81c48c418",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "5979d4ef-00ec-4cfe-87ca-53c9bfefe92e",
+                            "normalizerId": "fa37999a-ceb0-4857-a9b0-2597009ff6d8",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa3TYHTO",
+                                            "web_info": {
+                                                "title": "سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر",
+                                                "district_persian": "جوانمردان (اندیشه)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FwB81AT7QRT15ulUaPmO4Mw\u002Fa0c4f7d7-30cc-4694-8fbd-101863920439.webp",
+                                    "bottom_description_text": "آژانس دپارتمان بالون در جوانمردان (اندیشه)",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۱,۱۵۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 8,
+                                    "token": "Aa3TYHTO",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa3TYHTO",
+                                            "index": 15,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:08:31.939796Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "5979d4ef-00ec-4cfe-87ca-53c9bfefe92e",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "890333ec-75e5-4028-aed6-40e8285d289e",
+                            "normalizerId": "66fae592-f96e-47b4-b0f0-7ae703b61e4c",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "آپارتمان 105 متری فول سوم نیروهوایی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aaw7x13H",
+                                            "web_info": {
+                                                "title": "آپارتمان 105 متری فول سوم نیروهوایی",
+                                                "district_persian": "نیروی هوایی (پیروزی)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FndDg_gtLrzto6QjVjBSxDQ\u002F2e6a98fc-9627-419c-af03-21e227004735.webp",
+                                    "bottom_description_text": "در نیروی هوایی (پیروزی)",
+                                    "has_chat": true,
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۹,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "token": "Aaw7x13H",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aaw7x13H",
+                                            "index": 16,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T07:25:42.861924Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "890333ec-75e5-4028-aed6-40e8285d289e",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "FULL_WIDTH_WIDGET",
+                        "data": {
+                            "widgetType": "INSET_BANNER",
+                            "visibilityConditions": [],
+                            "uid": "1fe4a8c1-ad7c-4fb7-94f7-75c7e67acfd5",
+                            "normalizerId": "db9297b8-8a96-4c06-ae74-f7908a39014a",
+                            "dto": {
+                                "widget_type": "INSET_BANNER",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.InsetBannerData",
+                                    "desktop_image_url": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002F43ab276b-eee8-4c04-9292-6033a82ec4d3.jpg",
+                                    "tablet_image_url": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002Faa8e52f8-ecbe-40f0-bf59-a487574e9537.jpg",
+                                    "mobile_image_url": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002Fae0fb682-add1-4b41-ba11-c941ec2446ba.jpg",
+                                    "action": {
+                                        "type": "OPEN_WEB_PAGE",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.OpenWebPagePayload",
+                                            "link": "https:\u002F\u002Fa-banners.divar.ir\u002Fauction\u002F?ext_link_data=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHRlcm5hbFVybCI6eyJTY2hlbWUiOiJodHRwcyIsIk9wYXF1ZSI6IiIsIlVzZXIiOm51bGwsIkhvc3QiOiJ3d3cuaGFtcmFoLW1lY2hhbmljLmNvbSIsIlBhdGgiOiIvY2FyLXNlbGwvY2FyLWluZm9ybWF0aW9uLyIsIlJhd1BhdGgiOiIiLCJPbWl0SG9zdCI6ZmFsc2UsIkZvcmNlUXVlcnkiOmZhbHNlLCJSYXdRdWVyeSI6ImV2ZW50UGFyYW1zPVx1MDAyNnV0bV9zb3VyY2U9eWVrdGFuZXRcdTAwMjZ1dG1fY2FtcGFpZ249ZGl2YXJfcm9vdF9jYXJzZWxsXHUwMDI2dXRtX21lZGl1bT1kaXZhci1jcGFcdTAwMjZ1dG1fdGVybT15bl9tb2JfMzI4NTgwXHUwMDI2dXRtX2NvbnRlbnQ9cm9vdFx1MDAyNnV0bV95bl9hZGl2ZXJ5PXYxLU9UQTFNVFF6T2pnM056WXpOem96TWpnMU9EQTZNVGd5TVRVNk5EY3lORFU2TVdaalpUZzFaREF0WlRCbVpTMDFOamMxTFRoa01XRXRORGM0T1RjeE16RXlNVGN6T2pFM05qRTJOams1TnpNNlpHbDJZWEpmYm1WM1gzSmxZMjl0YldWdVpHVnlMbU52Ym5SeWIydzZNRHBqY0cwNk1Eb3hOVG94TkRwbFpESmtZalpqTXkwNVpEZ3dMVFEzTURjdFlUVXdNUzFrTldJeE5UZzRaR0kyWmpVNllXUnBkbVZ5ZVRwVlRrdE9UMWRPT21aaGJITmxcdTAwMjZ1dG1feW5fZGF0YT12Ni5pLmJ4RFEuZFF0Qi5kWERmLm1zYi5lVFguMWZjZTg1ZDAtZTBmZS01Njc1LThkMWEtNDc4OTcxMzEyMTczLjFiODdiNmUxLTMwZmMtNDY4NS05ZWE2LTE1YWU4NTNlOTUwMS5wLlcxMD0uVzEwPS5lZDJkYjZjMy05ZDgwLTQ3MDctYTUwMS1kNWIxNTg4ZGI2ZjUuTkFUSVZFLm0uZmFsc2VcdTAwMjZ1dG1feW5fZGl2YXI9djEtTVRjMk1UWTJPVGszTXpvNU1EVXhORE02T0RjM05qTTNPak15T0RVNE1EcHliMjkwT2pveE9qQTZNRG8wTnpJME5RXHUwMDI2dXRtX3luPXY0LU1UbzROemMyTXpjNk9UQTFNVFF6T2pFNk1Ub3hPakkiLCJGcmFnbWVudCI6IiIsIlJhd0ZyYWdtZW50IjoiIn0sImFkSWQiOiJiMWQ0ODYwMS0wMDg5LTQyYzYtOWVmMS1kMTc3NjdhYmYwODEiLCJldmVudFR5cGUiOjUwMX0.47gCunhYMHTMKas2-LfdT2koC5Xzg8GA93ydiUOLlEg",
+                                            "nofollow": true
+                                        }
+                                    },
+                                    "padded": true,
+                                    "desktop_aspect_ratio": "_16x9",
+                                    "tablet_aspect_ratio": "_5x1",
+                                    "mobile_aspect_ratio": "_4x1",
+                                    "on_event_callback": {
+                                        "rest_request_path": "\u002Fv8\u002Fad-auction\u002Fevent-callback\u002Finset-banner",
+                                        "events": ["LOADED_CACHE", "LOADED", "IMPRESSION", "VIEWABLE_MRC100", "CLICKED", "VIEWABLE_MRC50"],
+                                        "request_data": {
+                                            "@type": "type.googleapis.com\u002Fad_auction.EventCallbackData",
+                                            "ad_instance_id": "b1d48601-0089-42c6-9ef1-d17767abf081"
+                                        }
+                                    },
+                                    "banner_overlay": {
+                                        "action": {
+                                            "type": "OPEN_WEB_PAGE",
+                                            "payload": {
+                                                "@type": "type.googleapis.com\u002Fwidgets.OpenWebPagePayload",
+                                                "link": "https:\u002F\u002Fwww.yektanet.com\u002Fadvertising-on-divar\u002F",
+                                                "page_type": "SAME_PAGE",
+                                                "nofollow": true
+                                            }
+                                        },
+                                        "action_icon": {
+                                            "image_url_dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Funknown\u002Fv1\u002Finfo_outline.png",
+                                            "image_url_light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Funknown\u002Fv1\u002Finfo_outline.png",
+                                            "icon_name": "INFO_OUTLINE"
+                                        },
+                                        "tag_title": "تبلیغ",
+                                        "tag_icon": {
+                                            "image_url_dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Fwhite_primary\u002Fv1\u002Fyektanet.png",
+                                            "image_url_light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Fwhite_primary\u002Fv1\u002Fyektanet.png",
+                                            "icon_name": "YEKTANET",
+                                            "icon_color": "WHITE_PRIMARY"
+                                        },
+                                        "action_title": "تبلیغ",
+                                        "action_secondary_icon": {
+                                            "image_url_dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fyektanet.png",
+                                            "image_url_light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fyektanet.png",
+                                            "icon_name": "YEKTANET",
+                                            "icon_color": "ICON_SECONDARY"
+                                        }
+                                    },
+                                    "presentation_style": "PRESENTATION_STYLE_DEFAULT",
+                                    "desktop_aspect_ratio_float": 6.76190472,
+                                    "tablet_aspect_ratio_float": 4.57142878,
+                                    "mobile_aspect_ratio_float": 1.78260875,
+                                    "content_type": "CONTENT_TYPE_IMAGE",
+                                    "desktop_image": {
+                                        "url_light": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002F43ab276b-eee8-4c04-9292-6033a82ec4d3.jpg",
+                                        "url_dark": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002F43ab276b-eee8-4c04-9292-6033a82ec4d3.jpg",
+                                        "alt": "بنر تبلیغاتی"
+                                    },
+                                    "tablet_image": {
+                                        "url_light": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002Faa8e52f8-ecbe-40f0-bf59-a487574e9537.jpg",
+                                        "url_dark": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002Faa8e52f8-ecbe-40f0-bf59-a487574e9537.jpg",
+                                        "alt": "بنر تبلیغاتی"
+                                    },
+                                    "mobile_image": {
+                                        "url_light": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002Fae0fb682-add1-4b41-ba11-c941ec2446ba.jpg",
+                                        "url_dark": "https:\u002F\u002Fa-banners.divarcdn.com\u002Fssp\u002Fads\u002Fmedia\u002Fimage\u002Fae0fb682-add1-4b41-ba11-c941ec2446ba.jpg",
+                                        "alt": "بنر تبلیغاتی"
+                                    }
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.AdsBannerWidgetInfo",
+                                            "ad_id": "b1d48601-0089-42c6-9ef1-d17767abf081",
+                                            "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                            "offset": 18,
+                                            "index": 18
+                                        },
+                                        "item_type": {
+                                            "type": "ADS_BANNER_WIDGET"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "1fe4a8c1-ad7c-4fb7-94f7-75c7e67acfd5",
+                            "__NORMALIZED_WIDGET_V2__": true
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "a34361aa-0891-4d72-9a7f-a478b0ed385d",
+                            "normalizerId": "122c87af-406c-4886-9fef-328582cc2e36",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa0f8XHE",
+                                            "web_info": {
+                                                "title": "۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی",
+                                                "district_persian": "نیروی هوایی (پیروزی)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F6jeAu5O9jTuPN01E7-yZVQ\u002F1a47b084-6905-42cc-bb77-76129c913df5.webp",
+                                    "bottom_description_text": "آژانس مهندسین و مشاورین املاک‌ خسروی فرعی۲۹ ۵ در نیروی هوایی (پیروزی)",
+                                    "has_chat": true,
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۱۶,۸۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 15,
+                                    "token": "Aa0f8XHE",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa0f8XHE",
+                                            "index": 17,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T07:18:28.111898Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "a34361aa-0891-4d72-9a7f-a478b0ed385d",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "aaddde2e-95cc-47d3-887c-735f398bc90b",
+                            "normalizerId": "85e2e03c-b0e8-4943-9b2b-b46b96cbc11d",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAsuvEc",
+                                            "web_info": {
+                                                "title": "۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب",
+                                                "district_persian": "فلاح",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FyGxe6NDKXTic0PNfSHvndA\u002Fff8da2dd-e837-4e44-ad05-adec4b83ee54.webp",
+                                    "bottom_description_text": "نیم ساعت پیش در فلاح",
+                                    "has_chat": true,
+                                    "middle_description_text": "اجاره: ۸,۵۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 2,
+                                    "top_description_text": "ودیعه: ۱۰۰,۰۰۰,۰۰۰ تومان",
+                                    "token": "QaAsuvEc",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAsuvEc",
+                                            "index": 18,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:14:04.485567Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "aaddde2e-95cc-47d3-887c-735f398bc90b",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "b361cf42-b58a-436c-b996-0a4d20ab8499",
+                            "normalizerId": "06ec77e5-92a1-49a0-a72e-de6aa98f9a0f",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "۱۷۵ متر مدرن دو قدمی پارک قیطریه",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa4nqqJw",
+                                            "web_info": {
+                                                "title": "۱۷۵ متر مدرن دو قدمی پارک قیطریه",
+                                                "district_persian": "قیطریه",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FiSJTMl0MbuBG3wRyYOmOzQ\u002Fac4b3cc0-e3e1-45e0-bd38-92a0060cd431.webp",
+                                    "bottom_description_text": "آژانس مشاورین املاک یک در قیطریه",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۴۰,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 3,
+                                    "token": "Aa4nqqJw",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa4nqqJw",
+                                            "index": 19,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:38:43.356963Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "b361cf42-b58a-436c-b996-0a4d20ab8499",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "05923418-a8f8-4bbb-8a1e-cd05e500db7e",
+                            "normalizerId": "2949ab98-afbe-4964-8422-2209276a11c4",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "AaMYMk6E",
+                                            "web_info": {
+                                                "title": "121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲",
+                                                "district_persian": "شهرک چیتگر",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002Fy7nj5CkZPgOtr2bAnUOGYg\u002Fef37bfcb-0e88-4578-9a1c-ba3b4460ec12.jpg.webp",
+                                    "bottom_description_text": "آژانس مسکن سپهر در شهرک چیتگر",
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۸,۰۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 6,
+                                    "token": "AaMYMk6E",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "AaMYMk6E",
+                                            "index": 20,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:08:04.038950Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "05923418-a8f8-4bbb-8a1e-cd05e500db7e",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "b44c10fe-515d-4013-8408-42f8c6266ffb",
+                            "normalizerId": "1419ad09-e0d4-42e2-aaca-4e8793858d44",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "آپارتمان ۵۰ متر خوش نقشه",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "Aa_zEEO-",
+                                            "web_info": {
+                                                "title": "آپارتمان ۵۰ متر خوش نقشه",
+                                                "district_persian": "زهتابی",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FJcTAzhm10ezy5scHTi7nuw\u002F0928248e-3ecb-4e79-a6cb-ffa324c9c419.webp",
+                                    "bottom_description_text": "آژانس املاک آریانا در زهتابی",
+                                    "has_chat": true,
+                                    "middle_description_text": "رهن کامل",
+                                    "has_divider": true,
+                                    "image_count": 1,
+                                    "top_description_text": "ودیعه: ۳۵۰,۰۰۰,۰۰۰ تومان",
+                                    "token": "Aa_zEEO-",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "Aa_zEEO-",
+                                            "index": 21,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    },
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"]
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-27T10:40:50.517420Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "b44c10fe-515d-4013-8408-42f8c6266ffb",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "57148595-c350-42fa-ad24-4bbfcf63ae70",
+                            "normalizerId": "aa6d0bfe-8713-4efd-9ceb-faf7fa910b73",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "60متر+پذیرایی پنجره خور\u002Fسند تکبرگ+پارکینگ\u002Fاسانسور",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "AaGTc0C-",
+                                            "web_info": {
+                                                "title": "60متر+پذیرایی پنجره خور\u002Fسند تکبرگ+پارکینگ\u002Fاسانسور",
+                                                "district_persian": "جوانمردان (اندیشه)",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F8BmHOxL56_Y_0Fo3rtrNOw\u002F9727ae00-c790-4f26-b54b-f006aa026583.webp",
+                                    "bottom_description_text": "مشاور پرهام حجازی در جوانمردان (اندیشه)",
+                                    "has_chat": true,
+                                    "red_text": "نردبان شده",
+                                    "middle_description_text": "۱,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 9,
+                                    "token": "AaGTc0C-",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "AaGTc0C-",
+                                            "index": 22,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T16:04:33.095372Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "57148595-c350-42fa-ad24-4bbfcf63ae70",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }, {
+                        "type": "WIDGET",
+                        "data": {
+                            "widgetType": "POST_ROW",
+                            "visibilityConditions": [],
+                            "uid": "7343ae40-db64-4e08-8f0e-6ca0c82b8746",
+                            "normalizerId": "732badf2-1016-4480-b46d-0c561a3b8422",
+                            "dto": {
+                                "widget_type": "POST_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.PostRowData",
+                                    "title": "146 متر رو به آفتاب ۲ پارکینگ قیطریه",
+                                    "action": {
+                                        "type": "VIEW_POST",
+                                        "payload": {
+                                            "@type": "type.googleapis.com\u002Fwidgets.ViewPostPayload",
+                                            "token": "QaAEuhKZ",
+                                            "web_info": {
+                                                "title": "146 متر رو به آفتاب ۲ پارکینگ قیطریه",
+                                                "district_persian": "قیطریه",
+                                                "city_persian": "تهران"
+                                            }
+                                        }
+                                    },
+                                    "image_url": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FYdf6Qfvg_8a-C8dYPpn2vA\u002Ffd302cfa-7150-43b0-8115-9aa0d2912c54.webp",
+                                    "bottom_description_text": "آژانس مسکن نیاوران در قیطریه",
+                                    "middle_description_text": "۳۲,۵۰۰,۰۰۰,۰۰۰ تومان",
+                                    "has_divider": true,
+                                    "image_count": 19,
+                                    "token": "QaAEuhKZ",
+                                    "should_indicate_seen_status": true
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostItemInfo",
+                                            "post_token": "QaAEuhKZ",
+                                            "index": 23,
+                                            "post_type": "SEARCH",
+                                            "list_type": "PAGE",
+                                            "source_page": "POST_LIST_PAGE",
+                                            "extra_data": {
+                                                "@type": "type.googleapis.com\u002Faction_log.PostItemInfo.SearchExtraData",
+                                                "jli": {
+                                                    "sort": {
+                                                        "value": "recommended"
+                                                    },
+                                                    "places": {
+                                                        "value": ["1"]
+                                                    },
+                                                    "cities": ["1"],
+                                                    "category": {
+                                                        "value": "ROOT"
+                                                    }
+                                                },
+                                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                                "search_data": {
+                                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                                    "cities": ["1"],
+                                                    "query_input_type": "TEXT"
+                                                }
+                                            },
+                                            "sort_date": "2025-10-28T15:36:41.890824Z"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_ITEM"
+                                        }
+                                    },
+                                    "enabled": true
+                                }
+                            },
+                            "KEY_PROP_NAME": "7343ae40-db64-4e08-8f0e-6ca0c82b8746",
+                            "__NORMALIZED_WIDGET_V2__": true,
+                            "loadingSrc": "data:image\u002Fpng;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAADJCAQAAAAjz96OAAABLElEQVR42u3RQREAAAjDMObfJzbABccjldCkp\u002FSqIEEiJEiEBImQIBESIUEiJEiEBImQIDEBiZAgERIkQoJESIQEiZAgERIkQoJESIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQSIkSIRESJAICRIhQSIkQoJESJAICRIhQSIkQoJESJAICRIhERIkQoJESJAICRIhERIkQoJESJAICRIkSIQEiZAgERIkQiIkSIQEiZAgERIkQiIkSIQEiZAgERIhQSIkSIQEiZAgERIhQSIkSIQEiZAICRIhQSIkSIQEiZAICRIhQSIkSIRESJAICRIhQaKjFod2faZjQ1LbAAAAAElFTkSuQmCC"
+                        }
+                    }],
+                    "listBottomWidgets": [],
+                    "sidebarTopWidgets": [],
+                    "sidebarBottomWidgets": [],
+                    "filterChips": [],
+                    "seoDetails": {
+                        "title": "دیوار تهران - آگهی های رایگان خرید، فروش و استخدام | دیوار",
+                        "description": "در دیوار تهران، بهترین آگهی‌های رایگان خرید، فروش و استخدام را پیدا کنید. به سادگی نیازمندی‌های خود را جستجو کنید و فرصت‌های جدید را کشف کنید.",
+                        "breadcrumb": [{
+                            "name": "تهران",
+                            "searchData": {
+                                "formData": {}
+                            }
+                        }, {
+                            "name": "دیوار",
+                            "searchData": {
+                                "formData": {}
+                            }
+                        }],
+                        "canonical": {
+                            "formData": {
+                                "category": {
+                                    "str": {
+                                        "value": "ROOT"
+                                    }
+                                }
+                            }
+                        },
+                        "robotsMetaData": {
+                            "index": true,
+                            "follow": true
+                        },
+                        "linkedData": [{
+                            "accommodationCategory": "آپارتمان",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "116",
+                                "unitCode": "MTK"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "numberOfRooms": "دو",
+                            "geo": {
+                                "longitude": "51.446656425228",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, قیطریه",
+                                "latitude": "35.79376958179"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F6tiwSayztvNMUeLbfNdnVw\u002F01ce1146-babb-4fa6-9e75-f76c7e4c9b3d.webp",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F116-متر-قیطریه-دو-قدمی-پارک-فول-بازسازی-دو-خواب\u002FAaq7AAP5",
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "116 متر قیطریه\u002Fدو قدمی پارک\u002Fفول بازسازی\u002Fدو خواب",
+                                "city_persian": "تهران",
+                                "district_persian": "قیطریه"
+                            },
+                            "name": "116 متر قیطریه\u002Fدو قدمی پارک\u002Fفول بازسازی\u002Fدو خواب"
+                        }, {
+                            "geo": {
+                                "longitude": "51.44060074122979",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, قیطریه",
+                                "latitude": "35.7879853201749"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fقیطریه-۱۳۰-متر-۲-خواب-مستر-۲-پارکینگ-سندی\u002FQaAwehiP",
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی",
+                                "city_persian": "تهران",
+                                "district_persian": "قیطریه"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FSAfZONi28IsYB9nyDcuRZg\u002F80088dc4-c7c9-4037-b9b5-507b16a0264e.webp",
+                            "floorSize": {
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue",
+                                "value": "130"
+                            },
+                            "accommodationCategory": "آپارتمان",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "numberOfRooms": "دو",
+                            "name": "قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی"
+                        }, {
+                            "numberOfRooms": "یک",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۵۸متری-سندتهران-بمب-سرمایه-گذاری-اندیشه\u002FAax22rj8",
+                            "floorSize": {
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue",
+                                "value": "58"
+                            },
+                            "geo": {
+                                "address": "تهران, جوانمردان (اندیشه)",
+                                "latitude": "35.7470588684082",
+                                "longitude": "51.27653121948242",
+                                "@type": "GeoCoordinates"
+                            },
+                            "@type": "Apartment",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FY0rlrQYHVkSHQ62sXwusyQ\u002F17d0782e-c25c-4c84-9db1-a3ec9da53426.webp",
+                            "accommodationCategory": "آپارتمان",
+                            "web_info": {
+                                "city_persian": "تهران",
+                                "district_persian": "جوانمردان (اندیشه)",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۵۸متری(سندتهران)بمب سرمایه گذاری\u002Fاندیشه"
+                            },
+                            "name": "۵۸متری(سندتهران)بمب سرمایه گذاری\u002Fاندیشه"
+                        }, {
+                            "name": "اموزش رانندگی",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FsIDEnhCwisB9PLLRGbMhTw\u002F608318a0-3230-4acb-ad60-c9114d6d03b2.webp",
+                            "category": "teaching",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Product",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fاموزش-رانندگی\u002FQaAI_47S",
+                            "offers": {
+                                "priceCurrency": "IRR",
+                                "price": "0",
+                                "@type": "Offer"
+                            },
+                            "web_info": {
+                                "district_persian": "بوستان ولایت",
+                                "category_slug_persian": "آموزشی",
+                                "title": "اموزش رانندگی",
+                                "city_persian": "تهران"
+                            }
+                        }, {
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fاجاره-منزل-مسکونی\u002FAa6Tl_K9",
+                            "web_info": {
+                                "title": "اجاره منزل مسکونی",
+                                "city_persian": "تهران",
+                                "district_persian": "فلاح",
+                                "category_slug_persian": "آپارتمان"
+                            },
+                            "name": "اجاره منزل مسکونی",
+                            "numberOfRooms": "یک",
+                            "floorSize": {
+                                "value": "45",
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue"
+                            },
+                            "geo": {
+                                "address": "تهران, فلاح",
+                                "latitude": "35.659590880418",
+                                "longitude": "51.363322328438",
+                                "@type": "GeoCoordinates"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "accommodationCategory": "آپارتمان",
+                            "@type": "Apartment",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F2h3H6vEQAX15W3-cAvnL9Q\u002Fbb7bf14a-1b58-413a-8925-65f6effb97f4.webp"
+                        }, {
+                            "numberOfRooms": "دو",
+                            "accommodationCategory": "آپارتمان",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fآپارتمان-۷۵-متری-کرمان-شمالی-فول-امکانات\u002FQaA4dFHF",
+                            "web_info": {
+                                "district_persian": "کرمان",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "آپارتمان ۷۵ متری کرمان شمالی * فول امکانات",
+                                "city_persian": "تهران"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FG6HntgO5w1y2vbOYViVPGg\u002F8ec1d25c-f775-492c-a6cf-405476788e98.webp",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "75",
+                                "unitCode": "MTK"
+                            },
+                            "geo": {
+                                "latitude": "35.735550830809",
+                                "longitude": "51.477963313369",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, کرمان"
+                            },
+                            "name": "آپارتمان ۷۵ متری کرمان شمالی * فول امکانات"
+                        }, {
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "name": "اجاره آپارتمان ۵۳ متری در زهتابی",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FlZHf_Vbzk_9c4F1eZdpitQ\u002Fafd42110-2205-4512-9240-bb8e8716b9c0.webp",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "53",
+                                "unitCode": "MTK"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fاجاره-آپارتمان-۵۳-متری-در-زهتابی\u002FAaq_RkML",
+                            "accommodationCategory": "آپارتمان",
+                            "numberOfRooms": "یک",
+                            "geo": {
+                                "latitude": "35.64164088584",
+                                "longitude": "51.364285455307",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, زهتابی"
+                            },
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "اجاره آپارتمان ۵۳ متری در زهتابی",
+                                "city_persian": "تهران",
+                                "district_persian": "زهتابی"
+                            }
+                        }, {
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "82",
+                                "unitCode": "MTK"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۸۲ متر کلیدنخورده\u002Fدو خواب\u002Fفول\u002Fسوم نیروهوایی",
+                                "city_persian": "تهران",
+                                "district_persian": "نیروی هوایی (پیروزی)"
+                            },
+                            "numberOfRooms": "دو",
+                            "geo": {
+                                "latitude": "35.70075365293398",
+                                "longitude": "51.48330331701216",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, نیروی هوایی (پیروزی)"
+                            },
+                            "name": "۸۲ متر کلیدنخورده\u002Fدو خواب\u002Fفول\u002Fسوم نیروهوایی",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۸۲-متر-کلیدنخورده-دو-خواب-فول-سوم-نیروهوایی\u002FQaAAO8tj",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FbQHKbph77QQ3twjZeys6bg\u002F0319a0aa-b45e-4dda-8cfa-7c5e90f54c61.webp",
+                            "accommodationCategory": "آپارتمان"
+                        }, {
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, نیروی هوایی (پیروزی)",
+                                "latitude": "35.694782238147",
+                                "longitude": "51.482560215745"
+                            },
+                            "name": "۲۱۰ متر \u002F سه پارکینگ \u002F بهترین فرعی",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FQBjXM7ead2ezLpWa1cr26g\u002F5dc0cb2a-023d-4a33-8609-d22f6406d37e.webp",
+                            "accommodationCategory": "آپارتمان",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۲۱۰-متر-سه-پارکینگ-بهترین-فرعی\u002FAa_zPiW3",
+                            "floorSize": {
+                                "value": "210",
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue"
+                            },
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۲۱۰ متر \u002F سه پارکینگ \u002F بهترین فرعی",
+                                "city_persian": "تهران",
+                                "district_persian": "نیروی هوایی (پیروزی)"
+                            },
+                            "numberOfRooms": "سه"
+                        }, {
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "115",
+                                "unitCode": "MTK"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, شهرک غرب",
+                                "latitude": "35.759765625",
+                                "longitude": "51.375938415527344"
+                            },
+                            "numberOfRooms": "دو",
+                            "accommodationCategory": "آپارتمان",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fدو-خواب-نوساز-ویوو-عالی\u002FQaAceI8K",
+                            "@type": "Apartment",
+                            "web_info": {
+                                "title": "دو‌خواب\u002Fنوساز\u002F ویوو عالی",
+                                "city_persian": "تهران",
+                                "district_persian": "شهرک غرب",
+                                "category_slug_persian": "آپارتمان"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "name": "دو‌خواب\u002Fنوساز\u002F ویوو عالی",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FOfwPw-bgC5qD-xsC-_5nlw\u002F0e083083-c56c-4a51-ad88-908bf8cb57b7.webp"
+                        }, {
+                            "@type": "Apartment",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FyOOAbwdh9Ro_jkE33LUbkA\u002Fc1b4f44e-164f-44b4-803f-91467a510e4e.webp",
+                            "geo": {
+                                "longitude": "51.28103053675297",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, جوانمردان (اندیشه)",
+                                "latitude": "35.747987389796315"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۵۷متـر-سنـد-دار-کـم-واحـد-روبنمـا-انـدیشـه\u002FAaF_DSj_",
+                            "name": "۵۷متـر‌سنـد‌دار\u002Fکـم‌واحـد‌‌روبنمـا\u002Fانـدیشـه",
+                            "accommodationCategory": "آپارتمان",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "web_info": {
+                                "district_persian": "جوانمردان (اندیشه)",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۵۷متـر‌سنـد‌دار\u002Fکـم‌واحـد‌‌روبنمـا\u002Fانـدیشـه",
+                                "city_persian": "تهران"
+                            },
+                            "numberOfRooms": "یک",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "57",
+                                "unitCode": "MTK"
+                            }
+                        }, {
+                            "numberOfRooms": "یک",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "web_info": {
+                                "city_persian": "تهران",
+                                "district_persian": "جوانمردان (اندیشه)",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۵۳متری\u002F سالن نورگیر \u002Fفاز1 اندیشه\u002Fسراسر پنجره خطی\u002F"
+                            },
+                            "name": "۵۳متری\u002F سالن نورگیر \u002Fفاز1 اندیشه\u002Fسراسر پنجره خطی\u002F",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FYVABWmZZIaZIzcIJQyaF5g\u002F7937f3a6-e1fc-4fc5-8c73-d2c0543c5834.webp",
+                            "@type": "Apartment",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "53",
+                                "unitCode": "MTK"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, جوانمردان (اندیشه)",
+                                "latitude": "35.749185221514",
+                                "longitude": "51.28366276427"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۵۳متری-سالن-نورگیر-فاز1-اندیشه-سراسر-پنجره-خطی-\u002FQaAwOwzz",
+                            "accommodationCategory": "آپارتمان"
+                        }, {
+                            "web_info": {
+                                "district_persian": "امانیه",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "جردن طاهری 118 متر 2 پارکینگ",
+                                "city_persian": "تهران"
+                            },
+                            "numberOfRooms": "دو",
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, امانیه",
+                                "latitude": "35.780807698956",
+                                "longitude": "51.414880246533"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fجردن-طاهری-118-متر-2-پارکینگ\u002FAa1vSyKE",
+                            "accommodationCategory": "آپارتمان",
+                            "@type": "Apartment",
+                            "name": "جردن طاهری 118 متر 2 پارکینگ",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F6S5QC1VVSCuXh41q2op4dw\u002Fa73f3962-dd57-4972-990b-d694f9711f64.webp",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "118",
+                                "unitCode": "MTK"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org"
+                        }, {
+                            "name": "۲خوابه ۶۱متر تکواحدی فول امکانات",
+                            "accommodationCategory": "آپارتمان",
+                            "geo": {
+                                "longitude": "51.48124471011304",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, نیروی هوایی (پیروزی)",
+                                "latitude": "35.69210936512489"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۲خوابه-۶۱متر-تکواحدی-فول-امکانات\u002FAa8Dp9rE",
+                            "web_info": {
+                                "district_persian": "نیروی هوایی (پیروزی)",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۲خوابه ۶۱متر تکواحدی فول امکانات",
+                                "city_persian": "تهران"
+                            },
+                            "@type": "Apartment",
+                            "numberOfRooms": "دو",
+                            "floorSize": {
+                                "value": "61",
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FNDQGtKWYXrguh9IooeCgXA\u002F66aef079-0b41-4649-88cc-4db86b2d13f1.webp"
+                        }, {
+                            "name": "آپارتمان ۱۱۰ متری نوساز فول",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002Feyb4H0ukdgY3BuUK-9Dn6w\u002Fa10b8159-661d-4add-af17-703d1f791ac2.webp",
+                            "geo": {
+                                "latitude": "35.64176559448242",
+                                "longitude": "51.360172271728516",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, زهتابی"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fآپارتمان-۱۱۰-متری-نوساز-فول\u002FAa_7393y",
+                            "web_info": {
+                                "city_persian": "تهران",
+                                "district_persian": "زهتابی",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "آپارتمان ۱۱۰ متری نوساز فول"
+                            },
+                            "numberOfRooms": "دو",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "accommodationCategory": "آپارتمان",
+                            "floorSize": {
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue",
+                                "value": "110"
+                            },
+                            "@type": "Apartment"
+                        }, {
+                            "@type": "Apartment",
+                            "web_info": {
+                                "district_persian": "جوانمردان (اندیشه)",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر",
+                                "city_persian": "تهران"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FwB81AT7QRT15ulUaPmO4Mw\u002Fa0c4f7d7-30cc-4694-8fbd-101863920439.webp",
+                            "accommodationCategory": "آپارتمان",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "floorSize": {
+                                "value": "48",
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue"
+                            },
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, جوانمردان (اندیشه)",
+                                "latitude": "35.7470588684082",
+                                "longitude": "51.27653121948242"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fسرمایه-گذاری-سندتک-برگ-اندیشه-پکیج-رادیات-۴۸متر\u002FAa3TYHTO",
+                            "name": "سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر",
+                            "numberOfRooms": "یک"
+                        }, {
+                            "web_info": {
+                                "title": "آپارتمان 105 متری فول سوم نیروهوایی",
+                                "city_persian": "تهران",
+                                "district_persian": "نیروی هوایی (پیروزی)",
+                                "category_slug_persian": "آپارتمان"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FndDg_gtLrzto6QjVjBSxDQ\u002F2e6a98fc-9627-419c-af03-21e227004735.webp",
+                            "accommodationCategory": "آپارتمان",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "105",
+                                "unitCode": "MTK"
+                            },
+                            "@type": "Apartment",
+                            "name": "آپارتمان 105 متری فول سوم نیروهوایی",
+                            "numberOfRooms": "دو",
+                            "geo": {
+                                "address": "تهران, نیروی هوایی (پیروزی)",
+                                "latitude": "35.69941193684055",
+                                "longitude": "51.48681844465874",
+                                "@type": "GeoCoordinates"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fآپارتمان-105-متری-فول-سوم-نیروهوایی\u002FAaw7x13H"
+                        }, {
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F6jeAu5O9jTuPN01E7-yZVQ\u002F1a47b084-6905-42cc-bb77-76129c913df5.webp",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "135",
+                                "unitCode": "MTK"
+                            },
+                            "web_info": {
+                                "city_persian": "تهران",
+                                "district_persian": "نیروی هوایی (پیروزی)",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی"
+                            },
+                            "numberOfRooms": "سه",
+                            "accommodationCategory": "آپارتمان",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "name": "۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی",
+                            "geo": {
+                                "longitude": "51.488948932677495",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, نیروی هوایی (پیروزی)",
+                                "latitude": "35.69801824939646"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۱۳۵-متر-۳-خواب-خوش-نقشه-فول-نوساز-ششم-نیروهوایی\u002FAa0f8XHE"
+                        }, {
+                            "name": "۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب",
+                                "city_persian": "تهران",
+                                "district_persian": "فلاح"
+                            },
+                            "accommodationCategory": "آپارتمان",
+                            "floorSize": {
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue",
+                                "value": "44"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۴۴-متری-شهسوار-شمالی-آسانسوردار-قیمت-مناسب\u002FQaAsuvEc",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FyGxe6NDKXTic0PNfSHvndA\u002Fff8da2dd-e837-4e44-ad05-adec4b83ee54.webp",
+                            "numberOfRooms": "یک",
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, فلاح",
+                                "latitude": "35.658852734823",
+                                "longitude": "51.372154433691"
+                            },
+                            "@type": "Apartment"
+                        }, {
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "name": "۱۷۵ متر مدرن دو قدمی پارک قیطریه",
+                            "geo": {
+                                "latitude": "35.790462493896484",
+                                "longitude": "51.443782806396484",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, قیطریه"
+                            },
+                            "@type": "Apartment",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FiSJTMl0MbuBG3wRyYOmOzQ\u002Fac4b3cc0-e3e1-45e0-bd38-92a0060cd431.webp",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "175",
+                                "unitCode": "MTK"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F۱۷۵-متر-مدرن-دو-قدمی-پارک-قیطریه\u002FAa4nqqJw",
+                            "web_info": {
+                                "city_persian": "تهران",
+                                "district_persian": "قیطریه",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "۱۷۵ متر مدرن دو قدمی پارک قیطریه"
+                            },
+                            "accommodationCategory": "آپارتمان",
+                            "numberOfRooms": "سه"
+                        }, {
+                            "accommodationCategory": "آپارتمان",
+                            "geo": {
+                                "address": "تهران, شهرک چیتگر",
+                                "latitude": "35.749233310475",
+                                "longitude": "51.179223707566",
+                                "@type": "GeoCoordinates"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F121-متر-پهنه-c-نزاجا-نارنج-۱-ط-۲۶-جنوبی-منطقه-۲۲\u002FAaMYMk6E",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "@type": "Apartment",
+                            "name": "121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲",
+                            "floorSize": {
+                                "value": "121",
+                                "unitCode": "MTK",
+                                "@type": "QuantitativeValue"
+                            },
+                            "web_info": {
+                                "title": "121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲",
+                                "city_persian": "تهران",
+                                "district_persian": "شهرک چیتگر",
+                                "category_slug_persian": "آپارتمان"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002Fy7nj5CkZPgOtr2bAnUOGYg\u002Fef37bfcb-0e88-4578-9a1c-ba3b4460ec12.jpg.webp",
+                            "numberOfRooms": "دو"
+                        }, {
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "50",
+                                "unitCode": "MTK"
+                            },
+                            "name": "آپارتمان ۵۰ متر خوش نقشه",
+                            "accommodationCategory": "آپارتمان",
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "geo": {
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, زهتابی",
+                                "latitude": "35.64209573788",
+                                "longitude": "51.359870848321"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002Fآپارتمان-۵۰-متر-خوش-نقشه\u002FAa_zEEO-",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FJcTAzhm10ezy5scHTi7nuw\u002F0928248e-3ecb-4e79-a6cb-ffa324c9c419.webp",
+                            "@type": "Apartment",
+                            "web_info": {
+                                "city_persian": "تهران",
+                                "district_persian": "زهتابی",
+                                "category_slug_persian": "آپارتمان",
+                                "title": "آپارتمان ۵۰ متر خوش نقشه"
+                            },
+                            "numberOfRooms": "یک"
+                        }, {
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "numberOfRooms": "دو",
+                            "name": "60متر+پذیرایی پنجره خور\u002Fسند تکبرگ+پارکینگ\u002Fاسانسور",
+                            "geo": {
+                                "longitude": "51.27215739042278",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, جوانمردان (اندیشه)",
+                                "latitude": "35.74983355545294"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F60متر-پذیرایی-پنجره-خور-سند-تکبرگ-پارکینگ-اسانسور\u002FAaGTc0C-",
+                            "web_info": {
+                                "category_slug_persian": "آپارتمان",
+                                "title": "60متر+پذیرایی پنجره خور\u002Fسند تکبرگ+پارکینگ\u002Fاسانسور",
+                                "city_persian": "تهران",
+                                "district_persian": "جوانمردان (اندیشه)"
+                            },
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002F8BmHOxL56_Y_0Fo3rtrNOw\u002F9727ae00-c790-4f26-b54b-f006aa026583.webp",
+                            "accommodationCategory": "آپارتمان",
+                            "@type": "Apartment",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "60",
+                                "unitCode": "MTK"
+                            }
+                        }, {
+                            "@type": "Apartment",
+                            "name": "146 متر رو به آفتاب ۲ پارکینگ قیطریه",
+                            "image": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fphoto\u002Fneda\u002Fwebp_thumbnail\u002FYdf6Qfvg_8a-C8dYPpn2vA\u002Ffd302cfa-7150-43b0-8115-9aa0d2912c54.webp",
+                            "numberOfRooms": "دو",
+                            "geo": {
+                                "longitude": "51.443782806396",
+                                "@type": "GeoCoordinates",
+                                "address": "تهران, قیطریه",
+                                "latitude": "35.790462493896"
+                            },
+                            "@context": "https:\u002F\u002Fschema.org",
+                            "web_info": {
+                                "title": "146 متر رو به آفتاب ۲ پارکینگ قیطریه",
+                                "city_persian": "تهران",
+                                "district_persian": "قیطریه",
+                                "category_slug_persian": "آپارتمان"
+                            },
+                            "url": "https:\u002F\u002Fdivar.ir\u002Fv\u002F146-متر-رو-به-آفتاب-۲-پارکینگ-قیطریه\u002FQaAEuhKZ",
+                            "accommodationCategory": "آپارتمان",
+                            "floorSize": {
+                                "@type": "QuantitativeValue",
+                                "value": "146",
+                                "unitCode": "MTK"
+                            }
+                        }]
+                    },
+                    "actionLog": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com\u002Faction_log.PostListLoadPageInfo",
+                                "cities": ["1"],
+                                "current_tab": "default",
+                                "search_data": {
+                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                    "cities": ["1"],
+                                    "query_input_type": "TEXT"
+                                },
+                                "tokens": ["Aaq7AAP5", "QaAwehiP", "Aax22rj8", "QaAI_47S", "Aa6Tl_K9", "QaA4dFHF", "Aaq_RkML", "QaAAO8tj", "Aa_zPiW3", "QaAceI8K", "AaF_DSj_", "QaAwOwzz", "Aa1vSyKE", "Aa8Dp9rE", "Aa_7393y", "Aa3TYHTO", "Aaw7x13H", "Aa0f8XHE", "QaAsuvEc", "Aa4nqqJw", "AaMYMk6E", "Aa_zEEO-", "AaGTc0C-", "QaAEuhKZ"],
+                                "has_next_page": true,
+                                "pelle": {
+                                    "elastic": {
+                                        "tokens": ["AamPHpTG"],
+                                        "total_hits_count": 1,
+                                        "documents": [{
+                                            "token": "AamPHpTG",
+                                            "type": "NORMAL"
+                                        }]
+                                    }
+                                },
+                                "last_post_date_epoch": "-62135596800000000",
+                                "search_id": "3c08c51403d09b9ea300772577379267",
+                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                "source_view": "UNKNOWN",
+                                "recommendation_info": {
+                                    "is_page_recommended": true,
+                                    "page_id": "480eb312-8c7c-465c-88c2-dda9d0a50263"
+                                },
+                                "posts_metadata": [{
+                                    "token": "Aaq7AAP5",
+                                    "sort_date": "1761668940174004",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAwehiP",
+                                    "sort_date": "1761668422438101",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aax22rj8",
+                                    "sort_date": "1761669719872836",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAI_47S",
+                                    "sort_date": "1761669945075353",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"teaching\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa6Tl_K9",
+                                    "sort_date": "1761668655245856",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaA4dFHF",
+                                    "sort_date": "1761664634026450",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aaq_RkML",
+                                    "sort_date": "1761591996142690",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAAO8tj",
+                                    "sort_date": "1761665766520797",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa_zPiW3",
+                                    "sort_date": "1761666398385028",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAceI8K",
+                                    "sort_date": "1761666875220199",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "AaF_DSj_",
+                                    "sort_date": "1761668574130959",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAwOwzz",
+                                    "sort_date": "1761668351705629",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa1vSyKE",
+                                    "sort_date": "1761668107318073",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa8Dp9rE",
+                                    "sort_date": "1761665398983389",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa_7393y",
+                                    "sort_date": "1761574740813568",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa3TYHTO",
+                                    "sort_date": "1761667711939796",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aaw7x13H",
+                                    "sort_date": "1761636342861924",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa0f8XHE",
+                                    "sort_date": "1761635908111898",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAsuvEc",
+                                    "sort_date": "1761668044485567",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa4nqqJw",
+                                    "sort_date": "1761665923356963",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "AaMYMk6E",
+                                    "sort_date": "1761667684038950",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa_zEEO-",
+                                    "sort_date": "1761561650517420",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "AaGTc0C-",
+                                    "sort_date": "1761667473095372",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAEuhKZ",
+                                    "sort_date": "1761665801890824",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }],
+                                "jli": {
+                                    "sort": {
+                                        "value": "recommended"
+                                    },
+                                    "places": {
+                                        "value": ["1"]
+                                    },
+                                    "cities": ["1"],
+                                    "category": {
+                                        "value": "ROOT"
+                                    }
+                                },
+                                "search_layer": "recommendation",
+                                "ads_banner": {
+                                    "auction_ids": ["e8e66885-5472-4bf4-8703-0bc7561df0dc"],
+                                    "ads": [{
+                                        "auction_id": "e8e66885-5472-4bf4-8703-0bc7561df0dc",
+                                        "ad_instance_id": "ignored",
+                                        "index": 6,
+                                        "offset": 6
+                                    }, {
+                                        "auction_id": "e8e66885-5472-4bf4-8703-0bc7561df0dc",
+                                        "ad_instance_id": "b1d48601-0089-42c6-9ef1-d17767abf081",
+                                        "index": 18,
+                                        "offset": 18
+                                    }]
+                                },
+                                "widget_order": [{
+                                    "provider_source": "Pelle",
+                                    "post_tokens": ["AamPHpTG"]
+                                }, {
+                                    "index": 1,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aaq7AAP5"]
+                                }, {
+                                    "index": 2,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAwehiP"]
+                                }, {
+                                    "index": 3,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aax22rj8"]
+                                }, {
+                                    "index": 4,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAI_47S"]
+                                }, {
+                                    "index": 5,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa6Tl_K9"]
+                                }, {
+                                    "index": 6,
+                                    "provider_source": "AdsBanner",
+                                    "ads_banner": "ignored"
+                                }, {
+                                    "index": 7,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaA4dFHF"]
+                                }, {
+                                    "index": 8,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aaq_RkML"]
+                                }, {
+                                    "index": 9,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAAO8tj"]
+                                }, {
+                                    "index": 10,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa_zPiW3"]
+                                }, {
+                                    "index": 11,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAceI8K"]
+                                }, {
+                                    "index": 12,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["AaF_DSj_"]
+                                }, {
+                                    "index": 13,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAwOwzz"]
+                                }, {
+                                    "index": 14,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa1vSyKE"]
+                                }, {
+                                    "index": 15,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa8Dp9rE"]
+                                }, {
+                                    "index": 16,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa_7393y"]
+                                }, {
+                                    "index": 17,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa3TYHTO"]
+                                }, {
+                                    "index": 18,
+                                    "provider_source": "AdsBanner",
+                                    "ads_banner": "b1d48601-0089-42c6-9ef1-d17767abf081"
+                                }, {
+                                    "index": 19,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aaw7x13H"]
+                                }, {
+                                    "index": 20,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa0f8XHE"]
+                                }, {
+                                    "index": 21,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAsuvEc"]
+                                }, {
+                                    "index": 22,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa4nqqJw"]
+                                }, {
+                                    "index": 23,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["AaMYMk6E"]
+                                }, {
+                                    "index": 24,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa_zEEO-"]
+                                }, {
+                                    "index": 25,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["AaGTc0C-"]
+                                }, {
+                                    "index": 26,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAEuhKZ"]
+                                }]
+                            },
+                            "item_type": {
+                                "type": "POST_LIST_LOAD_PAGE"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "pagination": {
+                        "hasMore": true,
+                        "data": {
+                            "@type": "type.googleapis.com\u002Fpost_list.PaginationData",
+                            "last_post_date": "0001-01-01T00:00:00Z",
+                            "page": 1,
+                            "layer_page": 1,
+                            "layer_id": 3,
+                            "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                            "cumulative_widgets_count": 25,
+                            "viewed_tokens": "H4sIAAAAAAAE\u002FxzL0U7CMByF8Rf6kwCdrLs8kc7hXDZcE8Wb5mRiYBhjUSjr05t69+WXfKDPge5OtkTYH46dgLfl8jzqJBuX5b2AK\u002Fvp6iJJ9l5WpYDePZ+apyRo9e8ooIvd8UUlGfYbXQtYunU\u002FuiShDTEKuLj2U20E1Ovv4pzC5apQk4DK7irbChjy20JVAs4\u002F9Gtl0v5zuZpBwOzL+8cgYLNrTqv\u002FPRrTzgR8sMP8fiZbwlwO9dtfAAAA\u002F\u002F+9Wwy31wAAAA=="
+                        }
+                    },
+                    "isLoading": false,
+                    "isLoadingMore": false,
+                    "hasSSRUnauthorizedError": false,
+                    "isPullingToRefresh": false,
+                    "tabs": {},
+                    "lastAttemptedFetchLocation": {
+                        "pathname": "\u002Fs\u002Ftehran",
+                        "search": ""
+                    },
+                    "filtersPage": {
+                        "title": "فیلترها",
+                        "actionText": "اعمال فیلترها",
+                        "widgetList": [{
+                            "widgetType": "I_LAZY_MULTI_SELECT_DISTRICT_ROW",
+                            "uid": "filter_districts",
+                            "hasDivider": true,
+                            "placeholder": "انتخاب",
+                            "pageTitle": "محله",
+                            "openNewListOnSelect": false,
+                            "lazyPayload": {
+                                "@type": "type.googleapis.com\u002Fpost_list.LazyFilterPayload",
+                                "filter_name": "districts",
+                                "version": "52",
+                                "place_ids": ["1"],
+                                "category_slug": "ROOT"
+                            },
+                            "bottomSheetTitle": "انتخاب محله",
+                            "bottomSheetConfirmButtonText": "تایید",
+                            "showPreviousSuggestions": true,
+                            "search": {
+                                "type": "onlineSearch",
+                                "data": {
+                                    "onlineSearch": {
+                                        "fieldKey": "districts",
+                                        "source": "filter",
+                                        "minQueryLength": 2,
+                                        "placeholder": "جستجو",
+                                        "delayMs": 300
+                                    }
+                                }
+                            },
+                            "defaultSuggestions": [],
+                            "keysTypeMap": {
+                                "districts": "repeated_string"
+                            },
+                            "defaultValuesMap": {},
+                            "targetSearchDataKey": "districts",
+                            "field": {
+                                "key": "districts",
+                                "validators": {}
+                            },
+                            "cacheKey": "districts",
+                            "filterSearchByCity": true,
+                            "action": null,
+                            "actionLog": {
+                                "server_side_info": {
+                                    "item_type": {
+                                        "type": "OPEN_LAZY_MULTI_SELECT_DISTRICT"
+                                    }
+                                },
+                                "enabled": true
+                            },
+                            "KEY_PROP_NAME": "08f13256-843b-48db-b0f9-3404452bc297",
+                            "visibilityConditions": []
+                        }, {
+                            "widgetType": "TITLE_ROW",
+                            "visibilityConditions": [],
+                            "uid": "43d45dcd-0c11-459b-98ec-bfd204f7d7f3",
+                            "normalizerId": "821b5e9f-bcf9-472b-944d-05f20a5a5146",
+                            "dto": {
+                                "widget_type": "TITLE_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.TitleRowData",
+                                    "text": "قیمت",
+                                    "text_color": "TEXT_PRIMARY",
+                                    "description": "(تومان)",
+                                    "description_color": "TEXT_SECONDARY",
+                                    "corresponding_input_widget_id": "filter_price"
+                                }
+                            },
+                            "KEY_PROP_NAME": "43d45dcd-0c11-459b-98ec-bfd204f7d7f3",
+                            "__NORMALIZED_WIDGET_V2__": true
+                        }, {
+                            "widgetType": "I_MANUAL_INPUT_NUMBER_RANGE_ROW",
+                            "visibilityConditions": [],
+                            "uid": "filter_price",
+                            "normalizerId": "6419e351-0d80-4292-b601-5a410994ff82",
+                            "dto": {
+                                "widget_type": "I_MANUAL_INPUT_NUMBER_RANGE_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.IManualInputNumberRangeRowData",
+                                    "has_divider": true,
+                                    "field": {
+                                        "key": "price",
+                                        "default": {},
+                                        "type": "number_range",
+                                        "validators": {
+                                            "minimum_validators": [{
+                                                "min": {
+                                                    "err": {
+                                                        "message": "مقدار واردشده نباید کمتر از ۰ تومان باشد."
+                                                    }
+                                                }
+                                            }, {
+                                                "max": {
+                                                    "err": {
+                                                        "message": "مقدار واردشده نباید بیشتر از ۱۰,۰۰۰,۰۰۰,۰۰۰,۰۰۰ تومان باشد."
+                                                    },
+                                                    "max": "10000000000000"
+                                                }
+                                            }],
+                                            "maximum_validators": [{
+                                                "min": {
+                                                    "err": {
+                                                        "message": "مقدار واردشده نباید کمتر از ۰ تومان باشد."
+                                                    }
+                                                }
+                                            }, {
+                                                "max": {
+                                                    "err": {
+                                                        "message": "مقدار واردشده نباید بیشتر از ۱۰,۰۰۰,۰۰۰,۰۰۰,۰۰۰ تومان باشد."
+                                                    },
+                                                    "max": "10000000000000"
+                                                }
+                                            }],
+                                            "number_range_validators": [{
+                                                "min_must_be_less_or_equal_max": {
+                                                    "err": {
+                                                        "message": "عدد انتخابی نباید کمتر از عدد شروع بازه باشد."
+                                                    }
+                                                }
+                                            }]
+                                        }
+                                    },
+                                    "unit": "تومان",
+                                    "show_previous_suggestions": true,
+                                    "cache_key": "ROOT:price",
+                                    "show_field_caption": true,
+                                    "minimum_dynamic_suggestion": "151002",
+                                    "maximum_dynamic_suggestion": "113841700864"
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "info": {
+                                            "@type": "type.googleapis.com\u002Faction_log.PostListFilterWidgetInteractedInfo",
+                                            "filter_name": "price",
+                                            "source": "FILTERS_PAGE"
+                                        },
+                                        "item_type": {
+                                            "type": "POST_LIST_FILTER_WIDGET_INTERACTED"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "uid": "filter_price"
+                            },
+                            "KEY_PROP_NAME": "filter_price",
+                            "__NORMALIZED_WIDGET_V2__": true
+                        }, {
+                            "widgetType": "I_TOGGLE_ROW",
+                            "visibilityConditions": [],
+                            "uid": "filter_has-photo",
+                            "normalizerId": "6b9883e3-463b-4d26-a5da-49b49867ac87",
+                            "dto": {
+                                "widget_type": "I_TOGGLE_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.IToggleRowData",
+                                    "title": "عکس‌دار",
+                                    "size": "SMALL",
+                                    "has_divider": true,
+                                    "field": {
+                                        "key": "has-photo",
+                                        "validators": {},
+                                        "type": "boolean"
+                                    }
+                                },
+                                "uid": "filter_has-photo"
+                            },
+                            "KEY_PROP_NAME": "filter_has-photo",
+                            "__NORMALIZED_WIDGET_V2__": true
+                        }, {
+                            "widgetType": "I_MULTI_SELECT_V2_ROW",
+                            "visibilityConditions": [],
+                            "uid": "filter_addon_service_tags",
+                            "normalizerId": "5ad4548b-9c4f-4646-b7d2-4b2800c24ee6",
+                            "dto": {
+                                "widget_type": "I_MULTI_SELECT_V2_ROW",
+                                "data": {
+                                    "@type": "type.googleapis.com\u002Fwidgets.IMultiSelectV2RowData",
+                                    "has_divider": true,
+                                    "field": {
+                                        "key": "addon_service_tags",
+                                        "validators": {},
+                                        "type": "repeated_string"
+                                    },
+                                    "options": [{
+                                        "key": "IDENTITY_VERIFIED",
+                                        "title": "با تأیید هویت",
+                                        "search_keywords": "با تأیید هویت"
+                                    }, {
+                                        "key": "SECURE_PAYMENT",
+                                        "title": "با پرداخت امن",
+                                        "search_keywords": "با پرداخت امن"
+                                    }],
+                                    "cache_key": "ROOT:addon_service_tags",
+                                    "bottom_sheet_title": "انتخاب افزونه‌ها",
+                                    "bottom_sheet_confirm_button_text": "تایید",
+                                    "filter_page_title": "افزونه‌ها",
+                                    "placeholder": "انتخاب",
+                                    "select_all_key": "ALL_POSSIBLE_OPTIONS",
+                                    "select_all_title": "همهٔ موارد"
+                                },
+                                "action_log": {
+                                    "server_side_info": {
+                                        "item_type": {
+                                            "type": "OPEN_MULTI_SELECT_V2_WIDGET"
+                                        }
+                                    },
+                                    "enabled": true
+                                },
+                                "uid": "filter_addon_service_tags"
+                            },
+                            "KEY_PROP_NAME": "filter_addon_service_tags",
+                            "__NORMALIZED_WIDGET_V2__": true
+                        }],
+                        "isLoading": false,
+                        "hasSSRUnauthorizedError": false
+                    },
+                    "searchBar": {
+                        "enabled": false,
+                        "actionLog": {},
+                        "bookmarkState": "NOT_BOOKMARKED",
+                        "alertState": "NOT_ACTIVATED"
+                    },
+                    "fabButton": null,
+                    "serverSideInitialActionLog": {
+                        "server_side_info": {
+                            "info": {
+                                "@type": "type.googleapis.com\u002Faction_log.PostListLoadPageInfo",
+                                "cities": ["1"],
+                                "current_tab": "default",
+                                "search_data": {
+                                    "form_data_json": "{\"data\":{\"category\":{\"str\":{\"value\":\"ROOT\"}}}}",
+                                    "server_payload_json": "{\"@type\":\"type.googleapis.com\u002Fwidgets.SearchData.ServerPayload\",\"additional_form_data\":{\"data\":{\"sort\":{\"str\":{\"value\":\"recommended\"}}}}}",
+                                    "cities": ["1"],
+                                    "query_input_type": "TEXT"
+                                },
+                                "tokens": ["Aaq7AAP5", "QaAwehiP", "Aax22rj8", "QaAI_47S", "Aa6Tl_K9", "QaA4dFHF", "Aaq_RkML", "QaAAO8tj", "Aa_zPiW3", "QaAceI8K", "AaF_DSj_", "QaAwOwzz", "Aa1vSyKE", "Aa8Dp9rE", "Aa_7393y", "Aa3TYHTO", "Aaw7x13H", "Aa0f8XHE", "QaAsuvEc", "Aa4nqqJw", "AaMYMk6E", "Aa_zEEO-", "AaGTc0C-", "QaAEuhKZ"],
+                                "has_next_page": true,
+                                "pelle": {
+                                    "elastic": {
+                                        "tokens": ["AamPHpTG"],
+                                        "total_hits_count": 1,
+                                        "documents": [{
+                                            "token": "AamPHpTG",
+                                            "type": "NORMAL"
+                                        }]
+                                    }
+                                },
+                                "last_post_date_epoch": "-62135596800000000",
+                                "search_id": "3c08c51403d09b9ea300772577379267",
+                                "search_uid": "ef9011c6-62c7-412c-afb6-85eb1afcc716",
+                                "source_view": "UNKNOWN",
+                                "recommendation_info": {
+                                    "is_page_recommended": true,
+                                    "page_id": "480eb312-8c7c-465c-88c2-dda9d0a50263"
+                                },
+                                "posts_metadata": [{
+                                    "token": "Aaq7AAP5",
+                                    "sort_date": "1761668940174004",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAwehiP",
+                                    "sort_date": "1761668422438101",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aax22rj8",
+                                    "sort_date": "1761669719872836",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAI_47S",
+                                    "sort_date": "1761669945075353",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"teaching\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa6Tl_K9",
+                                    "sort_date": "1761668655245856",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaA4dFHF",
+                                    "sort_date": "1761664634026450",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aaq_RkML",
+                                    "sort_date": "1761591996142690",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAAO8tj",
+                                    "sort_date": "1761665766520797",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa_zPiW3",
+                                    "sort_date": "1761666398385028",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAceI8K",
+                                    "sort_date": "1761666875220199",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "AaF_DSj_",
+                                    "sort_date": "1761668574130959",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAwOwzz",
+                                    "sort_date": "1761668351705629",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa1vSyKE",
+                                    "sort_date": "1761668107318073",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa8Dp9rE",
+                                    "sort_date": "1761665398983389",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa_7393y",
+                                    "sort_date": "1761574740813568",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa3TYHTO",
+                                    "sort_date": "1761667711939796",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aaw7x13H",
+                                    "sort_date": "1761636342861924",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa0f8XHE",
+                                    "sort_date": "1761635908111898",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAsuvEc",
+                                    "sort_date": "1761668044485567",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa4nqqJw",
+                                    "sort_date": "1761665923356963",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "AaMYMk6E",
+                                    "sort_date": "1761667684038950",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "Aa_zEEO-",
+                                    "sort_date": "1761561650517420",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-rent\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "AaGTc0C-",
+                                    "sort_date": "1761667473095372",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }, {
+                                    "token": "QaAEuhKZ",
+                                    "sort_date": "1761665801890824",
+                                    "source": "r",
+                                    "extra_info": "{\"category\":\"apartment-sell\",\"highlight\":null,\"matched_rules\":null,\"is_enriched_pipeline_consumed\":false,\"enriched_pipeline_name\":\"-\"}"
+                                }],
+                                "jli": {
+                                    "sort": {
+                                        "value": "recommended"
+                                    },
+                                    "places": {
+                                        "value": ["1"]
+                                    },
+                                    "cities": ["1"],
+                                    "category": {
+                                        "value": "ROOT"
+                                    }
+                                },
+                                "search_layer": "recommendation",
+                                "ads_banner": {
+                                    "auction_ids": ["e8e66885-5472-4bf4-8703-0bc7561df0dc"],
+                                    "ads": [{
+                                        "auction_id": "e8e66885-5472-4bf4-8703-0bc7561df0dc",
+                                        "ad_instance_id": "ignored",
+                                        "index": 6,
+                                        "offset": 6
+                                    }, {
+                                        "auction_id": "e8e66885-5472-4bf4-8703-0bc7561df0dc",
+                                        "ad_instance_id": "b1d48601-0089-42c6-9ef1-d17767abf081",
+                                        "index": 18,
+                                        "offset": 18
+                                    }]
+                                },
+                                "widget_order": [{
+                                    "provider_source": "Pelle",
+                                    "post_tokens": ["AamPHpTG"]
+                                }, {
+                                    "index": 1,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aaq7AAP5"]
+                                }, {
+                                    "index": 2,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAwehiP"]
+                                }, {
+                                    "index": 3,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aax22rj8"]
+                                }, {
+                                    "index": 4,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAI_47S"]
+                                }, {
+                                    "index": 5,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa6Tl_K9"]
+                                }, {
+                                    "index": 6,
+                                    "provider_source": "AdsBanner",
+                                    "ads_banner": "ignored"
+                                }, {
+                                    "index": 7,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaA4dFHF"]
+                                }, {
+                                    "index": 8,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aaq_RkML"]
+                                }, {
+                                    "index": 9,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAAO8tj"]
+                                }, {
+                                    "index": 10,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa_zPiW3"]
+                                }, {
+                                    "index": 11,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAceI8K"]
+                                }, {
+                                    "index": 12,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["AaF_DSj_"]
+                                }, {
+                                    "index": 13,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAwOwzz"]
+                                }, {
+                                    "index": 14,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa1vSyKE"]
+                                }, {
+                                    "index": 15,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa8Dp9rE"]
+                                }, {
+                                    "index": 16,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa_7393y"]
+                                }, {
+                                    "index": 17,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa3TYHTO"]
+                                }, {
+                                    "index": 18,
+                                    "provider_source": "AdsBanner",
+                                    "ads_banner": "b1d48601-0089-42c6-9ef1-d17767abf081"
+                                }, {
+                                    "index": 19,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aaw7x13H"]
+                                }, {
+                                    "index": 20,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa0f8XHE"]
+                                }, {
+                                    "index": 21,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAsuvEc"]
+                                }, {
+                                    "index": 22,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa4nqqJw"]
+                                }, {
+                                    "index": 23,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["AaMYMk6E"]
+                                }, {
+                                    "index": 24,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["Aa_zEEO-"]
+                                }, {
+                                    "index": 25,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["AaGTc0C-"]
+                                }, {
+                                    "index": 26,
+                                    "provider_source": "SearchResult",
+                                    "post_tokens": ["QaAEuhKZ"]
+                                }]
+                            },
+                            "item_type": {
+                                "type": "POST_LIST_LOAD_PAGE"
+                            }
+                        },
+                        "enabled": true
+                    },
+                    "mapDeferredActionLog": null,
+                    "mapViewport": {
+                        "isLoading": true,
+                        "error": null,
+                        "data": {
+                            "posts": [],
+                            "clusters": [],
+                            "countText": ""
+                        }
+                    },
+                    "mapData": {
+                        "isEnabled": false,
+                        "config": {
+                            "style": {},
+                            "layerIds": [],
+                            "clusteringLayerIds": []
+                        },
+                        "state": {
+                            "cameraInfo": {}
+                        },
+                        "searchThisAreaButton": {
+                            "isEnabled": false
+                        },
+                        "encodedPolygonList": []
+                    },
+                    "isUserMapViewDisabled": false,
+                    "isMapSupported": true,
+                    "mapPostsHistory": [],
+                    "shouldSyncUrl": false,
+                    "searchId": "3c08c51403d09b9ea300772577379267"
+                },
+                "search": {
+                    "rootCat": {
+                        "name": "همهٔ آگهی‌ها",
+                        "slug": "ROOT",
+                        "icon": {},
+                        "parent": null,
+                        "children": [{
+                            "name": "املاک",
+                            "slug": "real-estate",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "real-estate",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Freal_estate.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Freal_estate.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "فروش مسکونی",
+                                "slug": "residential-sell",
+                                "icon": {},
+                                "parent": "real-estate",
+                                "children": [{
+                                    "name": "آپارتمان",
+                                    "slug": "apartment-sell",
+                                    "icon": {},
+                                    "parent": "residential-sell",
+                                    "children": []
+                                }, {
+                                    "name": "خانه و ویلا",
+                                    "slug": "house-villa-sell",
+                                    "icon": {},
+                                    "parent": "residential-sell",
+                                    "children": []
+                                }, {
+                                    "name": "زمین و ملک کلنگی",
+                                    "slug": "plot-old",
+                                    "icon": {},
+                                    "parent": "residential-sell",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "اجارهٔ مسکونی",
+                                "slug": "residential-rent",
+                                "icon": {},
+                                "parent": "real-estate",
+                                "children": [{
+                                    "name": "آپارتمان",
+                                    "slug": "apartment-rent",
+                                    "icon": {},
+                                    "parent": "residential-rent",
+                                    "children": []
+                                }, {
+                                    "name": "خانه و ویلا",
+                                    "slug": "house-villa-rent",
+                                    "icon": {},
+                                    "parent": "residential-rent",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "فروش اداری و تجاری",
+                                "slug": "commercial-sell",
+                                "icon": {},
+                                "parent": "real-estate",
+                                "children": [{
+                                    "name": "دفتر کار، اتاق اداری، مطب",
+                                    "slug": "office-sell",
+                                    "icon": {},
+                                    "parent": "commercial-sell",
+                                    "children": []
+                                }, {
+                                    "name": "مغازه و غرفه",
+                                    "slug": "shop-sell",
+                                    "icon": {},
+                                    "parent": "commercial-sell",
+                                    "children": []
+                                }, {
+                                    "name": "صنعتی، کشاورزی، تجاری",
+                                    "slug": "industry-agriculture-business-sell",
+                                    "icon": {},
+                                    "parent": "commercial-sell",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "اجارهٔ اداری و تجاری",
+                                "slug": "commercial-rent",
+                                "icon": {},
+                                "parent": "real-estate",
+                                "children": [{
+                                    "name": "دفتر کار، اتاق اداری، مطب",
+                                    "slug": "office-rent",
+                                    "icon": {},
+                                    "parent": "commercial-rent",
+                                    "children": []
+                                }, {
+                                    "name": "مغازه و غرفه",
+                                    "slug": "shop-rent",
+                                    "icon": {},
+                                    "parent": "commercial-rent",
+                                    "children": []
+                                }, {
+                                    "name": "صنعتی، کشاورزی، تجاری",
+                                    "slug": "industry-agriculture-business-rent",
+                                    "icon": {},
+                                    "parent": "commercial-rent",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "اجارهٔ کوتاه‌مدت",
+                                "slug": "temporary-rent",
+                                "icon": {},
+                                "parent": "real-estate",
+                                "children": [{
+                                    "name": "آپارتمان و سوئیت",
+                                    "slug": "suite-apartment",
+                                    "icon": {},
+                                    "parent": "temporary-rent",
+                                    "children": []
+                                }, {
+                                    "name": "ویلا و باغ",
+                                    "slug": "villa",
+                                    "icon": {},
+                                    "parent": "temporary-rent",
+                                    "children": []
+                                }, {
+                                    "name": "دفتر کار و فضای آموزشی",
+                                    "slug": "workspace",
+                                    "icon": {},
+                                    "parent": "temporary-rent",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "پروژه‌های ساخت‌وساز",
+                                "slug": "real-estate-services",
+                                "icon": {},
+                                "parent": "real-estate",
+                                "children": [{
+                                    "name": "مشارکت در ساخت",
+                                    "slug": "partnership",
+                                    "icon": {},
+                                    "parent": "real-estate-services",
+                                    "children": []
+                                }, {
+                                    "name": "پیش‌فروش",
+                                    "slug": "presell",
+                                    "icon": {},
+                                    "parent": "real-estate-services",
+                                    "children": []
+                                }]
+                            }]
+                        }, {
+                            "name": "وسایل نقلیه",
+                            "slug": "vehicles",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-vehicles",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_vehicles.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_vehicles.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "خودرو",
+                                "slug": "cars",
+                                "icon": {},
+                                "parent": "vehicles",
+                                "children": [{
+                                    "name": "سواری و وانت",
+                                    "slug": "light",
+                                    "icon": {},
+                                    "parent": "cars",
+                                    "children": []
+                                }, {
+                                    "name": "کلاسیک",
+                                    "slug": "classic",
+                                    "icon": {},
+                                    "parent": "cars",
+                                    "children": []
+                                }, {
+                                    "name": "اجاره‌ای",
+                                    "slug": "rental",
+                                    "icon": {},
+                                    "parent": "cars",
+                                    "children": []
+                                }, {
+                                    "name": "سنگین",
+                                    "slug": "heavy",
+                                    "icon": {},
+                                    "parent": "cars",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "موتورسیکلت",
+                                "slug": "motorcycles",
+                                "icon": {},
+                                "parent": "vehicles",
+                                "children": []
+                            }, {
+                                "name": "قطعات یدکی و لوازم جانبی",
+                                "slug": "parts-accessories",
+                                "icon": {},
+                                "parent": "vehicles",
+                                "children": []
+                            }, {
+                                "name": "قایق و سایر وسایل نقلیه",
+                                "slug": "boat",
+                                "icon": {},
+                                "parent": "vehicles",
+                                "children": []
+                            }]
+                        }, {
+                            "name": "کالای دیجیتال",
+                            "slug": "electronic-devices",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-electronic-devices",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_electronic_devices.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_electronic_devices.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "موبایل و تبلت",
+                                "slug": "mobile-tablet",
+                                "icon": {},
+                                "parent": "electronic-devices",
+                                "children": [{
+                                    "name": "موبایل",
+                                    "slug": "mobile-phones",
+                                    "icon": {},
+                                    "parent": "mobile-tablet",
+                                    "children": []
+                                }, {
+                                    "name": "تبلت",
+                                    "slug": "tablet",
+                                    "icon": {},
+                                    "parent": "mobile-tablet",
+                                    "children": []
+                                }, {
+                                    "name": "لوازم جانبی موبایل و تبلت",
+                                    "slug": "mobile-tablet-accessories",
+                                    "icon": {},
+                                    "parent": "mobile-tablet",
+                                    "children": []
+                                }, {
+                                    "name": "سیم‌کارت",
+                                    "slug": "sim-card",
+                                    "icon": {},
+                                    "parent": "mobile-tablet",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "رایانه",
+                                "slug": "computers",
+                                "icon": {},
+                                "parent": "electronic-devices",
+                                "children": [{
+                                    "name": "رایانه همراه",
+                                    "slug": "laptops",
+                                    "icon": {},
+                                    "parent": "computers",
+                                    "children": []
+                                }, {
+                                    "name": "رایانه رومیزی",
+                                    "slug": "desktops",
+                                    "icon": {},
+                                    "parent": "computers",
+                                    "children": []
+                                }, {
+                                    "name": "قطعات و لوازم جانبی",
+                                    "slug": "parts-and-accessories",
+                                    "icon": {},
+                                    "parent": "computers",
+                                    "children": []
+                                }, {
+                                    "name": "مودم و تجهیزات شبکه",
+                                    "slug": "modem-and-network-equipment",
+                                    "icon": {},
+                                    "parent": "computers",
+                                    "children": []
+                                }, {
+                                    "name": "پرینتر، اسکنر، کپی، فکس",
+                                    "slug": "printer-scaner-copier",
+                                    "icon": {},
+                                    "parent": "computers",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "کنسول، بازی‌ ویدئویی و آنلاین",
+                                "slug": "game-consoles-and-video-games",
+                                "icon": {},
+                                "parent": "electronic-devices",
+                                "children": []
+                            }, {
+                                "name": "صوتی و تصویری",
+                                "slug": "audio-video",
+                                "icon": {},
+                                "parent": "electronic-devices",
+                                "children": [{
+                                    "name": "فیلم و موسیقی",
+                                    "slug": "movies-and-music",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }, {
+                                    "name": "دوربین عکاسی و فیلم‌برداری",
+                                    "slug": "camera-camcoders",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }, {
+                                    "name": "پخش‌کننده همراه",
+                                    "slug": "mp3-player",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }, {
+                                    "name": "سیستم صوتی خانگی",
+                                    "slug": "stereo-surround",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }, {
+                                    "name": "پخش‌کننده DVD و ویدیو",
+                                    "slug": "video-dvdplayer",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }, {
+                                    "name": "تلویزیون و پروژکتور",
+                                    "slug": "tv-projector",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }, {
+                                    "name": "دوربین مداربسته",
+                                    "slug": "CCTV",
+                                    "icon": {},
+                                    "parent": "audio-video",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "تلفن رومیزی",
+                                "slug": "phone",
+                                "icon": {},
+                                "parent": "electronic-devices",
+                                "children": []
+                            }]
+                        }, {
+                            "name": "خانه و آشپزخانه",
+                            "slug": "home-kitchen",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-for-the-home",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_for_the_home.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_for_the_home.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "لوازم خانگی برقی",
+                                "slug": "appliance",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "یخچال و فریزر",
+                                    "slug": "refrigerator-freezer",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "آب‌سردکن و تصفیه آب",
+                                    "slug": "water-cooler-refinery",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "ماشین لباسشویی و خشک‌کن لباس",
+                                    "slug": "washing-machines",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "ماشین ظرفشویی",
+                                    "slug": "dishwasher",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "جاروبرقی، جارو شارژی، بخارشو",
+                                    "slug": "vacuums-cleaner",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "اتو و لوازم اتو",
+                                    "slug": "steam-iron",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "آبمیوه‌گیر و آب‌مرکبات‌گیر",
+                                    "slug": "juicers",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "خردکن، آسیاب، غذاساز",
+                                    "slug": "food-mill",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "سماور، چای‌ساز، قهوه‌ساز",
+                                    "slug": "drink-maker",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "اجاق گاز و لوازم برقی پخت‌وپز",
+                                    "slug": "oven-baking-appliances",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "هود",
+                                    "slug": "range-hood",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }, {
+                                    "name": "سایر لوازم برقی",
+                                    "slug": "other-appliances",
+                                    "icon": {},
+                                    "parent": "appliance",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "ظروف و لوازم آشپزخانه",
+                                "slug": "kitchen-utensils",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "سفره، حوله، دستمال آشپزخانه",
+                                    "slug": "tablecloths",
+                                    "icon": {},
+                                    "parent": "kitchen-utensils",
+                                    "children": []
+                                }, {
+                                    "name": "آب‌چکان و نظم‌دهنده ظروف",
+                                    "slug": "container-organizers",
+                                    "icon": {},
+                                    "parent": "kitchen-utensils",
+                                    "children": []
+                                }, {
+                                    "name": "قوری، کتری، قهوه‌ساز دستی",
+                                    "slug": "pot-kettle",
+                                    "icon": {},
+                                    "parent": "kitchen-utensils",
+                                    "children": []
+                                }, {
+                                    "name": "ظروف سرو و پذیرایی",
+                                    "slug": "home-catering",
+                                    "icon": {},
+                                    "parent": "kitchen-utensils",
+                                    "children": []
+                                }, {
+                                    "name": "ظروف نگهدارنده، پلاستیکی، یک‌بارمصرف",
+                                    "slug": "containers",
+                                    "icon": {},
+                                    "parent": "kitchen-utensils",
+                                    "children": []
+                                }, {
+                                    "name": "ظروف پخت‌وپز",
+                                    "slug": "cooking-utensils",
+                                    "icon": {},
+                                    "parent": "kitchen-utensils",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "خوردنی و آشامیدنی",
+                                "slug": "food-and-drink",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": []
+                            }, {
+                                "name": "خیاطی و بافتنی",
+                                "slug": "sewing-knitting",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "چرخ خیاطی و ریسندگی",
+                                    "slug": "sewing-machine",
+                                    "icon": {},
+                                    "parent": "sewing-knitting",
+                                    "children": []
+                                }, {
+                                    "name": "لوازم خیاطی و بافتنی",
+                                    "slug": "sewing-accessories",
+                                    "icon": {},
+                                    "parent": "sewing-knitting",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "مبلمان و صنایع چوب",
+                                "slug": "furniture-wood",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "مبلمان خانگی و میز عسلی",
+                                    "slug": "furniture",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "میز و صندلی غذاخوری",
+                                    "slug": "dining-table",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "بوفه، ویترین، کنسول",
+                                    "slug": "buffet-showcases",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "کتابخانه، شلف، قفسه‌های دیواری",
+                                    "slug": "bookcase-shelf",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "جاکفشی، کمد، دراور",
+                                    "slug": "shoe-rack-drawer",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "تخت و سرویس خواب",
+                                    "slug": "bed-service",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "میز تلفن",
+                                    "slug": "phone-desk",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "میز تلویزیون",
+                                    "slug": "tv-stand",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "میز تحریر و کامپیوتر",
+                                    "slug": "desk",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "مبلمان اداری",
+                                    "slug": "office-decoration",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }, {
+                                    "name": "صندلی و نیمکت",
+                                    "slug": "chair-bench",
+                                    "icon": {},
+                                    "parent": "furniture-wood",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "نور و روشنایی",
+                                "slug": "home-lighting",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "لوستر و چراغ آویز",
+                                    "slug": "chandeliers",
+                                    "icon": {},
+                                    "parent": "home-lighting",
+                                    "children": []
+                                }, {
+                                    "name": "چراغ خواب و آباژور",
+                                    "slug": "lampshade",
+                                    "icon": {},
+                                    "parent": "home-lighting",
+                                    "children": []
+                                }, {
+                                    "name": "ریسه و چراغ تزئینی",
+                                    "slug": "yarn-lights",
+                                    "icon": {},
+                                    "parent": "home-lighting",
+                                    "children": []
+                                }, {
+                                    "name": "لامپ و چراغ",
+                                    "slug": "lamps",
+                                    "icon": {},
+                                    "parent": "home-lighting",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "فرش، گلیم، موکت",
+                                "slug": "carpet-moquette",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "فرش",
+                                    "slug": "carpet",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }, {
+                                    "name": "تابلو فرش",
+                                    "slug": "pictorial-carpet",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }, {
+                                    "name": "روفرشی",
+                                    "slug": "rubber-carpet",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }, {
+                                    "name": "پادری",
+                                    "slug": "mat",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }, {
+                                    "name": "موکت",
+                                    "slug": "moquette",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }, {
+                                    "name": "گلیم، جاجیم، گبه",
+                                    "slug": "rugs-woolen-cloth",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }, {
+                                    "name": "پشتی",
+                                    "slug": "lumbar-pillow",
+                                    "icon": {},
+                                    "parent": "carpet-moquette",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "تشک، روتختی، رختخواب",
+                                "slug": "sleep-goods",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "رختخواب، بالش، پتو",
+                                    "slug": "bed-pillow-blanket",
+                                    "icon": {},
+                                    "parent": "sleep-goods",
+                                    "children": []
+                                }, {
+                                    "name": "تشک تختخواب",
+                                    "slug": "mattress",
+                                    "icon": {},
+                                    "parent": "sleep-goods",
+                                    "children": []
+                                }, {
+                                    "name": "سرویس روتختی",
+                                    "slug": "bed-sheet",
+                                    "icon": {},
+                                    "parent": "sleep-goods",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "لوازم دکوری و تزئینی",
+                                "slug": "decoration",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "پرده، رانر، رومیزی",
+                                    "slug": "curtains-table-cover",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "آینه",
+                                    "slug": "mirror",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "ساعت دیواری و تزئینی",
+                                    "slug": "wall-clock",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "تابلو، نقاشی، عکس",
+                                    "slug": "paintings-picture",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "مجسمه، تندیس، ماکت",
+                                    "slug": "figurines",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "گل مصنوعی",
+                                    "slug": "artificial-flower",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "گل و گیاه طبیعی",
+                                    "slug": "natural-plants",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }, {
+                                    "name": "صنایع دستی و سایر لوازم تزئینی",
+                                    "slug": "crafts",
+                                    "icon": {},
+                                    "parent": "decoration",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "تهویه، سرمایش، گرمایش",
+                                "slug": "ventilation-cooling-heating",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "آبگرمکن، پکیج، شوفاژ",
+                                    "slug": "water-heater-package-radiator",
+                                    "icon": {},
+                                    "parent": "ventilation-cooling-heating",
+                                    "children": []
+                                }, {
+                                    "name": "بخاری، هیتر، شومینه",
+                                    "slug": "stoves-heaters-fireplaces",
+                                    "icon": {},
+                                    "parent": "ventilation-cooling-heating",
+                                    "children": []
+                                }, {
+                                    "name": "کولر آبی",
+                                    "slug": "water-cooler",
+                                    "icon": {},
+                                    "parent": "ventilation-cooling-heating",
+                                    "children": []
+                                }, {
+                                    "name": "کولر گازی و فن‌کوئل",
+                                    "slug": "air-conditioning-fan-coil",
+                                    "icon": {},
+                                    "parent": "ventilation-cooling-heating",
+                                    "children": []
+                                }, {
+                                    "name": "پنکه و تصفیه‌کنندهٔ هوا",
+                                    "slug": "fan-ventilator-humidifier",
+                                    "icon": {},
+                                    "parent": "ventilation-cooling-heating",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "شست‌وشو و نظافت",
+                                "slug": "washing-cleaning",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "مواد شوینده و دستمال کاغذی",
+                                    "slug": "detergent-tissue",
+                                    "icon": {},
+                                    "parent": "washing-cleaning",
+                                    "children": []
+                                }, {
+                                    "name": "لوازم نظافت",
+                                    "slug": "cleaning-supplies",
+                                    "icon": {},
+                                    "parent": "washing-cleaning",
+                                    "children": []
+                                }, {
+                                    "name": "بندرخت و رخت‌آویز",
+                                    "slug": "clothes-rack",
+                                    "icon": {},
+                                    "parent": "washing-cleaning",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "حمام و سرویس بهداشتی",
+                                "slug": "bathrooms",
+                                "icon": {},
+                                "parent": "home-kitchen",
+                                "children": [{
+                                    "name": "لوازم حمام",
+                                    "slug": "bathroom-accessories",
+                                    "icon": {},
+                                    "parent": "bathrooms",
+                                    "children": []
+                                }, {
+                                    "name": "لوازم سرویس بهداشتی",
+                                    "slug": "wc-accessories",
+                                    "icon": {},
+                                    "parent": "bathrooms",
+                                    "children": []
+                                }]
+                            }]
+                        }, {
+                            "name": "خدمات",
+                            "slug": "services",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-services",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_services.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_services.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "موتور و ماشین",
+                                "slug": "car-and-motor",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "پذیرایی، مراسم",
+                                "slug": "catering",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "رایانه‌ای و موبایل",
+                                "slug": "computer-and-mobile",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "مالی، حسابداری، بیمه",
+                                "slug": "accounting-and-finance",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "حمل و نقل",
+                                "slug": "transport",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "پیشه و مهارت",
+                                "slug": "craftsmen",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "آرایشگری و زیبایی",
+                                "slug": "beauty-and-haircare",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "نظافت",
+                                "slug": "cleaning",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "باغبانی و درختکاری",
+                                "slug": "garden-and-landscaping",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }, {
+                                "name": "آموزشی",
+                                "slug": "teaching",
+                                "icon": {},
+                                "parent": "services",
+                                "children": []
+                            }]
+                        }, {
+                            "name": "وسایل شخصی",
+                            "slug": "personal",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-personal",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_personal.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_personal.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "کیف، کفش، لباس",
+                                "slug": "clothing-and-shoes",
+                                "icon": {},
+                                "parent": "personal",
+                                "children": [{
+                                    "name": "کیف، کفش، کمربند",
+                                    "slug": "shoes-belt-bag",
+                                    "icon": {},
+                                    "parent": "clothing-and-shoes",
+                                    "children": []
+                                }, {
+                                    "name": "لباس",
+                                    "slug": "clothing",
+                                    "icon": {},
+                                    "parent": "clothing-and-shoes",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "زیورآلات و اکسسوری",
+                                "slug": "jewelry-and-watches",
+                                "icon": {},
+                                "parent": "personal",
+                                "children": [{
+                                    "name": "ساعت",
+                                    "slug": "watches",
+                                    "icon": {},
+                                    "parent": "jewelry-and-watches",
+                                    "children": []
+                                }, {
+                                    "name": "جواهرات",
+                                    "slug": "jewelry",
+                                    "icon": {},
+                                    "parent": "jewelry-and-watches",
+                                    "children": []
+                                }, {
+                                    "name": "بدلیجات",
+                                    "slug": "rhinestones",
+                                    "icon": {},
+                                    "parent": "jewelry-and-watches",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "آرایشی، بهداشتی، درمانی",
+                                "slug": "health-beauty",
+                                "icon": {},
+                                "parent": "personal",
+                                "children": []
+                            }, {
+                                "name": "کفش و لباس بچه",
+                                "slug": "childrens-clothing-and-shoe",
+                                "icon": {},
+                                "parent": "personal",
+                                "children": []
+                            }, {
+                                "name": "وسایل بچه و اسباب‌بازی",
+                                "slug": "baby-and-toys",
+                                "icon": {},
+                                "parent": "personal",
+                                "children": [{
+                                    "name": "اسباب‌بازی بچه",
+                                    "slug": "personal-toys",
+                                    "icon": {},
+                                    "parent": "baby-and-toys",
+                                    "children": []
+                                }, {
+                                    "name": "کالسکه و لوازم جانبی",
+                                    "slug": "strollers-and-accessories",
+                                    "icon": {},
+                                    "parent": "baby-and-toys",
+                                    "children": []
+                                }, {
+                                    "name": "تخت و صندلی بچه",
+                                    "slug": "child-car-seat",
+                                    "icon": {},
+                                    "parent": "baby-and-toys",
+                                    "children": []
+                                }, {
+                                    "name": "اسباب و اثاث بچه",
+                                    "slug": "childrens-furniture",
+                                    "icon": {},
+                                    "parent": "baby-and-toys",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "لوازم التحریر",
+                                "slug": "stationery",
+                                "icon": {},
+                                "parent": "personal",
+                                "children": []
+                            }]
+                        }, {
+                            "name": "سرگرمی و فراغت",
+                            "slug": "leisure-hobbies",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-leisure-hobbies",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_leisure_hobbies.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_leisure_hobbies.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "بلیت",
+                                "slug": "ticket",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": [{
+                                    "name": "کنسرت",
+                                    "slug": "concert",
+                                    "icon": {},
+                                    "parent": "ticket",
+                                    "children": []
+                                }, {
+                                    "name": "تئاتر و سینما",
+                                    "slug": "theatre-and-cinema",
+                                    "icon": {},
+                                    "parent": "ticket",
+                                    "children": []
+                                }, {
+                                    "name": "کارت هدیه و تخفیف",
+                                    "slug": "gift-certificate",
+                                    "icon": {},
+                                    "parent": "ticket",
+                                    "children": []
+                                }, {
+                                    "name": "مسابقه‌ها و مکان‌های ورزشی",
+                                    "slug": "tickets-sports",
+                                    "icon": {},
+                                    "parent": "ticket",
+                                    "children": []
+                                }, {
+                                    "name": "ورزشی",
+                                    "slug": "sport",
+                                    "icon": {},
+                                    "parent": "ticket",
+                                    "children": []
+                                }, {
+                                    "name": "اتوبوس، مترو، قطار",
+                                    "slug": "bus-metro-train",
+                                    "icon": {},
+                                    "parent": "ticket",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "تور و چارتر",
+                                "slug": "travel-packages",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": []
+                            }, {
+                                "name": "کتاب و مجله",
+                                "slug": "book-student-literature",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": [{
+                                    "name": "آموزشی",
+                                    "slug": "educational",
+                                    "icon": {},
+                                    "parent": "book-student-literature",
+                                    "children": []
+                                }, {
+                                    "name": "ادبی",
+                                    "slug": "literary",
+                                    "icon": {},
+                                    "parent": "book-student-literature",
+                                    "children": []
+                                }, {
+                                    "name": "تاریخی",
+                                    "slug": "historical",
+                                    "icon": {},
+                                    "parent": "book-student-literature",
+                                    "children": []
+                                }, {
+                                    "name": "مذهبی",
+                                    "slug": "religious",
+                                    "icon": {},
+                                    "parent": "book-student-literature",
+                                    "children": []
+                                }, {
+                                    "name": "مجلات",
+                                    "slug": "magazines",
+                                    "icon": {},
+                                    "parent": "book-student-literature",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "دوچرخه، اسکیت، اسکوتر",
+                                "slug": "bicycle",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": []
+                            }, {
+                                "name": "حیوانات",
+                                "slug": "animals",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": [{
+                                    "name": "گربه",
+                                    "slug": "cat",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "موش و خرگوش",
+                                    "slug": "rodents-rabbits",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "خزنده",
+                                    "slug": "reptile",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "پرنده",
+                                    "slug": "birds",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "ماهی",
+                                    "slug": "fish",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "لوازم جانبی",
+                                    "slug": "accessories",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "حیوانات مزرعه",
+                                    "slug": "farm-animals",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }, {
+                                    "name": "سگ",
+                                    "slug": "dog",
+                                    "icon": {},
+                                    "parent": "animals",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "کلکسیون و سرگرمی",
+                                "slug": "hobby-collectibles",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": [{
+                                    "name": "سکه، تمبر، اسکناس",
+                                    "slug": "coin-stamp",
+                                    "icon": {},
+                                    "parent": "hobby-collectibles",
+                                    "children": []
+                                }, {
+                                    "name": "اشیاء عتیقه",
+                                    "slug": "historical-objects",
+                                    "icon": {},
+                                    "parent": "hobby-collectibles",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "آلات موسیقی",
+                                "slug": "musical-instruments",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": [{
+                                    "name": "گیتار، بیس، امپلیفایر",
+                                    "slug": "guitar-bass-amplifier",
+                                    "icon": {},
+                                    "parent": "musical-instruments",
+                                    "children": []
+                                }, {
+                                    "name": "سازهای بادی",
+                                    "slug": "wind",
+                                    "icon": {},
+                                    "parent": "musical-instruments",
+                                    "children": []
+                                }, {
+                                    "name": "پیانو، کیبورد، آکاردئون",
+                                    "slug": "piano-keyboard",
+                                    "icon": {},
+                                    "parent": "musical-instruments",
+                                    "children": []
+                                }, {
+                                    "name": "سازهای سنتی",
+                                    "slug": "traditional",
+                                    "icon": {},
+                                    "parent": "musical-instruments",
+                                    "children": []
+                                }, {
+                                    "name": "درام و پرکاشن",
+                                    "slug": "drums-percussion",
+                                    "icon": {},
+                                    "parent": "musical-instruments",
+                                    "children": []
+                                }, {
+                                    "name": "ویولن",
+                                    "slug": "violins",
+                                    "icon": {},
+                                    "parent": "musical-instruments",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "ورزش و تناسب اندام",
+                                "slug": "sport-leisure",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": [{
+                                    "name": "ورزش‌های توپی",
+                                    "slug": "ball-sports",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }, {
+                                    "name": "کوهنوردی و کمپینگ",
+                                    "slug": "camping-outdoor",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }, {
+                                    "name": "غواصی و ورزش‌های آبی",
+                                    "slug": "diving-watersports",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }, {
+                                    "name": "ماهیگیری",
+                                    "slug": "fishing",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }, {
+                                    "name": "تجهیزات ورزشی",
+                                    "slug": "training",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }, {
+                                    "name": "ورزش‌های زمستانی",
+                                    "slug": "winter-sports",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }, {
+                                    "name": "اسب و تجهیزات اسب‌سواری",
+                                    "slug": "horses-equestrian",
+                                    "icon": {},
+                                    "parent": "sport-leisure",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "اسباب‌‌بازی",
+                                "slug": "leisure-hobbies-toys",
+                                "icon": {},
+                                "parent": "leisure-hobbies",
+                                "children": []
+                            }]
+                        }, {
+                            "name": "اجتماعی",
+                            "slug": "community",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "community",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcommunity.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcommunity.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "رویداد",
+                                "slug": "event",
+                                "icon": {},
+                                "parent": "community",
+                                "children": [{
+                                    "name": "حراج",
+                                    "slug": "for-sale",
+                                    "icon": {},
+                                    "parent": "event",
+                                    "children": []
+                                }, {
+                                    "name": "گردهمایی و همایش",
+                                    "slug": "conference-meeting",
+                                    "icon": {},
+                                    "parent": "event",
+                                    "children": []
+                                }, {
+                                    "name": "ورزشی",
+                                    "slug": "events-sports",
+                                    "icon": {},
+                                    "parent": "event",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "داوطلبانه",
+                                "slug": "volunteers",
+                                "icon": {},
+                                "parent": "community",
+                                "children": [{
+                                    "name": "تحقیقاتی",
+                                    "slug": "research",
+                                    "icon": {},
+                                    "parent": "volunteers",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "گم‌شده‌ها",
+                                "slug": "lost-and-found",
+                                "icon": {},
+                                "parent": "community",
+                                "children": [{
+                                    "name": "حیوانات",
+                                    "slug": "lost-animals",
+                                    "icon": {},
+                                    "parent": "lost-and-found",
+                                    "children": []
+                                }, {
+                                    "name": "اشیا",
+                                    "slug": "lost-things",
+                                    "icon": {},
+                                    "parent": "lost-and-found",
+                                    "children": []
+                                }]
+                            }]
+                        }, {
+                            "name": "تجهیزات و صنعتی",
+                            "slug": "tools-materials-equipment",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-businesses",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_businesses.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_businesses.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "مصالح و تجهیزات ساختمان",
+                                "slug": "building-equipment",
+                                "icon": {},
+                                "parent": "tools-materials-equipment",
+                                "children": []
+                            }, {
+                                "name": "ابزارآلات",
+                                "slug": "toolbox",
+                                "icon": {},
+                                "parent": "tools-materials-equipment",
+                                "children": []
+                            }, {
+                                "name": "ماشین‌آلات صنعتی",
+                                "slug": "industrial-machinery",
+                                "icon": {},
+                                "parent": "tools-materials-equipment",
+                                "children": []
+                            }, {
+                                "name": "تجهیزات کسب‌وکار",
+                                "slug": "work-equipment",
+                                "icon": {},
+                                "parent": "tools-materials-equipment",
+                                "children": [{
+                                    "name": "پزشکی",
+                                    "slug": "medical-equipment",
+                                    "icon": {},
+                                    "parent": "work-equipment",
+                                    "children": []
+                                }, {
+                                    "name": "فروشگاه و مغازه",
+                                    "slug": "shop-and-cash",
+                                    "icon": {},
+                                    "parent": "work-equipment",
+                                    "children": []
+                                }, {
+                                    "name": "کافی‌شاپ و رستوران",
+                                    "slug": "cafe-and-restaurant",
+                                    "icon": {},
+                                    "parent": "work-equipment",
+                                    "children": []
+                                }, {
+                                    "name": "آرایشگاه و سالن‌های زیبایی",
+                                    "slug": "barbershop-and-beautysalon",
+                                    "icon": {},
+                                    "parent": "work-equipment",
+                                    "children": []
+                                }, {
+                                    "name": "دفتر کار",
+                                    "slug": "offices",
+                                    "icon": {},
+                                    "parent": "work-equipment",
+                                    "children": []
+                                }]
+                            }, {
+                                "name": "عمده‌فروشی",
+                                "slug": "batch",
+                                "icon": {},
+                                "parent": "tools-materials-equipment",
+                                "children": []
+                            }]
+                        }, {
+                            "name": "استخدام و کاریابی",
+                            "slug": "jobs",
+                            "icon": {
+                                "iconColor": "var(--black-secondary)",
+                                "iconName": "cat-jobs",
+                                "iconURL": {
+                                    "light": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Flight\u002Ficon_secondary\u002Fv1\u002Fcat_jobs.png",
+                                    "dark": "https:\u002F\u002Fs100.divarcdn.com\u002Fstatic\u002Fimgs\u002Fwidget-icons\u002Fdark\u002Ficon_secondary\u002Fv1\u002Fcat_jobs.png"
+                                }
+                            },
+                            "parent": "ROOT",
+                            "children": [{
+                                "name": "اداری و مدیریت",
+                                "slug": "administration-and-hr",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "سرایداری و نظافت",
+                                "slug": "janitorial-cleaning",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "معماری، عمران و ساختمانی",
+                                "slug": "construction-craft",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "خدمات فروشگاه و رستوران",
+                                "slug": "shop-restaurant",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "رایانه و فناوری اطلاعات",
+                                "slug": "computer-and-it",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "مالی، حسابداری، حقوقی",
+                                "slug": "accounting-finance-legal",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "بازاریابی و فروش",
+                                "slug": "sales-marketing",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "صنعتی، فنی، مهندسی",
+                                "slug": "industrial-technology",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "آموزشی",
+                                "slug": "education",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "حمل و نقل",
+                                "slug": "transportation",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "درمانی، زیبایی، بهداشتی",
+                                "slug": "care-health-beauty",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }, {
+                                "name": "هنری و رسانه",
+                                "slug": "media-advertising",
+                                "icon": {},
+                                "parent": "jobs",
+                                "children": []
+                            }]
+                        }]
+                    },
+                    "actionLogs": {},
+                    "realTimeQuery": "",
+                    "categoriesHasError": false,
+                    "shouldSelectCategory": null,
+                    "searchData": {
+                        "formData": {
+                            "category": {
+                                "str": {
+                                    "value": "ROOT"
+                                }
+                            }
+                        },
+                        "serverPayload": {
+                            "@type": "type.googleapis.com\u002Fwidgets.SearchData.ServerPayload",
+                            "additional_form_data": {
+                                "data": {
+                                    "sort": {
+                                        "str": {
+                                            "value": "recommended"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "showSearchAssistantSuggestion": false
+                },
+                "navBar": {
+                    "hasSubmit": true,
+                    "hasSupport": true,
+                    "hasChat": true,
+                    "hasSearch": true,
+                    "hasNavTitle": false,
+                    "hasMyDivar": true,
+                    "hasCategories": true,
+                    "hasSelectCity": true,
+                    "hasSearchAssistant": true,
+                    "hasSearchAssistantTitle": false,
+                    "shouldShowShadow": true
+                },
+                "note": {
+                    "hasNote": false
+                },
+                "appMeta": {
+                    "cityChanged": false,
+                    "isSearchEngine": false,
+                    "ip": "65.109.201.221",
+                    "realIP": "65.109.201.221, 185.254.199.62, 10.235.109.15",
+                    "isWebView": false,
+                    "error": null
+                },
+                "currentPost": {
+                    "renderPostSuccess": true,
+                    "sourceType": "direct_link",
+                    "getContactBlocked": false,
+                    "getContactBlockedError": null,
+                    "post": {
+                        "contact": {
+                            "widgetList": null,
+                            "isContactVisible": false,
+                            "isExperimentEnabled": false,
+                            "suspicionAlert": {},
+                            "hip": {
+                                "isHipModalOpen": false,
+                                "contactToken": null,
+                                "captchaUrlKey": null,
+                                "method": null,
+                                "isGetContactHoneypot": false
+                            },
+                            "loading": false
+                        },
+                        "loading": false,
+                        "token": "",
+                        "sections": {
+                            "BUSINESS_SECTION": [],
+                            "DESCRIPTION": [],
+                            "BREADCRUMB": [],
+                            "SUGGESTION": [],
+                            "INSPECTION": [],
+                            "LIST_DATA": [],
+                            "CONTACT": [],
+                            "MESSAGE": [],
+                            "STATIC": [],
+                            "IMAGE": [],
+                            "TITLE": [],
+                            "TAGS": [],
+                            "NOTE": [],
+                            "MAP": []
+                        }
+                    },
+                    "hasError": false,
+                    "hasSSRUnauthorizedError": false
+                },
+                "httpError": {
+                    "is404": false,
+                    "is410": false,
+                    "is301": false,
+                    "is302": false
+                },
+                "auth": {
+                    "source": null,
+                    "error": null,
+                    "confirmSent": false,
+                    "captcha": false,
+                    "loading": false,
+                    "canReplacePhone": true,
+                    "resendEnabled": true,
+                    "requiredUserType": null,
+                    "shouldUseRwvLogin": false
+                },
+                "user": {
+                    "token": null,
+                    "appellantUUID": null,
+                    "isLoggedIn": false,
+                    "data": {},
+                    "business": {
+                        "loading": false,
+                        "hasError": false
+                    },
+                    "showConnectionBanner": false,
+                    "showIosInstallationBanner": true,
+                    "isLogoutConfirmationAlertOpen": false,
+                    "isBlacklisted": null
+                },
+                "history": {
+                    "length": 0
+                },
+                "chat": {
+                    "hasUnreadChat": false
+                },
+                "modalPage": {
+                    "isOpen": false,
+                    "submitLoading": false,
+                    "submissionButton": null,
+                    "history": [],
+                    "requestCache": {},
+                    "currentPageIndex": -1
+                },
+                "multiCity": {
+                    "selectedCities": [{
+                        "id": 1,
+                        "name": "تهران",
+                        "slug": "tehran",
+                        "type": "2",
+                        "parent": 904
+                    }],
+                    "prevSelectedCities": [],
+                    "subtitle": "حداقل یک شهر را انتخاب کنید.",
+                    "shouldShowCityTooltip": false,
+                    "onClose": null,
+                    "defaultCity": {
+                        "id": 1,
+                        "name": "تهران",
+                        "slug": "tehran",
+                        "type": "2",
+                        "parent": 904
+                    }
+                },
+                "widgets": {
+                    "postRow": {
+                        "selectedPosts": []
+                    }
+                },
+                "searchAssistant": {
+                    "conversationId": null,
+                    "messages": [],
+                    "isLoading": true,
+                    "isRestartLoading": false,
+                    "errorMessage": null,
+                    "restartErrorMessage": null,
+                    "isWaiting": false,
+                    "isWaitingForSuggestions": false,
+                    "waitingText": "",
+                    "lastAnimatedMessageTimestamp": null,
+                    "isAnimating": false,
+                    "scrollPosition": null,
+                    "isScrollButtonVisible": false,
+                    "isAutoScrollEnabled": true,
+                    "suggestions": [],
+                    "feedback": null,
+                    "isFeedbackVisible": true,
+                    "isSuggestionsVisible": true,
+                    "source": null,
+                    "isSTTEnabled": false,
+                    "pollInterval": 1000,
+                    "latestPathConversationId": null
+                },
+                "bookmarks": {
+                    "posts": [],
+                    "searches": [],
+                    "postsIsLoading": true,
+                    "postsError": null,
+                    "searchesIsLoading": true,
+                    "searchesError": null
+                },
+                "premiumPanel": {
+                    "landing": {
+                        "error": null,
+                        "pageTitle": "",
+                        "isNotFound": false,
+                        "isLoading": false,
+                        "headerWidgets": [],
+                        "postRowWidgets": [],
+                        "landingBrandToken": "",
+                        "pagination": {
+                            "hasNext": false,
+                            "lastItemIdentifier": ""
+                        }
+                    }
+                }
+            };
+        </script>
+        <script>
+            (function() {
+                var check = document.createElement('script');
+                if (!('noModule'in check) && 'onbeforeload'in check) {
+                    var support = false;
+                    document.addEventListener('beforeload', function(e) {
+                        if (e.target === check) {
+                            support = true;
+                        } else if (!e.target.hasAttribute('nomodule') || !support) {
+                            return;
+                        }
+                        e.preventDefault();
+                    }, true);
+
+                    check.type = 'module';
+                    check.src = '.';
+                    document.head.appendChild(check);
+                    check.remove();
+                }
+            }());
+        </script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/runtime.340b1859.desktop.js" nomodule="true"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/polyfills.0d711bec.desktop.js" nomodule="true"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/vendors.3c557095.desktop.js" nomodule="true"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/main.cfe342eb.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/framework-774.3215072a.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/c7eb33cc-264.a61db132.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/0d166dd6-991.40171dcf.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/khesht-668.e91d5345.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/widget-base-348.23aa608d.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/components-160.10b30a45.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/utils-493.46d33576.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/services-894.48bb2c1f.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/store-119.6af079f9.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/per-localization-867.91d3a957.desktop.js" nomodule="true"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/bootstrap-672.28176fdc.desktop.js" nomodule="true"></script>
+        <script async data-chunk="LazyPlaceSelector" src="https://s100.divarcdn.com/web-assets/2025/10/lazyplaceselector-9.e71faa9e.desktop.js" nomodule="true"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/runtime.340b1859.desktop.js" type="module"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/polyfills.0d711bec.desktop.js" type="module"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/vendors.3c557095.desktop.js" type="module"></script>
+        <script async data-chunk="main" src="https://s100.divarcdn.com/web-assets/2025/10/main.cfe342eb.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/framework-774.3215072a.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/c7eb33cc-264.a61db132.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/0d166dd6-991.40171dcf.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/khesht-668.e91d5345.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/widget-base-348.23aa608d.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/components-160.10b30a45.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/utils-493.46d33576.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/services-894.48bb2c1f.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/store-119.6af079f9.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/per-localization-867.91d3a957.desktop.js" type="module"></script>
+        <script async data-chunk="bootstrap" src="https://s100.divarcdn.com/web-assets/2025/10/bootstrap-672.28176fdc.desktop.js" type="module"></script>
+        <script async data-chunk="LazyPlaceSelector" src="https://s100.divarcdn.com/web-assets/2025/10/lazyplaceselector-9.e71faa9e.desktop.js" type="module"></script>
+        <script id="__LOADABLE_REQUIRED_CHUNKS__" type="application/json">
+            [
+                429,
+                9
+            ]</script>
+        <script id="__LOADABLE_REQUIRED_CHUNKS___ext" type="application/json">
+            {
+                "namedChunks": [
+                    "LazyPlaceSelector"
+                ]
+            }</script>
+        <script type="application/ld+json">
+            [
+                {
+                    "accommodationCategory": "آپارتمان",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "116",
+                        "unitCode": "MTK"
+                    },
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "numberOfRooms": "دو",
+                    "geo": {
+                        "longitude": "51.446656425228",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, قیطریه",
+                        "latitude": "35.79376958179"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/6tiwSayztvNMUeLbfNdnVw/01ce1146-babb-4fa6-9e75-f76c7e4c9b3d.webp",
+                    "url": "https://divar.ir/v/116-متر-قیطریه-دو-قدمی-پارک-فول-بازسازی-دو-خواب/Aaq7AAP5",
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "116 متر قیطریه/دو قدمی پارک/فول بازسازی/دو خواب",
+                        "city_persian": "تهران",
+                        "district_persian": "قیطریه"
+                    },
+                    "name": "116 متر قیطریه/دو قدمی پارک/فول بازسازی/دو خواب"
+                },
+                {
+                    "geo": {
+                        "longitude": "51.44060074122979",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, قیطریه",
+                        "latitude": "35.7879853201749"
+                    },
+                    "url": "https://divar.ir/v/قیطریه-۱۳۰-متر-۲-خواب-مستر-۲-پارکینگ-سندی/QaAwehiP",
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی",
+                        "city_persian": "تهران",
+                        "district_persian": "قیطریه"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/SAfZONi28IsYB9nyDcuRZg/80088dc4-c7c9-4037-b9b5-507b16a0264e.webp",
+                    "floorSize": {
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue",
+                        "value": "130"
+                    },
+                    "accommodationCategory": "آپارتمان",
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "numberOfRooms": "دو",
+                    "name": "قیطریه ۱۳۰ متر ۲ خواب مستر ۲ پارکینگ سندی"
+                },
+                {
+                    "numberOfRooms": "یک",
+                    "@context": "https://schema.org",
+                    "url": "https://divar.ir/v/۵۸متری-سندتهران-بمب-سرمایه-گذاری-اندیشه/Aax22rj8",
+                    "floorSize": {
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue",
+                        "value": "58"
+                    },
+                    "geo": {
+                        "address": "تهران, جوانمردان (اندیشه)",
+                        "latitude": "35.7470588684082",
+                        "longitude": "51.27653121948242",
+                        "@type": "GeoCoordinates"
+                    },
+                    "@type": "Apartment",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/Y0rlrQYHVkSHQ62sXwusyQ/17d0782e-c25c-4c84-9db1-a3ec9da53426.webp",
+                    "accommodationCategory": "آپارتمان",
+                    "web_info": {
+                        "city_persian": "تهران",
+                        "district_persian": "جوانمردان (اندیشه)",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۵۸متری(سندتهران)بمب سرمایه گذاری/اندیشه"
+                    },
+                    "name": "۵۸متری(سندتهران)بمب سرمایه گذاری/اندیشه"
+                },
+                {
+                    "name": "اموزش رانندگی",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/sIDEnhCwisB9PLLRGbMhTw/608318a0-3230-4acb-ad60-c9114d6d03b2.webp",
+                    "category": "teaching",
+                    "@context": "https://schema.org",
+                    "@type": "Product",
+                    "url": "https://divar.ir/v/اموزش-رانندگی/QaAI_47S",
+                    "offers": {
+                        "priceCurrency": "IRR",
+                        "price": "0",
+                        "@type": "Offer"
+                    },
+                    "web_info": {
+                        "district_persian": "بوستان ولایت",
+                        "category_slug_persian": "آموزشی",
+                        "title": "اموزش رانندگی",
+                        "city_persian": "تهران"
+                    }
+                },
+                {
+                    "url": "https://divar.ir/v/اجاره-منزل-مسکونی/Aa6Tl_K9",
+                    "web_info": {
+                        "title": "اجاره منزل مسکونی",
+                        "city_persian": "تهران",
+                        "district_persian": "فلاح",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "name": "اجاره منزل مسکونی",
+                    "numberOfRooms": "یک",
+                    "floorSize": {
+                        "value": "45",
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue"
+                    },
+                    "geo": {
+                        "address": "تهران, فلاح",
+                        "latitude": "35.659590880418",
+                        "longitude": "51.363322328438",
+                        "@type": "GeoCoordinates"
+                    },
+                    "@context": "https://schema.org",
+                    "accommodationCategory": "آپارتمان",
+                    "@type": "Apartment",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/2h3H6vEQAX15W3-cAvnL9Q/bb7bf14a-1b58-413a-8925-65f6effb97f4.webp"
+                },
+                {
+                    "numberOfRooms": "دو",
+                    "accommodationCategory": "آپارتمان",
+                    "url": "https://divar.ir/v/آپارتمان-۷۵-متری-کرمان-شمالی-فول-امکانات/QaA4dFHF",
+                    "web_info": {
+                        "district_persian": "کرمان",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "آپارتمان ۷۵ متری کرمان شمالی * فول امکانات",
+                        "city_persian": "تهران"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/G6HntgO5w1y2vbOYViVPGg/8ec1d25c-f775-492c-a6cf-405476788e98.webp",
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "75",
+                        "unitCode": "MTK"
+                    },
+                    "geo": {
+                        "latitude": "35.735550830809",
+                        "longitude": "51.477963313369",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, کرمان"
+                    },
+                    "name": "آپارتمان ۷۵ متری کرمان شمالی * فول امکانات"
+                },
+                {
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "name": "اجاره آپارتمان ۵۳ متری در زهتابی",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/lZHf_Vbzk_9c4F1eZdpitQ/afd42110-2205-4512-9240-bb8e8716b9c0.webp",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "53",
+                        "unitCode": "MTK"
+                    },
+                    "url": "https://divar.ir/v/اجاره-آپارتمان-۵۳-متری-در-زهتابی/Aaq_RkML",
+                    "accommodationCategory": "آپارتمان",
+                    "numberOfRooms": "یک",
+                    "geo": {
+                        "latitude": "35.64164088584",
+                        "longitude": "51.364285455307",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, زهتابی"
+                    },
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "اجاره آپارتمان ۵۳ متری در زهتابی",
+                        "city_persian": "تهران",
+                        "district_persian": "زهتابی"
+                    }
+                },
+                {
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "82",
+                        "unitCode": "MTK"
+                    },
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۸۲ متر کلیدنخورده/دو خواب/فول/سوم نیروهوایی",
+                        "city_persian": "تهران",
+                        "district_persian": "نیروی هوایی (پیروزی)"
+                    },
+                    "numberOfRooms": "دو",
+                    "geo": {
+                        "latitude": "35.70075365293398",
+                        "longitude": "51.48330331701216",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, نیروی هوایی (پیروزی)"
+                    },
+                    "name": "۸۲ متر کلیدنخورده/دو خواب/فول/سوم نیروهوایی",
+                    "url": "https://divar.ir/v/۸۲-متر-کلیدنخورده-دو-خواب-فول-سوم-نیروهوایی/QaAAO8tj",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/bQHKbph77QQ3twjZeys6bg/0319a0aa-b45e-4dda-8cfa-7c5e90f54c61.webp",
+                    "accommodationCategory": "آپارتمان"
+                },
+                {
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, نیروی هوایی (پیروزی)",
+                        "latitude": "35.694782238147",
+                        "longitude": "51.482560215745"
+                    },
+                    "name": "۲۱۰ متر / سه پارکینگ / بهترین فرعی",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/QBjXM7ead2ezLpWa1cr26g/5dc0cb2a-023d-4a33-8609-d22f6406d37e.webp",
+                    "accommodationCategory": "آپارتمان",
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "url": "https://divar.ir/v/۲۱۰-متر-سه-پارکینگ-بهترین-فرعی/Aa_zPiW3",
+                    "floorSize": {
+                        "value": "210",
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue"
+                    },
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۲۱۰ متر / سه پارکینگ / بهترین فرعی",
+                        "city_persian": "تهران",
+                        "district_persian": "نیروی هوایی (پیروزی)"
+                    },
+                    "numberOfRooms": "سه"
+                },
+                {
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "115",
+                        "unitCode": "MTK"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, شهرک غرب",
+                        "latitude": "35.759765625",
+                        "longitude": "51.375938415527344"
+                    },
+                    "numberOfRooms": "دو",
+                    "accommodationCategory": "آپارتمان",
+                    "url": "https://divar.ir/v/دو-خواب-نوساز-ویوو-عالی/QaAceI8K",
+                    "@type": "Apartment",
+                    "web_info": {
+                        "title": "دو‌خواب/نوساز/ ویوو عالی",
+                        "city_persian": "تهران",
+                        "district_persian": "شهرک غرب",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "@context": "https://schema.org",
+                    "name": "دو‌خواب/نوساز/ ویوو عالی",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/OfwPw-bgC5qD-xsC-_5nlw/0e083083-c56c-4a51-ad88-908bf8cb57b7.webp"
+                },
+                {
+                    "@type": "Apartment",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/yOOAbwdh9Ro_jkE33LUbkA/c1b4f44e-164f-44b4-803f-91467a510e4e.webp",
+                    "geo": {
+                        "longitude": "51.28103053675297",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, جوانمردان (اندیشه)",
+                        "latitude": "35.747987389796315"
+                    },
+                    "url": "https://divar.ir/v/۵۷متـر-سنـد-دار-کـم-واحـد-روبنمـا-انـدیشـه/AaF_DSj_",
+                    "name": "۵۷متـر‌سنـد‌دار/کـم‌واحـد‌‌روبنمـا/انـدیشـه",
+                    "accommodationCategory": "آپارتمان",
+                    "@context": "https://schema.org",
+                    "web_info": {
+                        "district_persian": "جوانمردان (اندیشه)",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۵۷متـر‌سنـد‌دار/کـم‌واحـد‌‌روبنمـا/انـدیشـه",
+                        "city_persian": "تهران"
+                    },
+                    "numberOfRooms": "یک",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "57",
+                        "unitCode": "MTK"
+                    }
+                },
+                {
+                    "numberOfRooms": "یک",
+                    "@context": "https://schema.org",
+                    "web_info": {
+                        "city_persian": "تهران",
+                        "district_persian": "جوانمردان (اندیشه)",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۵۳متری/ سالن نورگیر /فاز1 اندیشه/سراسر پنجره خطی/"
+                    },
+                    "name": "۵۳متری/ سالن نورگیر /فاز1 اندیشه/سراسر پنجره خطی/",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/YVABWmZZIaZIzcIJQyaF5g/7937f3a6-e1fc-4fc5-8c73-d2c0543c5834.webp",
+                    "@type": "Apartment",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "53",
+                        "unitCode": "MTK"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, جوانمردان (اندیشه)",
+                        "latitude": "35.749185221514",
+                        "longitude": "51.28366276427"
+                    },
+                    "url": "https://divar.ir/v/۵۳متری-سالن-نورگیر-فاز1-اندیشه-سراسر-پنجره-خطی-/QaAwOwzz",
+                    "accommodationCategory": "آپارتمان"
+                },
+                {
+                    "web_info": {
+                        "district_persian": "امانیه",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "جردن طاهری 118 متر 2 پارکینگ",
+                        "city_persian": "تهران"
+                    },
+                    "numberOfRooms": "دو",
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, امانیه",
+                        "latitude": "35.780807698956",
+                        "longitude": "51.414880246533"
+                    },
+                    "url": "https://divar.ir/v/جردن-طاهری-118-متر-2-پارکینگ/Aa1vSyKE",
+                    "accommodationCategory": "آپارتمان",
+                    "@type": "Apartment",
+                    "name": "جردن طاهری 118 متر 2 پارکینگ",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/6S5QC1VVSCuXh41q2op4dw/a73f3962-dd57-4972-990b-d694f9711f64.webp",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "118",
+                        "unitCode": "MTK"
+                    },
+                    "@context": "https://schema.org"
+                },
+                {
+                    "name": "۲خوابه ۶۱متر تکواحدی فول امکانات",
+                    "accommodationCategory": "آپارتمان",
+                    "geo": {
+                        "longitude": "51.48124471011304",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, نیروی هوایی (پیروزی)",
+                        "latitude": "35.69210936512489"
+                    },
+                    "url": "https://divar.ir/v/۲خوابه-۶۱متر-تکواحدی-فول-امکانات/Aa8Dp9rE",
+                    "web_info": {
+                        "district_persian": "نیروی هوایی (پیروزی)",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۲خوابه ۶۱متر تکواحدی فول امکانات",
+                        "city_persian": "تهران"
+                    },
+                    "@type": "Apartment",
+                    "numberOfRooms": "دو",
+                    "floorSize": {
+                        "value": "61",
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue"
+                    },
+                    "@context": "https://schema.org",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/NDQGtKWYXrguh9IooeCgXA/66aef079-0b41-4649-88cc-4db86b2d13f1.webp"
+                },
+                {
+                    "name": "آپارتمان ۱۱۰ متری نوساز فول",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/eyb4H0ukdgY3BuUK-9Dn6w/a10b8159-661d-4add-af17-703d1f791ac2.webp",
+                    "geo": {
+                        "latitude": "35.64176559448242",
+                        "longitude": "51.360172271728516",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, زهتابی"
+                    },
+                    "url": "https://divar.ir/v/آپارتمان-۱۱۰-متری-نوساز-فول/Aa_7393y",
+                    "web_info": {
+                        "city_persian": "تهران",
+                        "district_persian": "زهتابی",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "آپارتمان ۱۱۰ متری نوساز فول"
+                    },
+                    "numberOfRooms": "دو",
+                    "@context": "https://schema.org",
+                    "accommodationCategory": "آپارتمان",
+                    "floorSize": {
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue",
+                        "value": "110"
+                    },
+                    "@type": "Apartment"
+                },
+                {
+                    "@type": "Apartment",
+                    "web_info": {
+                        "district_persian": "جوانمردان (اندیشه)",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر",
+                        "city_persian": "تهران"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/wB81AT7QRT15ulUaPmO4Mw/a0c4f7d7-30cc-4694-8fbd-101863920439.webp",
+                    "accommodationCategory": "آپارتمان",
+                    "@context": "https://schema.org",
+                    "floorSize": {
+                        "value": "48",
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue"
+                    },
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, جوانمردان (اندیشه)",
+                        "latitude": "35.7470588684082",
+                        "longitude": "51.27653121948242"
+                    },
+                    "url": "https://divar.ir/v/سرمایه-گذاری-سندتک-برگ-اندیشه-پکیج-رادیات-۴۸متر/Aa3TYHTO",
+                    "name": "سرمایه گذاری*سندتک برگ*اندیشه*پکیج رادیات*۴۸متر",
+                    "numberOfRooms": "یک"
+                },
+                {
+                    "web_info": {
+                        "title": "آپارتمان 105 متری فول سوم نیروهوایی",
+                        "city_persian": "تهران",
+                        "district_persian": "نیروی هوایی (پیروزی)",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/ndDg_gtLrzto6QjVjBSxDQ/2e6a98fc-9627-419c-af03-21e227004735.webp",
+                    "accommodationCategory": "آپارتمان",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "105",
+                        "unitCode": "MTK"
+                    },
+                    "@type": "Apartment",
+                    "name": "آپارتمان 105 متری فول سوم نیروهوایی",
+                    "numberOfRooms": "دو",
+                    "geo": {
+                        "address": "تهران, نیروی هوایی (پیروزی)",
+                        "latitude": "35.69941193684055",
+                        "longitude": "51.48681844465874",
+                        "@type": "GeoCoordinates"
+                    },
+                    "@context": "https://schema.org",
+                    "url": "https://divar.ir/v/آپارتمان-105-متری-فول-سوم-نیروهوایی/Aaw7x13H"
+                },
+                {
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/6jeAu5O9jTuPN01E7-yZVQ/1a47b084-6905-42cc-bb77-76129c913df5.webp",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "135",
+                        "unitCode": "MTK"
+                    },
+                    "web_info": {
+                        "city_persian": "تهران",
+                        "district_persian": "نیروی هوایی (پیروزی)",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی"
+                    },
+                    "numberOfRooms": "سه",
+                    "accommodationCategory": "آپارتمان",
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "name": "۱۳۵ متر ۳ خواب خوش نقشه فول نوساز ششم نیروهوایی",
+                    "geo": {
+                        "longitude": "51.488948932677495",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, نیروی هوایی (پیروزی)",
+                        "latitude": "35.69801824939646"
+                    },
+                    "url": "https://divar.ir/v/۱۳۵-متر-۳-خواب-خوش-نقشه-فول-نوساز-ششم-نیروهوایی/Aa0f8XHE"
+                },
+                {
+                    "name": "۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب",
+                    "@context": "https://schema.org",
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۴۴ متری شهسوار شمالی آسانسوردار قیمت مناسب",
+                        "city_persian": "تهران",
+                        "district_persian": "فلاح"
+                    },
+                    "accommodationCategory": "آپارتمان",
+                    "floorSize": {
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue",
+                        "value": "44"
+                    },
+                    "url": "https://divar.ir/v/۴۴-متری-شهسوار-شمالی-آسانسوردار-قیمت-مناسب/QaAsuvEc",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/yGxe6NDKXTic0PNfSHvndA/ff8da2dd-e837-4e44-ad05-adec4b83ee54.webp",
+                    "numberOfRooms": "یک",
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, فلاح",
+                        "latitude": "35.658852734823",
+                        "longitude": "51.372154433691"
+                    },
+                    "@type": "Apartment"
+                },
+                {
+                    "@context": "https://schema.org",
+                    "name": "۱۷۵ متر مدرن دو قدمی پارک قیطریه",
+                    "geo": {
+                        "latitude": "35.790462493896484",
+                        "longitude": "51.443782806396484",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, قیطریه"
+                    },
+                    "@type": "Apartment",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/iSJTMl0MbuBG3wRyYOmOzQ/ac4b3cc0-e3e1-45e0-bd38-92a0060cd431.webp",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "175",
+                        "unitCode": "MTK"
+                    },
+                    "url": "https://divar.ir/v/۱۷۵-متر-مدرن-دو-قدمی-پارک-قیطریه/Aa4nqqJw",
+                    "web_info": {
+                        "city_persian": "تهران",
+                        "district_persian": "قیطریه",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "۱۷۵ متر مدرن دو قدمی پارک قیطریه"
+                    },
+                    "accommodationCategory": "آپارتمان",
+                    "numberOfRooms": "سه"
+                },
+                {
+                    "accommodationCategory": "آپارتمان",
+                    "geo": {
+                        "address": "تهران, شهرک چیتگر",
+                        "latitude": "35.749233310475",
+                        "longitude": "51.179223707566",
+                        "@type": "GeoCoordinates"
+                    },
+                    "url": "https://divar.ir/v/121-متر-پهنه-c-نزاجا-نارنج-۱-ط-۲۶-جنوبی-منطقه-۲۲/AaMYMk6E",
+                    "@context": "https://schema.org",
+                    "@type": "Apartment",
+                    "name": "121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲",
+                    "floorSize": {
+                        "value": "121",
+                        "unitCode": "MTK",
+                        "@type": "QuantitativeValue"
+                    },
+                    "web_info": {
+                        "title": "121 متر پهنه C نزاجا نارنج ۱ ط ۲۶ جنوبی منطقه ۲۲",
+                        "city_persian": "تهران",
+                        "district_persian": "شهرک چیتگر",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/y7nj5CkZPgOtr2bAnUOGYg/ef37bfcb-0e88-4578-9a1c-ba3b4460ec12.jpg.webp",
+                    "numberOfRooms": "دو"
+                },
+                {
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "50",
+                        "unitCode": "MTK"
+                    },
+                    "name": "آپارتمان ۵۰ متر خوش نقشه",
+                    "accommodationCategory": "آپارتمان",
+                    "@context": "https://schema.org",
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, زهتابی",
+                        "latitude": "35.64209573788",
+                        "longitude": "51.359870848321"
+                    },
+                    "url": "https://divar.ir/v/آپارتمان-۵۰-متر-خوش-نقشه/Aa_zEEO-",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/JcTAzhm10ezy5scHTi7nuw/0928248e-3ecb-4e79-a6cb-ffa324c9c419.webp",
+                    "@type": "Apartment",
+                    "web_info": {
+                        "city_persian": "تهران",
+                        "district_persian": "زهتابی",
+                        "category_slug_persian": "آپارتمان",
+                        "title": "آپارتمان ۵۰ متر خوش نقشه"
+                    },
+                    "numberOfRooms": "یک"
+                },
+                {
+                    "@context": "https://schema.org",
+                    "numberOfRooms": "دو",
+                    "name": "60متر+پذیرایی پنجره خور/سند تکبرگ+پارکینگ/اسانسور",
+                    "geo": {
+                        "longitude": "51.27215739042278",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, جوانمردان (اندیشه)",
+                        "latitude": "35.74983355545294"
+                    },
+                    "url": "https://divar.ir/v/60متر-پذیرایی-پنجره-خور-سند-تکبرگ-پارکینگ-اسانسور/AaGTc0C-",
+                    "web_info": {
+                        "category_slug_persian": "آپارتمان",
+                        "title": "60متر+پذیرایی پنجره خور/سند تکبرگ+پارکینگ/اسانسور",
+                        "city_persian": "تهران",
+                        "district_persian": "جوانمردان (اندیشه)"
+                    },
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/8BmHOxL56_Y_0Fo3rtrNOw/9727ae00-c790-4f26-b54b-f006aa026583.webp",
+                    "accommodationCategory": "آپارتمان",
+                    "@type": "Apartment",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "60",
+                        "unitCode": "MTK"
+                    }
+                },
+                {
+                    "@type": "Apartment",
+                    "name": "146 متر رو به آفتاب ۲ پارکینگ قیطریه",
+                    "image": "https://s100.divarcdn.com/static/photo/neda/webp_thumbnail/Ydf6Qfvg_8a-C8dYPpn2vA/fd302cfa-7150-43b0-8115-9aa0d2912c54.webp",
+                    "numberOfRooms": "دو",
+                    "geo": {
+                        "longitude": "51.443782806396",
+                        "@type": "GeoCoordinates",
+                        "address": "تهران, قیطریه",
+                        "latitude": "35.790462493896"
+                    },
+                    "@context": "https://schema.org",
+                    "web_info": {
+                        "title": "146 متر رو به آفتاب ۲ پارکینگ قیطریه",
+                        "city_persian": "تهران",
+                        "district_persian": "قیطریه",
+                        "category_slug_persian": "آپارتمان"
+                    },
+                    "url": "https://divar.ir/v/146-متر-رو-به-آفتاب-۲-پارکینگ-قیطریه/QaAEuhKZ",
+                    "accommodationCategory": "آپارتمان",
+                    "floorSize": {
+                        "@type": "QuantitativeValue",
+                        "value": "146",
+                        "unitCode": "MTK"
+                    }
+                }
+            ]</script>
+    </body>
+</html>
